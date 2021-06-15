@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "G. M. Shahariar"
+  avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Dhaka, Bangladesh"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=GBaSF7MAAAAJ"
+  email            : "shahariar_shibli.cse@aust.edu"
+  researchgate     : "https://www.researchgate.net/profile/G-Shahariar"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,16 +96,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "shahariar-shibli"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/shahariar-shibli/"
+  orcid            : "https://orcid.org/0000-0001-9757-7663"
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/shahariar-shibli"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
