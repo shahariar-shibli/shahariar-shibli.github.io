@@ -12,6 +12,16 @@ author_profile: true
 
 📌 [<span style="color:red">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) 
 (<span style="color:#6E2C00"><strong>Best Paper Award</strong></span> 🏆)
+[<a href="#" onclick="$('#ecce2023_summary').toggle();return false;">Click to read a short summary!</a>]
+<div id="acl2021_abstract" class="abstract" style="display:none;">
+<span style="text-align:justify; color:black; display:block;"> 
+<font size="3">
+This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
+in which at first a binary classification model is used to determine whether a comment is toxic or not, and then a multi-label classifier is employed to 
+determine which toxicity type the comment belongs to.
+</font>
+</span>
+</div>
 <details>
 <summary><font size="3">Click to read a short summary!</font></summary>
 <span style="text-align:justify; color:black; display:block;"> 
