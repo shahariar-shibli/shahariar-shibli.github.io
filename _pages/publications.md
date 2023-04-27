@@ -53,7 +53,7 @@ author_profile: true
 </div>
 
 <!-- Paper 02 -->
-📌 [<span style="color:Blue">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://www.researchgate.net/publication/369855297_Bengali_Fake_Review_Detection_using_Semi-supervised_Generative_Adversarial_Networks)
+📌 [<span style="color:red">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://www.researchgate.net/publication/369855297_Bengali_Fake_Review_Detection_using_Semi-supervised_Generative_Adversarial_Networks)
 <span style="color:black"><font size="3"><strong>Authors</strong>: Md. Tanvir Rouf Shawon, <strong style="color:green">G. M. Shahariar</strong>, Faisal Muhammad Shah, Mohammad Shafiul Alam, and Md. Shahriar Mahbub</font></span><br>
 <span style="color:black"><font size="3"><strong>Conference:</strong><em> 5th International Conference on Natural Language Processing</em></font> ([ICNLP 2023](http://www.icnlp.net/index.html))</span><br>
 [[<span style ="color:Blue"><font size="3"><strong>arXiv</strong></font></span>](https://arxiv.org/abs/2304.02739)  \|  [<span style ="color:Blue"><font size="3"><strong>Presentation</strong></font></span>](https://shahariar-shibli.github.io/files/ICNLP2023/BFRD-Final.pdf)  \|  [<span style ="color:Blue"><font size="3"><strong>Citation</strong></font></span>](https://shahariar-shibli.github.io/files/ICNLP2023/Bangla-Fake.bib)]
