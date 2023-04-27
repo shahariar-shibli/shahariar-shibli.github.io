@@ -10,7 +10,7 @@ author_profile: true
 ## 2023
 ---------
 <!-- Paper 01 -->
-📌 [<span style="color:Blue">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
+📌 [<span style="color:red">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:blue"><strong>Best Paper Award</strong></span> 🏆)<br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
 </span>
