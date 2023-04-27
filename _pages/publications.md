@@ -14,7 +14,7 @@ author_profile: true
 (<span style="color:#6E2C00"><strong>Best Paper Award</strong></span> 🏆)
 👉 [<a href="#" onclick="$('#ecce2023_summary').toggle();return false;">Click to read a short summary!</a>]
 <div id="ecce2023_summary" class="summary" style="display:none;">
-	<p style="text-align:justify; color:black; display:none;"> 
+	<p style="text-align:justify; color:black;"> 
 		<font size="3">
 			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
 			in which at first a binary classification model is used to determine whether a comment is toxic or not, and then a multi-label classifier is employed to 
