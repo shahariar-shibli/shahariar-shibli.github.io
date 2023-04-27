@@ -14,7 +14,7 @@ author_profile: true
 (<span style="color:#6E2C00"><strong>Best Paper Award</strong></span> 🏆)
 👉 [<a href="#" onclick="$('#ecce2023_summary').toggle();return false;">Click to read a short summary!</a>]
 <div id="ecce2023_summary" class="summary" style="display:none;">
-	<p style="text-align:justify; color:black; display:block;"> 
+	<p style="text-align:justify; color:black; display:none;"> 
 		<font size="3">
 			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
 			in which at first a binary classification model is used to determine whether a comment is toxic or not, and then a multi-label classifier is employed to 
@@ -22,7 +22,6 @@ author_profile: true
 		</font>
 	</p>
 </div>
-
 <span style="color:black"><font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font></span><br>
 <span style="color:black"><font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))</span><br>
 [[<span style ="color:#6E2C00"><font size="3"><strong>PDF</strong></font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)  \|  [<span style ="color:#6E2C00"><font size="3"><strong>Code & Dataset</strong></font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)  \|  [<span style ="color:#6E2C00"><font size="3"><strong>Presentation</strong></font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx) \|  [<span style ="color:#6E2C00"><font size="3"><strong>Citation</strong></font></span>](https://shahariar-shibli.github.io/files/ECCE2023/Toxic-Comment.bib)]
