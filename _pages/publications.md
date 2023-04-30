@@ -10,7 +10,7 @@ author_profile: true
 ## 2023
 ---------
 <!-- Paper 01 -->
-📌 [<span style="color:blue">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:blue"><strong>Best Paper Award</strong></span> 🏆)<br>
+📌 [<span style="color:blue">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
 </span>
@@ -19,7 +19,7 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#ecce2023_summary').toggle();return false;"><font size="3">**Abstract**</font></a>] [[<span style ="color:red"><font size="3">**PDF**</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">**Code & Dataset**</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">**Presentation**</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#ecce2023_summary').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="ecce2023_bib" class="bib" style="display:none;">
 	<pre>
@@ -53,7 +53,7 @@ author_profile: true
 </div>
 
 <!-- Paper 02 -->
-📌 [<span style="color:red">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://www.researchgate.net/publication/369855297_Bengali_Fake_Review_Detection_using_Semi-supervised_Generative_Adversarial_Networks)
+📌 [<span style="color:blue">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://www.researchgate.net/publication/369855297_Bengali_Fake_Review_Detection_using_Semi-supervised_Generative_Adversarial_Networks)<br>
 <span style="color:black"><font size="3"><strong>Authors</strong>: Md. Tanvir Rouf Shawon, <strong style="color:green">G. M. Shahariar</strong>, Faisal Muhammad Shah, Mohammad Shafiul Alam, and Md. Shahriar Mahbub</font></span><br>
 <span style="color:black"><font size="3"><strong>Conference:</strong><em> 5th International Conference on Natural Language Processing</em></font> ([ICNLP 2023](http://www.icnlp.net/index.html))</span><br>
 [[<span style ="color:Blue"><font size="3"><strong>arXiv</strong></font></span>](https://arxiv.org/abs/2304.02739)  \|  [<span style ="color:Blue"><font size="3"><strong>Presentation</strong></font></span>](https://shahariar-shibli.github.io/files/ICNLP2023/BFRD-Final.pdf)  \|  [<span style ="color:Blue"><font size="3"><strong>Citation</strong></font></span>](https://shahariar-shibli.github.io/files/ICNLP2023/Bangla-Fake.bib)]
