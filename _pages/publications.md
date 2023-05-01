@@ -344,7 +344,7 @@ author_profile: true
 		</font>
 	</span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#inreview_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://engrxiv.org/preprint/view/2102/4194)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://docs.google.com/spreadsheets/d/1paQG4X28R7kiV3zYN9Lwa3mJgouXZjqL/edit#gid=785602251)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#inreview_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#inreview_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://engrxiv.org/preprint/view/2102/4194)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://docs.google.com/spreadsheets/d/1paQG4X28R7kiV3zYN9Lwa3mJgouXZjqL/edit#gid=785602251)] [<a style="color:red;" href="#" onclick="$('#inreview_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="inreview_bib" class="bib" style="display:none;">
 	<pre>
@@ -385,19 +385,19 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em> 10th Annual Information Technology, Electronics and Mobile Communication Conference</em></font> ([IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#iemcon2019_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/338071063_Spam_Review_Detection_Using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/IEMCON2019/Spam-Final.pptx)] [<a style="color:red;" href="#" onclick="$('#iemcon2019_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#iemcon2019_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/338071063_Spam_Review_Detection_Using_Deep_Learning)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/IEMCON2019/Spam-Final.pptx)] [<a style="color:red;" href="#" onclick="$('#iemcon2019_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="iemcon2019_bib" class="bib" style="display:none;">
 	<pre>
 		@INPROCEEDINGS{8936148,
-			  author={Shahariar, G. M. and Biswas, Swapnil and Omar, Faiza and Shah, Faisal Muhammad and Binte Hassan, Samiha},
-			  booktitle={2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)}, 
-			  title={Spam Review Detection Using Deep Learning}, 
-			  year={2019},
-			  volume={},
-			  number={},
-			  pages={0027-0033},
-			  doi={10.1109/IEMCON.2019.8936148}
+		  author={Shahariar, G. M. and Biswas, Swapnil and Omar, Faiza and Shah, Faisal Muhammad and Binte Hassan, Samiha},
+		  booktitle={2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)}, 
+		  title={Spam Review Detection Using Deep Learning}, 
+		  year={2019},
+		  volume={},
+		  number={},
+		  pages={0027-0033},
+		  doi={10.1109/IEMCON.2019.8936148}
 		  }
 	</pre>
 </div>
