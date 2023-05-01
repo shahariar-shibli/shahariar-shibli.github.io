@@ -26,7 +26,9 @@ I am passionate about exploring the applications of machine and deep learning in
 🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br>
 🔨 <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span><br>
 🔨 <span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span><br>
-🔨 <span style="color:#6E2C00">Bengali Text Summarization using Text Ranking</span><br>
+🔨 <span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span><br>
 🔨 <span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span><br>
+🔨 <span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning</span><br>
+🔨 <span style="color:#6E2C00">PhyloBERT: Investigating Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span><br>
 🔨 <span style="color:#6E2C00">Bengali Fake News Classification through Summarization and Augmentation using Pre-trained Language Models</span><br>
 
