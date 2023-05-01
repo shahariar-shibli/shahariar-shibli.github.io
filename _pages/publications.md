@@ -388,7 +388,7 @@ author_profile: true
 [<a style="color:red;" href="#" onclick="$('#iemcon2019_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/338071063_Spam_Review_Detection_Using_Deep_Learning)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/IEMCON2019/Spam-Final.pptx)] [<a style="color:red;" href="#" onclick="$('#iemcon2019_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="iemcon2019_bib" class="bib" style="display:none;">
-	<pre style="margin:0">
+	<code>
 		@INPROCEEDINGS{8936148,
 		  author={Shahariar, G. M. and Biswas, Swapnil and Omar, Faiza and Shah, Faisal Muhammad and Binte Hassan, Samiha},
 		  booktitle={2019 IEEE 10th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)}, 
@@ -399,7 +399,7 @@ author_profile: true
 		  pages={0027-0033},
 		  doi={10.1109/IEMCON.2019.8936148}
 		  }
-	</pre>
+	</code>
 </div>
 
 <div id="iemcon2019_abstract" class="abstract" style="display:none;">
