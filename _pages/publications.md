@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2023
 ---------
-<!-- Paper 03 -->
+<!-- Paper 05 -->
 📌 [<span style="color:blue">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
@@ -51,7 +51,7 @@ author_profile: true
 	</p>
 </div>
 
-<!-- Paper 02 -->
+<!-- Paper 04 -->
 📌 [<span style="color:blue">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://www.researchgate.net/publication/369855297_Bengali_Fake_Review_Detection_using_Semi-supervised_Generative_Adversarial_Networks)<br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: Md. Tanvir Rouf Shawon, <strong style="color:green">G. M. Shahariar</strong>, Faisal Muhammad Shah, Mohammad Shafiul Alam, and Md. Shahriar Mahbub</font>
@@ -92,7 +92,7 @@ author_profile: true
 	</p>
 </div>
 
-<!-- Paper 01 --> 
+<!-- Paper 03 --> 
 📌 [<span style="color:Blue">**Effectiveness of Transformer Models on IoT Security Detection in StackOverflow Discussions**</span>](https://link.springer.com/chapter/10.1007/978-981-19-7528-8_10)<br>
 <span style="color:black">
 	<font size="3"><strong>Authors</strong>: Nibir Chandra Mandal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Tanvir Rouf Shawon</font>
@@ -144,7 +144,94 @@ author_profile: true
 		</font>
 	</p>
 </div>
-    
+
+
+<!-- Paper 02 -->
+📌 [<span style="color:Blue">**Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset based on Active Learning**</span>](https://doi.org/10.1007/978-3-031-34622-4_15)<br>
+<span style="color:black">
+	<font size="3"><strong>Authors</strong>: Nazmus Sakib, <strong style="color:green">G. M. Shahariar</strong>, Md. Mohsinul Kabir, Md. Kamrul, and Hasan Mahmud</font>
+</span>
+<br>
+<span style="color:black">
+	<font size="3"><strong>Conference:</strong><em> International Conference on Machine Intelligence and Emerging Technologies</em></font> ([MIET 2022](https://confmiet.org/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#miet2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2303.16778)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://www.kaggle.com/datasets/nazmussakibrupol/3a2m-cooking-recipe-dataset)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/MIET2022/PaperID_462.pdf)] [<a style="color:red;" href="#" onclick="$('#miet2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="miet2022_bib" class="bib" style="display:none;">
+	<pre>
+		@article{sakib2023assorted,
+		  title={Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset based on Active Learning},
+		  author={Sakib, Nazmus and Shahariar, GM and Kabir, Md and Hasan, Md and Mahmud, Hasan and others},
+		  journal={arXiv preprint arXiv:2303.16778},
+		  year={2023}
+		}
+	</pre>
+</div>
+
+<div id="miet2022_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;"> 
+		<font size="3">
+			Cooking recipes allow individuals to exchange culinary ideas and provide food preparation instructions. Due to a lack of 
+			adequate labeled data, categorizing raw recipes found online to the appropriate food genres is a challenging task in this domain. 
+			Utilizing the knowledge of domain experts to categorize recipes could be a solution. In this study, we present a novel dataset 
+			of two million culinary recipes labeled in respective categories leveraging the knowledge of food experts and an active learning 
+			technique. To construct the dataset, we collect the recipes from the RecipeNLG dataset [1]. Then, we employ three human experts 
+			whose trustworthiness score is higher than 86.667% to categorize 300K recipe by their Named Entity Recognition (NER) and assign 
+			it to one of the nine categories: bakery, drinks, non-veg, vegetables, fast food, cereals, meals, sides and fusion. Finally, we 
+			categorize the remaining 1900K recipes using Active Learning method with a blend of Query-by-Committee and Human In The Loop 
+			(HITL) approaches. There are more than two million recipes in our dataset, each of which is categorized and has a confidence 
+			score linked with it. For the 9 genres, the Fleiss Kappa score of this massive dataset is roughly 0.56026. We believe that the 
+			research community can use this dataset to perform various machine learning tasks such as recipe genre classification, recipe 
+			generation of a specific genre, new recipe creation, etc. The dataset can also be used to train and evaluate the performance 
+			of various NLP tasks such as named entity recognition, part-of-speech tagging, semantic role labeling, and so on.
+		</font>
+	</p>
+</div>
+
+<!-- Paper 01 -->
+📌 [<span style="color:Blue">**Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?**</span>](https://doi.org/10.1007/978-3-031-34622-4_18)<br>
+<span style="color:black">
+	<font size="3"><strong>Authors</strong>: Nibir Chandra Mandal, Tashreef Muhammad, and <strong style="color:green">G. M. Shahariar</strong></font>
+</span>
+<br>
+<span style="color:black">
+	<font size="3"><strong>Conference:</strong><em> International Conference on Machine Intelligence and Emerging Technologies</em></font> ([MIET 2022](https://confmiet.org/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#miet2022_2_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2209.12065)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://shahariar-shibli.github.io/files/MIET2022/UddinSOAspect.csv)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/MIET2022/PaperID_371.pptx)] [<a style="color:red;" href="#" onclick="$('#miet2022_2_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="miet2022_2_bib" class="bib" style="display:none;">
+	<pre>
+		@article{mandal2022can,
+		  title={Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?},
+		  author={Mandal, Nibir Chandra and Muhammad, Tashreef and Shahariar, GM},
+		  journal={arXiv preprint arXiv:2209.12065},
+		  year={2022}
+		}
+	</pre>
+</div>
+
+<div id="miet2022_2_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;"> 
+		<font size="3">
+			Dozens of new tools and technologies are being incorporated to help developers, which is becoming a source of consternation 
+			as they struggle to choose one over the others. For example, there are at least ten frameworks available to developers for 
+			developing web applications, posing a conundrum in selecting the best one that meets their needs. As a result, developers 
+			are continuously searching for all of the benefits and drawbacks of each API, framework, tool, and so on. One of the typical 
+			approaches is to examine all of the features through official documentation and discussion. This approach is time-consuming, 
+			often makes it difficult to determine which aspects are the most important to a particular developer and whether a particular 
+			aspect is important to the community at large. In this paper, we have used a benchmark API aspects dataset (Opiner) collected 
+			from StackOverflow posts and observed how Transformer models (BERT, RoBERTa, DistilBERT, and XLNet) perform in detecting 
+			software aspects in textual developer discussion with respect to the baseline Support Vector Machine (SVM) model. Through 
+			extensive experimentation, we have found that transformer models improve the performance of baseline SVM for most of the 
+			aspects, i.e., 'Performance', 'Security', 'Usability', 'Documentation', 'Bug', 'Legal', 'OnlySentiment', and 'Others'. However, 
+			the models fail to apprehend some of the aspects (e.g., 'Community' and 'Potability') and their performance varies depending 
+			on the aspects. Also, larger architectures like XLNet are ineffective in interpreting software aspects compared to smaller 
+			architectures like DistilBERT.
+		</font>
+	</p>
+</div>
 
 ## 2022
 ---------
@@ -236,93 +323,6 @@ author_profile: true
 			proposed method in addition. Experimentally, a significant increase in accuracy has been noticed by boosting 
 			weak learners. Support Vector Machine (SVM) achieved 80.9% accuracy where gradient boosting outperformed the 
 			traditional approach with 82% accuracy while detecting urgent texts in Bengali language.
-		</font>
-	</p>
-</div>
-
-<!-- Paper 02 -->
-📌 [<span style="color:Blue">**Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset based on Active Learning**</span>](https://www.researchgate.net/publication/364384652_Assorted_Archetypal_and_Annotated_Two_Million_3A2M_Cooking_Recipes_Dataset_based_on_Active_Learning)<br>
-<span style="color:black">
-	<font size="3"><strong>Authors</strong>: Nazmus Sakib, <strong style="color:green">G. M. Shahariar</strong>, Md. Mohsinul Kabir, Md. Kamrul, and Hasan Mahmud</font>
-</span>
-<br>
-<span style="color:black">
-	<font size="3"><strong>Conference:</strong><em> International Conference on Machine Intelligence and Emerging Technologies</em></font> ([MIET 2022](https://confmiet.org/))
-</span>
-<br>
-[<a style="color:red;" href="#" onclick="$('#miet2022_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2303.16778)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://www.kaggle.com/datasets/nazmussakibrupol/3a2m-cooking-recipe-dataset)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/MIET2022/PaperID_462.pdf)] [<a style="color:red;" href="#" onclick="$('#miet2022_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
-
-<div id="miet2022_bib" class="bib" style="display:none;">
-	<pre>
-		@article{sakib2023assorted,
-		  title={Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset based on Active Learning},
-		  author={Sakib, Nazmus and Shahariar, GM and Kabir, Md and Hasan, Md and Mahmud, Hasan and others},
-		  journal={arXiv preprint arXiv:2303.16778},
-		  year={2023}
-		}
-	</pre>
-</div>
-
-<div id="miet2022_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
-		<font size="3">
-			Cooking recipes allow individuals to exchange culinary ideas and provide food preparation instructions. Due to a lack of 
-			adequate labeled data, categorizing raw recipes found online to the appropriate food genres is a challenging task in this domain. 
-			Utilizing the knowledge of domain experts to categorize recipes could be a solution. In this study, we present a novel dataset 
-			of two million culinary recipes labeled in respective categories leveraging the knowledge of food experts and an active learning 
-			technique. To construct the dataset, we collect the recipes from the RecipeNLG dataset [1]. Then, we employ three human experts 
-			whose trustworthiness score is higher than 86.667% to categorize 300K recipe by their Named Entity Recognition (NER) and assign 
-			it to one of the nine categories: bakery, drinks, non-veg, vegetables, fast food, cereals, meals, sides and fusion. Finally, we 
-			categorize the remaining 1900K recipes using Active Learning method with a blend of Query-by-Committee and Human In The Loop 
-			(HITL) approaches. There are more than two million recipes in our dataset, each of which is categorized and has a confidence 
-			score linked with it. For the 9 genres, the Fleiss Kappa score of this massive dataset is roughly 0.56026. We believe that the 
-			research community can use this dataset to perform various machine learning tasks such as recipe genre classification, recipe 
-			generation of a specific genre, new recipe creation, etc. The dataset can also be used to train and evaluate the performance 
-			of various NLP tasks such as named entity recognition, part-of-speech tagging, semantic role labeling, and so on.
-		</font>
-	</p>
-</div>
-
-<!-- Paper 01 -->
-📌 [<span style="color:Blue">**Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?**</span>](https://www.researchgate.net/publication/363859059_Can_Transformer_Models_Effectively_Detect_Software_Aspects_in_StackOverflow_Discussion)<br>
-<span style="color:black">
-	<font size="3"><strong>Authors</strong>: Nibir Chandra Mandal, Tashreef Muhammad, and <strong style="color:green">G. M. Shahariar</strong></font>
-</span>
-<br>
-<span style="color:black">
-	<font size="3"><strong>Conference:</strong><em> International Conference on Machine Intelligence and Emerging Technologies</em></font> ([MIET 2022](https://confmiet.org/))
-</span>
-<br>
-[<a style="color:red;" href="#" onclick="$('#miet2022_2_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/abs/2209.12065)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://shahariar-shibli.github.io/files/MIET2022/UddinSOAspect.csv)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/MIET2022/PaperID_371.pptx)] [<a style="color:red;" href="#" onclick="$('#miet2022_2_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
-
-<div id="miet2022_2_bib" class="bib" style="display:none;">
-	<pre>
-		@article{mandal2022can,
-		  title={Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?},
-		  author={Mandal, Nibir Chandra and Muhammad, Tashreef and Shahariar, GM},
-		  journal={arXiv preprint arXiv:2209.12065},
-		  year={2022}
-		}
-	</pre>
-</div>
-
-<div id="miet2022_2_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
-		<font size="3">
-			Dozens of new tools and technologies are being incorporated to help developers, which is becoming a source of consternation 
-			as they struggle to choose one over the others. For example, there are at least ten frameworks available to developers for 
-			developing web applications, posing a conundrum in selecting the best one that meets their needs. As a result, developers 
-			are continuously searching for all of the benefits and drawbacks of each API, framework, tool, and so on. One of the typical 
-			approaches is to examine all of the features through official documentation and discussion. This approach is time-consuming, 
-			often makes it difficult to determine which aspects are the most important to a particular developer and whether a particular 
-			aspect is important to the community at large. In this paper, we have used a benchmark API aspects dataset (Opiner) collected 
-			from StackOverflow posts and observed how Transformer models (BERT, RoBERTa, DistilBERT, and XLNet) perform in detecting 
-			software aspects in textual developer discussion with respect to the baseline Support Vector Machine (SVM) model. Through 
-			extensive experimentation, we have found that transformer models improve the performance of baseline SVM for most of the 
-			aspects, i.e., 'Performance', 'Security', 'Usability', 'Documentation', 'Bug', 'Legal', 'OnlySentiment', and 'Others'. However, 
-			the models fail to apprehend some of the aspects (e.g., 'Community' and 'Potability') and their performance varies depending 
-			on the aspects. Also, larger architectures like XLNet are ineffective in interpreting software aspects compared to smaller 
-			architectures like DistilBERT.
 		</font>
 	</p>
 </div>
