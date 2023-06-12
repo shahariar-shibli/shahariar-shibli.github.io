@@ -3,7 +3,9 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-> I am very passionate about teaching. I try my best. You will find some courses here that I have taught undergraduate students.
+> <p>"When one teaches, two learn" </br>
+&nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
+ 
 
 ## Courses
 
