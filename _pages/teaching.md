@@ -3,8 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-> <p>"When one teaches, two learn" </br>
-&nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
+> <p>"When one teaches, two learn" <br> &nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
  
 
 ## Courses
