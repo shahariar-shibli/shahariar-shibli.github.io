@@ -106,20 +106,16 @@ author_profile: true
 
 <div id="icictd2023_bib" class="bib" style="display:none;">
 	<pre>
-		@InProceedings{10.1007/978-981-19-7528-8_10,
+		@InProceedings{mandalSecurity,
 			author="Mandal, Nibir Chandra
 			and Shahariar, G. M.
 			and Shawon, Md. Tanvir Rouf",
-			editor="Ahmad, Mohiuddin
-			and Uddin, Mohammad Shorif
-			and Jang, Yeong Min",
 			title="Effectiveness of Transformer Models on IoT Security Detection in StackOverflow Discussions",
 			booktitle="Proceedings of International Conference on Information and Communication Technology for Development",
 			year="2023",
 			publisher="Springer Nature Singapore",
 			address="Singapore",
-			pages="125--137",
-			isbn="978-981-19-7528-8"
+			pages="125--137"
 		}
 	</pre>
 </div>
