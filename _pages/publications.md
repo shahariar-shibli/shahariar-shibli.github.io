@@ -160,11 +160,18 @@ author_profile: true
 
 <div id="miet2022_bib" class="bib" style="display:none;">
 	<pre>
-		@article{sakib2023assorted,
-		  title={Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset based on Active Learning},
-		  author={Sakib, Nazmus and Shahariar, GM and Kabir, Md and Hasan, Md and Mahmud, Hasan and others},
-		  journal={arXiv preprint arXiv:2303.16778},
-		  year={2023}
+		@InProceedings{3A2M,
+			author="Sakib, Nazmus
+			and Shahariar, G. M.
+			and Kabir, Md. Mohsinul
+			and Hasan, Md. Kamrul
+			and Mahmud, Hasan",
+			title="Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset Based on Active Learning",
+			booktitle="Machine Intelligence and Emerging Technologies",
+			year="2023",
+			publisher="Springer Nature Switzerland",
+			address="Cham",
+			pages="188--203"
 		}
 	</pre>
 </div>
@@ -203,11 +210,16 @@ author_profile: true
 
 <div id="miet2022_2_bib" class="bib" style="display:none;">
 	<pre>
-		@article{mandal2022can,
-		  title={Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?},
-		  author={Mandal, Nibir Chandra and Muhammad, Tashreef and Shahariar, GM},
-		  journal={arXiv preprint arXiv:2209.12065},
-		  year={2022}
+		@InProceedings{mandal2022can,
+			author="Mandal, Nibir Chandra
+			and Muhammad, Tashreef
+			and Shahariar, G. M.",
+			title="Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?",
+			booktitle="Machine Intelligence and Emerging Technologies",
+			year="2023",
+			publisher="Springer Nature Switzerland",
+			address="Cham",
+			pages="226--241"
 		}
 	</pre>
 </div>
