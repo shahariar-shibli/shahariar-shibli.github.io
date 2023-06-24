@@ -26,7 +26,7 @@ I am passionate about exploring the applications of machine and deep learning in
 🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br>
 🔨 <span style="color:#6E2C00">Bengali Fake News Classification through Summarization and Augmentation using Pre-trained Language Models</span><br>
 🔨 <span style="color:#6E2C00">PhyloBERT: Investigating Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span><br>
-🔨 <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [Under review @ EMNLP 2023](https://2023.emnlp.org/)<br>
+🔨 <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[Under review @ EMNLP 2023]](https://2023.emnlp.org/)<br>
 🔨 <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span> [Under review @ Multimedia Tools and Applications journal]<br>
 🔨 <span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span> [Under review @ 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)]<br>
 🔨 <span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span> [Under review @ International Conference on Big Data, IoT and Machine Learning (BIM 2023)]<br>
