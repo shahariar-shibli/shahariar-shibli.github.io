@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 <!-- M.Sc. -->
-<span style="color:black; font-size:17px"><b><a href="https://cse.buet.ac.bd/" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
+<span style="color:black; font-size:17px"><b><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology</a></b></span><br/>
 Master of Science (M.Sc.) in Computer Science and Engineering <br/>
 Duration: 2021 - present <br/>
 CGPA: <b>3.83/4.00</b> scale <br/>
@@ -32,8 +32,8 @@ GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/fil
 
 # Awards
 ---------------
-🏆 Prime Mister Gold Medal, University Grants Commission of Bangladesh, 2018
-🏆 Dean's List of Honor (Ranked <b>1<sup>st</sup></b>), Ahsanullah University of Science and Technology, 2018
-🏆 Government Scholarship, HSC, Dhaka Board, 2013
-🏆 Government Scholarship, SSC, Dhaka Board, 2011
-🏆 Government Scholarship, JSC, Dhaka Board, 2008
+🏆 Prime Mister Gold Medal, University Grants Commission of Bangladesh, 2018 <br/>
+🏆 Dean's List of Honor (Ranked <b>1<sup>st</sup></b>), Ahsanullah University of Science and Technology, 2018<br/>
+🏆 Government Scholarship, HSC, Dhaka Board, 2013 <br/>
+🏆 Government Scholarship, SSC, Dhaka Board, 2011 <br/>
+🏆 Government Scholarship, JSC, Dhaka Board, 2008 <br/>
