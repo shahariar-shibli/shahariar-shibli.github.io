@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 *I am passionate about exploring the applications of **Machine** and **Deep Learning** in:*<br/>
-<code>
+<code><br/>
 ✔️ Natural Language Processing, Natural Language Generation <br>
 ✔️ NLP Applications, Low Resource Language <br>
 ✔️ Question Answering, Resources and Evaluation, Summarization<br>
@@ -14,7 +14,7 @@ author_profile: true
 ✔️ Software Engineering <br>
 ✔️ Representation Learning, Contrastive Learning <br>
 ✔️ Medical Imaging: Histopathology, Neurology, Oncology 
-</code><br>
+</code><br/>
 
 
 ## Ongoing Works 🚧
