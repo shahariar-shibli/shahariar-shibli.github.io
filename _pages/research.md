@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 I am passionate about exploring the applications of machine and deep learning in:<br>
-✔️ Natural Language Processing, Natural Language Generation <br>
+✔️ Natural Language Processing, Natural Language Generation, NLP Applications <br>
 ✔️ Machine Learning, Deep Learning <br>
-✔️ Model Interpretation & Explainability <br>
+✔️ Question Answering, Resources and Evaluation, Summarization<br>
+✔️ Interpretability, Interactivity and Analysis of Models for NLP <br>
 ✔️ Software Engineering <br>
 ✔️ Representation Learning, Contrastive Learning <br>
 ✔️ Medical Imaging: Histopathology, Neurology, Oncology <br>
@@ -22,7 +23,7 @@ I am passionate about exploring the applications of machine and deep learning in
 🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br>
 
 ## Submitted 📮
-📝 <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span><br>
+📝 <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042)<br>
 
 ## Under Review ⏰
 ⏳ <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[EMNLP 2023]](https://2023.emnlp.org/)<br>
