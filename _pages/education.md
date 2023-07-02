@@ -29,9 +29,8 @@ GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/fil
 Secondary School Certificate (SSC) [[Certificate](https://shahariar-shibli.github.io/files/Education/SSC_Certificate.pdf)] <br/>
 Duration: 2009 - December 2011 <br/>
 GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/files/Education/SSC_Transcript.pdf)] <br/>
----------------
-# Awards
----------------
+
+## Awards
 🏆 Prime Mister Gold Medal, University Grants Commission of Bangladesh, 2018 <br/>
 🏆 Dean's List of Honor (Ranked <b>1<sup>st</sup></b>), Ahsanullah University of Science and Technology, 2018<br/>
 🏆 Government Scholarship, HSC, Dhaka Board, 2013 <br/>
