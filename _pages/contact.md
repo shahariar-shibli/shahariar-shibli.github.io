@@ -12,7 +12,7 @@ author_profile: true
 ## Social Media
 You can find me on [LinkedIn](https://www.linkedin.com/in/shahariar-shibli/).
 
-## Office Address
+## Office
 [Office website](https://aust.edu/cse/faculty_member/mr_g_m_shahariar)
 <address>
 Department of Computer Science and Engineering, <br/> 
