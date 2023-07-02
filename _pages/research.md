@@ -5,16 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-*I am passionate about exploring the applications of **Machine** and **Deep Learning** in:*<br/>
-<code>
-	✔️ Natural Language Processing, Natural Language Generation <br>
-	✔️ NLP Applications, Low Resource Language <br>
-	✔️ Question Answering, Resources and Evaluation, Summarization<br>
-	✔️ Interpretability, Interactivity and Analysis of Models for NLP <br>
-	✔️ Software Engineering <br>
-	✔️ Representation Learning, Contrastive Learning <br>
-	✔️ Medical Imaging: Histopathology, Neurology, Oncology
-</code><br/>
+*I am passionate about exploring the applications of **Machine** and **Deep Learning** in:*<br>
+<code>✔️ Natural Language Processing, Natural Language Generation</code> <br>
+<code>✔️ NLP Applications, Low Resource Language</code> <br>
+<code>✔️ Question Answering, Resources and Evaluation, Summarization</code><br>
+<code>✔️ Interpretability, Interactivity and Analysis of Models for NLP</code> <br>
+<code>✔️ Software Engineering</code> <br>
+<code>✔️ Representation Learning, Contrastive Learning</code> <br>
+<code>✔️ Medical Imaging: Histopathology, Neurology, Oncology</code>
+<br/>
 
 
 ## Ongoing Works 🚧
