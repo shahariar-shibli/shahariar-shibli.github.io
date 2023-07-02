@@ -16,11 +16,11 @@ author_profile: true
 
 
 ## Ongoing Works 🚧
+🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br>
 🔨 <span style="color:#6E2C00">Explainable AI for Medical Imaging: A Deep Learning Approach towards Classification of Cervical Cancer</span><br>
 🔨 <span style="color:#6E2C00">Skin Cancer detection using Explainable AI and Deep Learning</span><br>
 🔨 <span style="color:#6E2C00">An Explainable AI based Oral Squamous Cell Carcinoma Detection System from Histopathological Images using Deep Learning</span><br>
 🔨 <span style="color:#6E2C00">PhyloBERT: Investigating Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span><br>
-🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br>
 
 ## Submitted 📮
 📝 <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042)<br>
