@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 <!-- M.Sc. -->
-<span style="color:black; font-size:17px"><b><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology</a></b></span><br/>
+<span style="color:black; font-size:27px"><b><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology</a></b></span><br/>
 Master of Science (M.Sc.) in Computer Science and Engineering <br/>
 Duration: 2021 - present <br/>
 CGPA: <b>3.83/4.00</b> scale <br/>
