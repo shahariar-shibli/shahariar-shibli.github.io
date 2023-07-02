@@ -9,14 +9,14 @@ author_profile: true
 Master of Science (M.Sc.) in Computer Science and Engineering <br/>
 Duration: 2021 - present <br/>
 CGPA: <b>3.83/4.00</b> scale <br/>
-Supervisor: <a href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a><br/>
+Supervisor: <a style="color:brown;" href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a><br/>
 
 <!-- B.Sc. -->
 <span style="color:black; font-size:20px"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
 Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate](https://shahariar-shibli.github.io/files/Education/BSc_Certificate.pdf)] <br/>
 Duration: 2014 - 2018 <br/>
 CGPA: <b>3.973/4.00</b> scale (Ranked <b>1<sup>st</sup></b>) [[Transcript](https://shahariar-shibli.github.io/files/Education/BSc_Transcript.pdf)] <br/>
-Supervisor: <a href="https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah">Mr. Faisal Muhammad Shah</a><br/>
+Supervisor: <a style="color:brown;" href="https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah">Mr. Faisal Muhammad Shah</a><br/>
 
 <!-- HSC -->
 <span style="color:black; font-size:20px"><b><a href="http://dhakacollege.edu.bd/" target="_blank">Dhaka College</a></b></span><br/>
