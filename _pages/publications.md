@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-> Most recent updates about the publications can be found in my [[<span style ="color:#800080">*Google Scholar*</span>](https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en)  \|  [<span style ="color:#800080">*ResearchGate*</span>](https://www.researchgate.net/profile/G-Shahariar)  \|  [<span style ="color:#800080">*ORCID*</span>](https://orcid.org/0000-0001-9757-7663)  \|  [<span style ="color:#800080">*Scopus*</span>](https://www.scopus.com/authid/detail.uri?authorId=57844100100)  \|  [<span style ="color:#800080">*Semantic Scholar*</span>](https://www.semanticscholar.org/author/G.-M.-Shahariar/100649170)] profile.
+> Most recent updates about the publications can be found in my [<span style ="color:#800080">*Google Scholar*</span>](https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en) profile.
 
 ## 2023
 ---------
