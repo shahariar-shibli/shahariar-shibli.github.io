@@ -154,7 +154,7 @@ genetic combined approaches to computing applications.
 	</ul>
 </details> 
 
-<details>
+<details open>
 	<summary><ins>CSE 4126: Distributed Database Systems Lab 📂</ins></summary>
 	<ul>
 		<li> <a href="https://shahariar-shibli.github.io/files/CSE4126/Slides/4126Slides.zip"><font size="3">Slides</font></a> </li>
