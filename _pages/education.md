@@ -27,7 +27,7 @@ GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/fil
 <!-- SSC -->
 <span style="color:black; font-size:20px"><b><a href="https://iscm.edu.bd/" target="_blank">Ideal School and College</a></b></span><br/>
 Secondary School Certificate (SSC) [[Certificate](https://shahariar-shibli.github.io/files/Education/SSC_Certificate.pdf)] <br/>
-Duration: 2009 - December 2011 <br/>
+Duration: 2009 - 2011 <br/>
 GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/files/Education/SSC_Transcript.pdf)] <br/>
 
 ## Awards
