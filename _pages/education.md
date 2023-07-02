@@ -5,33 +5,12 @@ permalink: /education/
 author_profile: true
 ---
 
-*I am passionate about exploring the applications of **Machine** and **Deep Learning** in:*<br>
-✔️ Natural Language Processing, Natural Language Generation <br>
-✔️ NLP Applications, Low Resource Language <br>
-✔️ Question Answering, Resources and Evaluation, Summarization<br>
-✔️ Interpretability, Interactivity and Analysis of Models for NLP <br>
-✔️ Software Engineering <br>
-✔️ Representation Learning, Contrastive Learning <br>
-✔️ Medical Imaging: Histopathology, Neurology, Oncology <br>
-
-
-## Ongoing Works 🚧
-🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br>
-🔨 <span style="color:#6E2C00">Explainable AI for Medical Imaging: A Deep Learning Approach towards Classification of Cervical Cancer</span><br>
-🔨 <span style="color:#6E2C00">Skin Cancer detection using Explainable AI and Deep Learning</span><br>
-🔨 <span style="color:#6E2C00">An Explainable AI based Oral Squamous Cell Carcinoma Detection System from Histopathological Images using Deep Learning</span><br>
-🔨 <span style="color:#6E2C00">PhyloBERT: Investigating Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span><br>
-
-## Submitted 📮
-📝 <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042)<br>
-
-## Under Review ⏰
-⏳ <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[EMNLP 2023]](https://2023.emnlp.org/)<br>
-⏳ <span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span> [[Knowledge and Information Systems]](https://www.springer.com/journal/10115)<br>
-⏳ <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042)<br>
-⏳ <span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span> [[ASE 2023]](https://conf.researchr.org/track/ase-2023/ase-2023-papers)<br>
-⏳ <span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span> [[BIM 2023]](https://confbim.com/)<br>
-⏳ <span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span> [[BIM 2023]](https://confbim.com/)<br>
-⏳ <span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning</span> [[BIM 2023]](https://confbim.com/)<br>
-
+<br/><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://aust.edu" target="_blank"><font color="brown" size="5">Ahsanullah University of Science and Technology</font></a></b></span><br/>
+    Bachelor of Science (B.Sc.) in Computer Science and Engineering [Certificate](https://shahariar-shibli.github.io/files/Education/B.Sc_Certificate.pdf) <br/>
+    Period of Study: October 2014 - December 2018 <br/>
+    CGPA: <b>3.97/4.00</b> scale [Transcript](https://shahariar-shibli.github.io/files/Education/B.Sc_Transcript.pdf) <br/>
+	Position: Ranked <b>1<sup>st</sup></b> in a class of <b>100</b> students <br/>
+    Thesis Supervisor: <a href="https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah">Mr. Faisal Muhammad Shah</a> <br/>
+<br/>
 
