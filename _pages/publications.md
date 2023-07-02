@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<code>Most recent publication updates can be found on my [<a style ="color:#800080;" href="https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en><em>Google Scholar</em></a>] profile.</code>
+<code>Most recent publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?user=GBaSF7MAAAAJ&hl=en><em>[Google Scholar]</em></a> profile.</code>
 
 ## 2023
 ---------
