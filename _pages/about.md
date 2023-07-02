@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello 👽
+Greetings! 👽
 
 <p style="text-align:justify">I am a graduate student at <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>, 
 where I am doing research on <em>Natural Language Processing</em> under the supervision of <a href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a>.
