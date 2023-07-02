@@ -1,32 +1,37 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
+layout: archive
+title: "Education"
+permalink: /education/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Hello 👽
-
-<p style="text-align:justify">I am a graduate student at <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>, 
-where I am doing research on <em>Natural Language Processing</em> under the supervision of <a href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a>.
-I completed my Bachelor of Science in CSE from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and 
-currently working as a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Senior Lecturer</a> here at the Department of CSE.</p>
-
-<p style="text-align:justify">My area of research focuses on utilizing natural language processing in <em>low-resource language</em> settings, <em>software engineering</em>, 
-and <em>representation learning</em>. Throughout the past few years, I have engaged in several projects focused on <em>text classification</em>, <em>question answering</em>, 
-<em>text summarization</em>, <em>explainable AI</em>, <em>contrastive learning</em> and <em>NLP for software engineering</em>. 
-I am particularly interested in explaining how machine learning models arrive at a specific prediction and 
-enhancing the ability of a model to learn data representation during training.</p>
+*I am passionate about exploring the applications of **Machine** and **Deep Learning** in:*<br>
+✔️ Natural Language Processing, Natural Language Generation <br>
+✔️ NLP Applications, Low Resource Language <br>
+✔️ Question Answering, Resources and Evaluation, Summarization<br>
+✔️ Interpretability, Interactivity and Analysis of Models for NLP <br>
+✔️ Software Engineering <br>
+✔️ Representation Learning, Contrastive Learning <br>
+✔️ Medical Imaging: Histopathology, Neurology, Oncology <br>
 
 
-## Recent News ⚡
-+ <strong>June 2023</strong>: Two papers <span style="color:red">published</span> at <em>[MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, Springer</em>
-+ <strong>February 2023</strong>: One paper <span style="color:red">published</span> at <em>[ECCE 2023](https://webs.cuet.ac.bd/ecce/).</em>
-+ <strong>January 2023</strong>: One paper <span style="color:red">published</span> at <em>[ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), Studies in Autonomic, Data-driven and Industrial Computing (SADIC), Springer Nature.</em>
-+ <strong>January 2023</strong>: One paper <span style="color:blue">accepted</span> at <em>[ICNLP 2023](http://www.icnlp.net/index.html).</em>
-+ <strong>November 2022</strong>: One paper <span style="color:red">published</span> at <em>[Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature.</em>
-+ <strong>October 2022</strong>: One paper <span style="color:red">published</span> at <em>[ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), Lecture Notes in Networks and Systems (LNNS), Springer Nature.</em>
-+ <strong>December 2019</strong>: One Paper <span style="color:red">published</span> at <em>[IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/).</em>
+## Ongoing Works 🚧
+🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br>
+🔨 <span style="color:#6E2C00">Explainable AI for Medical Imaging: A Deep Learning Approach towards Classification of Cervical Cancer</span><br>
+🔨 <span style="color:#6E2C00">Skin Cancer detection using Explainable AI and Deep Learning</span><br>
+🔨 <span style="color:#6E2C00">An Explainable AI based Oral Squamous Cell Carcinoma Detection System from Histopathological Images using Deep Learning</span><br>
+🔨 <span style="color:#6E2C00">PhyloBERT: Investigating Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span><br>
+
+## Submitted 📮
+📝 <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042)<br>
+
+## Under Review ⏰
+⏳ <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[EMNLP 2023]](https://2023.emnlp.org/)<br>
+⏳ <span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span> [[Knowledge and Information Systems]](https://www.springer.com/journal/10115)<br>
+⏳ <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042)<br>
+⏳ <span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span> [[ASE 2023]](https://conf.researchr.org/track/ase-2023/ase-2023-papers)<br>
+⏳ <span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span> [[BIM 2023]](https://confbim.com/)<br>
+⏳ <span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span> [[BIM 2023]](https://confbim.com/)<br>
+⏳ <span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning</span> [[BIM 2023]](https://confbim.com/)<br>
+
+
