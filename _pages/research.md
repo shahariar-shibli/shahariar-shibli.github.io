@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-I am passionate about exploring the applications of machine and deep learning in:<br>
-✔️ Natural Language Processing, Natural Language Generation, NLP Applications <br>
-✔️ Machine Learning, Deep Learning <br>
+I am passionate about exploring the applications of **Machine** and **Deep Learning** in:<br>
+✔️ Natural Language Processing, Natural Language Generation <br>
+✔️ NLP Applications, Low Resource Language <br>
 ✔️ Question Answering, Resources and Evaluation, Summarization<br>
 ✔️ Interpretability, Interactivity and Analysis of Models for NLP <br>
 ✔️ Software Engineering <br>
