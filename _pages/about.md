@@ -15,11 +15,11 @@ where I am doing research on <em>Natural Language Processing</em> under the supe
 I completed my Bachelor of Science in CSE from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and 
 currently working as a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Senior Lecturer</a> here at the Department of CSE.</p>
 
-<p style="text-align:justify">My area of research focuses on utilizing natural language processing in <em>low-resource language</em> settings, <em>software engineering</em>, 
-and <em>representation learning</em>. Throughout the past few years, I have engaged in several projects focused on <em>text classification</em>, <em>question answering</em>, 
-<em>text summarization</em>, <em>explainable AI</em>, <em>contrastive learning</em> and <em>NLP for software engineering</em>. 
+<p style="text-align:justify">My area of research focuses on utilizing natural language processing in <em>low-resource language</em> settings. 
+Throughout the past few years, I have engaged in several projects focused on <em>natural language generation</em>, <em>question answering</em>, 
+<em>summarization</em>, <em>representation learning</em>, <em>NLP applications</em> and <em>software engineering</em>. 
 I am particularly interested in explaining how machine learning models arrive at a specific prediction and 
-enhancing the ability of a model to learn data representation during training.</p>
+enhancing the ability of a model to learn data representation during training. I also find interests in working with <em>medical imaging</em>.</p>
 
 
 ## Recent News ⚡
