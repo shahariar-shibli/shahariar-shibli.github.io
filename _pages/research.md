@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-*I am passionate about exploring the applications of **Machine** and **Deep Learning** in:*<br>
+*I am passionate about exploring the applications of **Machine** and **Deep Learning** in:*<br><br>
 <span style="color:black;">
 <code>✔️ Natural Language Processing, Natural Language Generation</code> <br>
 <code>✔️ NLP Applications, Low Resource Language</code> <br>
