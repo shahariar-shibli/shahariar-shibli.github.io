@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-<span style="color:black;">Feel free to contact regarding any queries. Thank you.</span>
+<code style="color:black;">Feel free to contact regarding any queries. Thank you.</code>
 
 ## Email
 > sshibli745[at]gmail[dot]com (***personal***) <br/>
