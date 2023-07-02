@@ -5,13 +5,14 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Email ✉️
-> sshibli745[at]gmail[dot]com <br/> (***personal***)
+## Email
+> sshibli745[at]gmail[dot]com (***personal***) <br/>
 > shahariar_shibli[dot]cse[at]aust[dot]edu (***official***)
 
+## Social Media
 You can find me on [LinkedIn](https://www.linkedin.com/in/shahariar-shibli/).
 
-## Office Address 🏢
+## Office Address
 [Office website](https://aust.edu/cse/faculty_member/mr_g_m_shahariar)
 <address>
 Department of Computer Science and Engineering, <br/> 
