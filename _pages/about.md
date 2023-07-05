@@ -23,6 +23,7 @@ enhancing the ability of a model to learn data representation during training. I
 
 
 ## Recent News ⚡
++ <strong>July 2023</strong>: Three papers <span style="color:blue">accepted</span> at <em>[BIM 2023](https://confbim.com/).</em>
 + <strong>June 2023</strong>: Two papers <span style="color:red">published</span> at <em>[MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, Springer</em>
 + <strong>February 2023</strong>: One paper <span style="color:red">published</span> at <em>[ECCE 2023](https://webs.cuet.ac.bd/ecce/).</em>
 + <strong>January 2023</strong>: One paper <span style="color:red">published</span> at <em>[ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), Studies in Autonomic, Data-driven and Industrial Computing (SADIC), Springer Nature.</em>
