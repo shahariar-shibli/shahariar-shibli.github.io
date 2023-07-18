@@ -4,12 +4,13 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-<!-- M.Sc. -->
+<!-- M.Sc. 
 <span style="color:black; font-size:20px"><b><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology</a></b></span><br/>
 Master of Science (M.Sc.) in Computer Science and Engineering <br/>
 Duration: 2021 - present <br/>
 CGPA: <b>3.83/4.00</b> scale <br/>
 Supervisor: <a style="color:brown;" href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a><br/>
+-->
 
 <!-- B.Sc. -->
 <span style="color:black; font-size:20px"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
