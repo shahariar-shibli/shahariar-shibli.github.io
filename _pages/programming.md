@@ -5,22 +5,29 @@ permalink: /programming/
 author_profile: true
 ---
 
-<code style="color:black;">Feel free to contact regarding any queries. Thank you.</code>
+## Problem Solving
 
-## Email
-> sshibli745[at]gmail[dot]com (***personal***) <br/>
-> shahariar_shibli[dot]cse[at]aust[dot]edu (***official***)
++ Codeforces: <em>Handle</em>: [zexon][https://codeforces.com/profile/zexon] | [Maximum ratings: 1715]
++ Codechef: <em>Handle</em>: [zexon][https://www.codechef.com/users/zexon] | [Maximum ratings: 1847]  
++ HackerRank: <em>Handle</em>: [zexon][https://www.hackerrank.com/zexon?hr_r=1] | [Maximum ratings: 1842] 
++ UVA Online Judge: <em>Handle</em>: [Shibli007][https://uhunt.onlinejudge.org/id/659594] | [Problems solved: 418]   
++ LightOJ: <em>Handle</em>: [sshibli745][https://lightoj.com/user/sshibli745] | [Problems solved: 104]   
++ Sphere Online Judge: <em>Handle</em>: [zexon][https://www.spoj.com/users/zexon/] | [Problems solved: 34] 
 
-## Social Media
-You can find me on [LinkedIn](https://www.linkedin.com/in/shahariar-shibli/).
+## Programming Contest
 
-## Office
-[Office website](https://aust.edu/cse/faculty_member/mr_g_m_shahariar)
-<address>
-Department of Computer Science and Engineering, <br/> 
-Ahsanullah University of Science and Technology, <br/> 
-141-142 Love Road, Tejgaon Industrial Area, <br/>
-Dhaka - 1208, Bangladesh. 
-</address> 
-<br/>
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3651.5510678078604!2d90.40456818240061!3d23.76338330222376!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c790e6cf50a9%3A0xcae56c17297f85f8!2sAhsanullah%20University%20of%20Science%20and%20Technology!5e0!3m2!1sen!2sbd!4v1682061216525!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    \itemsep0em
+    \item ACM ICPC Dhaka Regional 2016 \textit{(Team: \href{https://algo.codemarshal.org/contests/ICPCDH2016/standings}{AUST\_angurFolTok})} \texttt{\frenchspacing[Place: \textbf{$30^{th}$}]} 
+
+    \item ACM ICPC Dhaka Regional 2017 \textit{(Team: \href{https://algo.codemarshal.org/contests/icpc-dhaka-17/standings}{</AUST\_angurFolTok>})} \texttt{\frenchspacing[Place: \textbf{$37^{th}$}]}
+
+    \item SUB IUPC 2017 \textit{(Team: \href{https://toph.co/c/sub-inter-2017/standings}{AUST\_angurFolTok})} \texttt{\frenchspacing[Place: \textbf{$23^{rd}$}]}
+    
+    \item BUET CSE DAY IUPC 2016 \textit{(Team: \href{https://algo.codemarshal.org/contests/buet-iupc-2016/standings}{AUST\_angurFolTok})} \texttt{\frenchspacing[Place: \textbf{$36^{th}$}]}
+    
+    \item AB Bank IUT 8th ICT Fest 2016 \textit{(Team: \href{https://toph.co/c/iut-ict-fest-8/standings}{AUST\_angurFolTok})} \texttt{\frenchspacing[Place: \textbf{$37^{th}$}]}
+    
+    \item Intra AUST Programming Contest 2016 \textit{(Team: \href{https://toph.co/c/aust-intra-fall-2016/standings}{dhoa\_TulsiPata})} \texttt{\frenchspacing[Place: \textbf{$1^{st}$}]}
+
+    % \item Intra AUST Programming Contest 2015 \textit{(Team: \href{}{Mad Magicians})} \texttt{\frenchspacing[Place: \textbf{$2^{nd}$}]}
+\end{itemize}
