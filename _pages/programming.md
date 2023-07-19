@@ -38,23 +38,25 @@ author_profile: true
 
 ## Programming Contest Coach
 + <span style="color:brown">AUST_Onsluaght</span>
-	- <span>$4_^{th}$ in EDU Inter University Programming Contest</span><span style="font-family:Courier New">[2020]</span>
-	- <span>$20^{th}$ in ICPC Dhaka Regional Online Preliminary Contest</span><span style="font-family:Courier New">[2020]</span>
-	- <span>$51^{st}$ in MIST National Collegiate Programming Contest</span><span style="font-family:Courier New">[2020]</span>
+	- <span>$4^{th}$ in EDU Inter University Programming Contest</span><span style="font-family:Courier New"> [2020]</span>
+	- <span>$20^{th}$ in ICPC Dhaka Regional Online Preliminary Contest</span><span style="font-family:Courier New"> [2020]</span>
+	- <span>$51^{st}$ in MIST National Collegiate Programming Contest</span><span style="font-family:Courier New"> [2020]</span>
 
 + <span style="color:brown">AUST_Griffins</span>
-	- 27th in IUT IUPC 2019 <br>
-	- 67th in MIST IUPC 2019 <br>
-	- 69th in BUET IUPC 2019
+	- $27^{th}$ in IUT IUPC <span style="font-family:Courier New"> [2019]</span>
+	- $67^{th}$ in MIST IUPC <span style="font-family:Courier New"> [2019]</span>
+	- $69^{th}$ in BUET IUPC <span style="font-family:Courier New"> [2019]</span>
 	
 + <span style="color:brown">AUST_Guerrilla</span>
-	- 54th in SUB IUPC 2019 <br>
-	- 71st in MIST National Collegiate Programming Contest 2020
+	- $71^{st}$ in MIST National Collegiate Programming Contest <span style="font-family:Courier New"> [2020]</span>
+	- $54^{th}$ in SUB IUPC <span style="font-family:Courier New"> [2019]</span>
+
 	
 + <span style="color:brown">AUST_Prometheins</span>
-	- 54th in SUB IUPC 2019
+	- $54^{th}$ in SUB IUPC <span style="font-family:Courier New"> [2019]</span>
 
 ## Professional Services
-+ President
-+ Convener
-+ Programming Contest Coordinator
++ <span style="color:brown">President</span>, AUST Programming and Informatics Club (AUSTPIC)<span style="font-family:Courier New">  [2022-Present]</span>
++ <span style="color:brown">Convener</span>, Programming Skill Development Committee, AUST<span style="font-family:Courier New">  [2019-2022]</span>
++ <span style="color:brown">Programming Contest Coordinator</span>, Department of Computer Science and Engineering, AUST<span style="font-family:Courier New">  [2019-2022]</span>
++ <span style="color:brown">Mentor</span>, National Hackathon on Frontier Technologies, Startup Bangladesh, Bangladesh Computer Council, ICT Division <span style="font-family:Courier New">  [2020]</span>
