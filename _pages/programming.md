@@ -15,9 +15,7 @@ author_profile: true
 + <span style="color:brown">Sphere Online Judge: </span> [zexon](https://www.spoj.com/users/zexon/)<span style="font-family:Courier New">  [Problems solved: 34]</span>
 
 ## Programming Contest
-
-    \itemsep0em
-    \item ACM ICPC Dhaka Regional 2016 \textit{(Team: \href{https://algo.codemarshal.org/contests/ICPCDH2016/standings}{AUST\_angurFolTok})} \texttt{\frenchspacing[Place: \textbf{$30^{th}$}]} 
++ <span style="color:brown">ACM ICPC Dhaka Regional 2016 </span> Team: [AUST_angurFolTok](https://algo.codemarshal.org/contests/ICPCDH2016/standings)<span style="font-family:Courier New">  [Place: $30^{th}$]</span>
 
     \item ACM ICPC Dhaka Regional 2017 \textit{(Team: \href{https://algo.codemarshal.org/contests/icpc-dhaka-17/standings}{</AUST\_angurFolTok>})} \texttt{\frenchspacing[Place: \textbf{$37^{th}$}]}
 
