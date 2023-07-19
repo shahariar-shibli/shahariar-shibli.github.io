@@ -38,7 +38,7 @@ author_profile: true
 
 ## Programming Contest Coach
 + <span style="color:brown">AUST_Onsluaght</span>
-	- $4_^{th}$ in EDU Inter University Programming Contest 2020<br>
+	- [$4_^{th}$] in EDU Inter University Programming Contest 2020<br>
 	- 20th in ICPC Dhaka Regional Online Preliminary Contest 2020<br>
 	- 51st in MIST National Collegiate Programming Contest 2020
 
