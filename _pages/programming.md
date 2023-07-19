@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 ## Problem Solving
-
-+ Codeforces: <em>Handle</em>: [zexon][https://codeforces.com/profile/zexon] | [Maximum ratings: 1715]
-+ Codechef: <em>Handle</em>: [zexon][https://www.codechef.com/users/zexon] | [Maximum ratings: 1847]  
-+ HackerRank: <em>Handle</em>: [zexon][https://www.hackerrank.com/zexon?hr_r=1] | [Maximum ratings: 1842] 
-+ UVA Online Judge: <em>Handle</em>: [Shibli007][https://uhunt.onlinejudge.org/id/659594] | [Problems solved: 418]   
-+ LightOJ: <em>Handle</em>: [sshibli745][https://lightoj.com/user/sshibli745] | [Problems solved: 104]   
-+ Sphere Online Judge: <em>Handle</em>: [zexon][https://www.spoj.com/users/zexon/] | [Problems solved: 34] 
++ Codeforces: [Handle]: [zexon](https://codeforces.com/profile/zexon) | [Maximum ratings: 1715]
++ Codechef: [Handle]: [zexon](https://www.codechef.com/users/zexon) | [Maximum ratings: 1847]  
++ HackerRank: [Handle]: [zexon](https://www.hackerrank.com/zexon?hr_r=1) | [Maximum ratings: 1842] 
++ UVA Online Judge: [Handle]: [Shibli007](https://uhunt.onlinejudge.org/id/659594) | [Problems solved: 418]   
++ LightOJ: [Handle]: [sshibli745](https://lightoj.com/user/sshibli745) | [Problems solved: 104]   
++ Sphere Online Judge: [Handle]: [zexon](https://www.spoj.com/users/zexon/) | [Problems solved: 34] 
 
 ## Programming Contest
 
