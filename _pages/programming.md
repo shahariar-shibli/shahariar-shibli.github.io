@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Problem Solving
-+ Codeforces: [Handle]: [zexon](https://codeforces.com/profile/zexon) | [Maximum ratings: 1715]
++ <span style="color:blue">Codeforces: </span>[zexon](https://codeforces.com/profile/zexon) <span style="font-family:Courier New">[Maximum ratings: 1715]</span>
 + Codechef: [Handle]: [zexon](https://www.codechef.com/users/zexon) | [Maximum ratings: 1847]  
 + HackerRank: [Handle]: [zexon](https://www.hackerrank.com/zexon?hr_r=1) | [Maximum ratings: 1842] 
 + UVA Online Judge: [Handle]: [Shibli007](https://uhunt.onlinejudge.org/id/659594) | [Problems solved: 418]   
