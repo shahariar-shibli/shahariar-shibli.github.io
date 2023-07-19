@@ -11,7 +11,7 @@ redirect_from:
 <iframe src="/files/CV/CV-of-Shibli.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 <br>
-<span style="color:black; font-family:Courier New;">Feel free to contact regarding any queries.</span>
+<span style="color:red; font-family:Courier New;">Feel free to contact regarding any queries.</span>
 
 ## Email
 + sshibli745[at]gmail[dot]com (***personal***) <br/>
