@@ -6,11 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<span style="color:black;">You can download a pdf copy of my <a href="../files/CV/CV-of-Shibli.pdf">[CV]</a> <span style ="color:DarkSlateGray"> [Last updated on October 18, 2022] </span></span>
+<span style="color:black;">You can download a pdf copy of my <a href="../files/CV/CV-of-Shibli.pdf">[CV]</a></span><span style="color:DarkSlateGray">   [Last updated on October 18, 2022] </span>
 
 <iframe src="/files/CV/CV-of-Shibli.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-<span style="color:black;">Feel free to contact regarding any queries. Thank you.</span>
+<br>
+<span style="color:black;">Feel free to contact regarding any queries.</span>
 
 ## Email
 + sshibli745[at]gmail[dot]com (***personal***) <br/>
