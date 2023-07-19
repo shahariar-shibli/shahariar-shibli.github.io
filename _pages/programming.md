@@ -33,8 +33,8 @@ author_profile: true
 + <span style="color:brown">CodeWare Intra AUST Programming Contest</span><span style="font-family:Courier New"> [Spring 2018]</span>
 
 ## Programming Contest Trainer
-+ <span style="color:brown">ACM Lab 01, AUST  </span><span style="font-family:Courier New">[2019-2022]</span>
-+ <span style="color:brown">ACM Lab 02, AUST  </span><span style="font-family:Courier New">[2019-2022]</span>
++ <span style="color:brown">ACM Lab 01, Department of CSE, AUST  </span><span style="font-family:Courier New">[2019-2022]</span>
++ <span style="color:brown">ACM Lab 02, Department of CSE, AUST  </span><span style="font-family:Courier New">[2019-2022]</span>
 
 ## Programming Contest Coach
 + <span style="color:brown">AUST_Onsluaght</span>
@@ -62,6 +62,6 @@ author_profile: true
 
 ## Professional Services
 + <span style="color:brown">President</span>, AUST Programming and Informatics Club (AUSTPIC)<span style="font-family:Courier New">  [2022-Present]</span>
-+ <span style="color:brown">Convener</span>, Programming Skill Development Committee, AUST<span style="font-family:Courier New">  [2019-2022]</span>
++ <span style="color:brown">Convener</span>, Programming Skill Development Committee, Department of CSE, AUST<span style="font-family:Courier New">  [2019-2022]</span>
 + <span style="color:brown">Programming Contest Coordinator</span>, Department of Computer Science and Engineering, AUST<span style="font-family:Courier New">  [2019-2022]</span>
 + <span style="color:brown">Mentor</span>, National Hackathon on Frontier Technologies, Startup Bangladesh, Bangladesh Computer Council, ICT Division <span style="font-family:Courier New">  [2020]</span>
