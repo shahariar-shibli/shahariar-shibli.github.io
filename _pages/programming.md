@@ -7,11 +7,11 @@ author_profile: true
 
 ## Problem Solving
 + <span style="color:brown">Codeforces: </span>[zexon](https://codeforces.com/profile/zexon) <span style="font-family:Courier New">[Maximum ratings: 1715]</span>
-+ Codechef: [Handle]: [zexon](https://www.codechef.com/users/zexon) | [Maximum ratings: 1847]  
-+ HackerRank: [Handle]: [zexon](https://www.hackerrank.com/zexon?hr_r=1) | [Maximum ratings: 1842] 
-+ UVA Online Judge: [Handle]: [Shibli007](https://uhunt.onlinejudge.org/id/659594) | [Problems solved: 418]   
-+ LightOJ: [Handle]: [sshibli745](https://lightoj.com/user/sshibli745) | [Problems solved: 104]   
-+ Sphere Online Judge: [Handle]: [zexon](https://www.spoj.com/users/zexon/) | [Problems solved: 34] 
++ <span style="color:brown">Codechef: </span>[zexon](https://www.codechef.com/users/zexon) <span style="font-family:Courier New">[Maximum ratings: 1847]</span>
++ <span style="color:brown">HackerRank: </span>[zexon](https://www.hackerrank.com/zexon?hr_r=1) <span style="font-family:Courier New">[Maximum ratings: 1842]</span>
++ <span style="color:brown">UVA Online Judge: </span>[Shibli007](https://uhunt.onlinejudge.org/id/659594) <span style="font-family:Courier New">[Problems solved: 418]</span>
++ <span style="color:brown">LightOJ: </span>[sshibli745](https://lightoj.com/user/sshibli745)<span style="font-family:Courier New">[Problems solved: 104]</span>  
++ <span style="color:brown">Sphere Online Judge: </span>[zexon](https://www.spoj.com/users/zexon/)<span style="font-family:Courier New">[Problems solved: 34]</span>
 
 ## Programming Contest
 
