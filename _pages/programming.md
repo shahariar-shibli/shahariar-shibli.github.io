@@ -38,8 +38,11 @@ author_profile: true
 
 ## Programming Contest Coach
 + <span style="color:brown">AUST_Onsluaght</span>
-	- <span>$4^{th}$ in EDU Inter University Programming Contest</span><span style="font-family:Courier New"> [2020]</span>
+	- <span>$31^{st}$ in RUET CSE Fest</span><span style="font-family:Courier New"> [2022]</span>
+	- <span>$29^{th}$ in ICPC Asia Dhaka Regional Contest</span><span style="font-family:Courier New"> [2021]</span>
+	- <span>$23^{rd}$ in ICPC Asia Dhaka Regional Contest</span><span style="font-family:Courier New"> [2020]</span>
 	- <span>$20^{th}$ in ICPC Dhaka Regional Online Preliminary Contest</span><span style="font-family:Courier New"> [2020]</span>
+	- <span>$4^{th}$ in EDU Inter University Programming Contest</span><span style="font-family:Courier New"> [2020]</span>
 	- <span>$51^{st}$ in MIST National Collegiate Programming Contest</span><span style="font-family:Courier New"> [2020]</span>
 
 + <span style="color:brown">AUST_Griffins</span>
@@ -51,9 +54,11 @@ author_profile: true
 	- $71^{st}$ in MIST National Collegiate Programming Contest <span style="font-family:Courier New"> [2020]</span>
 	- $54^{th}$ in SUB IUPC <span style="font-family:Courier New"> [2019]</span>
 
-	
 + <span style="color:brown">AUST_Prometheins</span>
 	- $54^{th}$ in SUB IUPC <span style="font-family:Courier New"> [2019]</span>
+
++ <span style="color:brown">AUST_Mercenaries</span>
+	- $19^{th}$ in Cefalo CodeFiesta AUST IUPC <span style="font-family:Courier New"> [2022]</span>
 
 ## Professional Services
 + <span style="color:brown">President</span>, AUST Programming and Informatics Club (AUSTPIC)<span style="font-family:Courier New">  [2022-Present]</span>
