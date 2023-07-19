@@ -32,10 +32,10 @@ Duration: 2009 - 2011 <br/>
 GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/files/Education/SSC_Transcript.pdf)] <br/>
 
 ## Awards
-🏆 Prime Minister Gold Medal, University Grants Commission of Bangladesh, 2018 <br/>
-🏆 Khan Bahadur Ahsanullah Gold Medal, Ahsanullah University of Science and Technology, 2023 <br/>
-🏆 Best Paper Award, 2023 International Conference on Electrical, Computer and Communication Engineering (ECCE) <br/>
-🏆 Dean's List of Honor (Ranked <b>1<sup>st</sup></b>), Ahsanullah University of Science and Technology, 2018<br/>
-🏆 Government Scholarship, HSC, Dhaka Board, 2013 <br/>
-🏆 Government Scholarship, SSC, Dhaka Board, 2011 <br/>
-🏆 Government Scholarship, JSC, Dhaka Board, 2008 <br/>
+🏆 <span style="color:brown">Prime Minister Gold Medal</span>, University Grants Commission of Bangladesh, 2018 <br/>
+🏆 <span style="color:brown">Khan Bahadur Ahsanullah Gold Medal</span>, Ahsanullah University of Science and Technology, 2023 <br/>
+🏆 <span style="color:brown">Best Paper Award</span>, 2023 International Conference on Electrical, Computer and Communication Engineering (ECCE) <br/>
+🏆 <span style="color:brown">Dean's List of Honor (Ranked <b>1<sup>st</sup></b>)</span>, Ahsanullah University of Science and Technology, 2018<br/>
+🏆 <span style="color:brown">Government Scholarship</span>, HSC, Dhaka Board, 2013 <br/>
+🏆 <span style="color:brown">Government Scholarship</span>, SSC, Dhaka Board, 2011 <br/>
+🏆 <span style="color:brown">Government Scholarship</span>, JSC, Dhaka Board, 2008 <br/>
