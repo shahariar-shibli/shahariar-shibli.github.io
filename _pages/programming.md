@@ -26,11 +26,11 @@ author_profile: true
 + <span style="color:brown">Intra AUST Programming Contest Fall 2015 -</span> Team: [Anonymous]()<span style="font-family:Courier New"> - [Place: $2^{nd}$]</span>
 
 ## Problem Setter & Judge 
-+ <span style="color:brown">CodeWare Intra AUST Programming Contest Spring 2018</span>
-+ <span style="color:brown">CodeWare Intra AUST Programming Contest Spring 2019</span>
-+ <span style="color:brown">Intra Aust Programming Contest Fall 2018</span>
-+ <span style="color:brown">AUST Game of Codes Fall 2019</span>
-+ <span style="color:brown">Intra Aust Programming Contest Spring 2020</span>
++ <span style="color:brown">Intra Aust Programming Contest</span><span style="font-family:Courier New"> [Spring 2020]</span>
++ <span style="color:brown">AUST Game of Codes</span><span style="font-family:Courier New"> [Fall 2019]</span>
++ <span style="color:brown">CodeWare Intra AUST Programming Contest</span><span style="font-family:Courier New"> [Spring 2019]</span>
++ <span style="color:brown">Intra Aust Programming Contest</span><span style="font-family:Courier New"> [Fall 2018]</span>
++ <span style="color:brown">CodeWare Intra AUST Programming Contest</span><span style="font-family:Courier New"> [Spring 2018]</span>
 
 ## Programming Contest Trainer
 + <span style="color:brown">ACM Lab 01, AUST  </span><span style="font-family:Courier New">[2019-2022]</span>
@@ -38,9 +38,9 @@ author_profile: true
 
 ## Programming Contest Coach
 + <span style="color:brown">AUST_Onsluaght</span>
-	- [$4_^{th}$] in EDU Inter University Programming Contest 2020<br>
-	- 20th in ICPC Dhaka Regional Online Preliminary Contest 2020<br>
-	- 51st in MIST National Collegiate Programming Contest 2020
+	- <span>$4_^{th}$ in EDU Inter University Programming Contest</span><span style="font-family:Courier New">[2020]</span>
+	- <span>$20^{th}$ in ICPC Dhaka Regional Online Preliminary Contest</span><span style="font-family:Courier New">[2020]</span>
+	- <span>$51^{st}$ in MIST National Collegiate Programming Contest</span><span style="font-family:Courier New">[2020]</span>
 
 + <span style="color:brown">AUST_Griffins</span>
 	- 27th in IUT IUPC 2019 <br>
@@ -54,3 +54,7 @@ author_profile: true
 + <span style="color:brown">AUST_Prometheins</span>
 	- 54th in SUB IUPC 2019
 
+## Professional Services
++ President
++ Convener
++ Programming Contest Coordinator
