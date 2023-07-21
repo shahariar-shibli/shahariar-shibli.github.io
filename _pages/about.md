@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="color:black">Greetings! 👽</span>
 
-<p style="text-align:justify; color:black; font-family:Courier New">I am currently employed as a senior lecturer at the Department of CSE, 
+<p style="text-align:justify; color:black; font-family:Monaco">I am currently employed as a senior lecturer at the Department of CSE, 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
 Engineering from the same university. My career aspiration is to become a scientist and work in leading AI research laboratories. 
 I am particularly interested in developing NLP solutions for processing human languages, with a focus on languages that have limited 
