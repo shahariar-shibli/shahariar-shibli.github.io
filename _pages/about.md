@@ -23,10 +23,10 @@ resources. I find enjoyment in competitive programming and have managed to solve
 abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
 a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
 NLP techniques. My main goal is to pioneer innovative approaches that tackle this scarcity of labeled data and resources in 
-Bengali NLP, covering areas like natural language generation, summarization, question answering (QA), and interpretability of 
-language models. I intend to utilize cutting-edge techniques like generative and contrastive learning to improve language generation 
-and representation learning for Bengali. Additionally, I've also applied natural language processing in specific software engineering 
-(SE) tasks.
+Bengali NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
+and <em>interpretability of language models</em>. I intend to utilize cutting-edge techniques like <em>generative</em> and 
+<em>contrastive learning</em> to improve language generation and <em>representation learning</em> for Bengali. 
+Additionally, I've also applied natural language processing in specific <em>software engineering (SE)</em> tasks.
 </p>
 
 <p style="text-align:justify;color:black; font-family:Monaco">
