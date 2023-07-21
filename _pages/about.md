@@ -8,25 +8,71 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:black">Greetings! 👽</span>
+<span style="color:black; font-family:Monaco">Greetings! 👽</span>
 
-<p style="text-align:justify; color:black; font-family:Monaco">I am currently employed as a senior lecturer at the Department of CSE, 
+<p style="text-align:justify; color:black; font-family:Monaco">I am currently employed as 
+a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Senior Lecturer</a> at the Department of CSE, 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
 Engineering from the same university. My career aspiration is to become a scientist and work in leading AI research laboratories. 
 I am particularly interested in developing NLP solutions for processing human languages, with a focus on languages that have limited 
 resources. I find enjoyment in competitive programming and have managed to solve over 1000 problems on various online judges.</p>
 
 
-<p style="text-align:justify">I am a graduate student at <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>, 
-where I am doing research on <em>Memory Efficient Retriever Augmented Open-Domain Question Answering Through Web Search and Summarization</em> under the supervision of <a href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a>.
-I completed my Bachelor of Science in CSE from <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a> and 
-currently working as a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Senior Lecturer</a> here at the Department of CSE.</p>
+<p style="text-align:justify;color:black; font-family:Georgia">
+*Research*. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
+abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
+a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
+NLP techniques. My main goal is to pioneer innovative approaches that tackle this scarcity of labeled data and resources in 
+Bengali NLP, covering areas like natural language generation, summarization, question answering (QA), and interpretability of 
+language models. I intend to utilize cutting-edge techniques like generative and contrastive learning to improve language generation 
+and representation learning for Bengali. Additionally, I've also applied natural language processing in specific software engineering 
+(SE) tasks.
+</p>
 
-<p style="text-align:justify">My area of research focuses on utilizing natural language processing in <em>low-resource language</em> settings. 
-Throughout the past few years, I have engaged in several projects focused on <em>natural language generation</em>, <em>question answering</em>, 
-<em>summarization</em>, <em>representation learning</em>, <em>NLP applications</em> and <em>software engineering</em>. 
-I am particularly interested in explaining how machine learning models arrive at a specific prediction and 
-enhancing the ability of a model to learn data representation during training. I also find interests in working with <em>medical imaging</em>.</p>
+
+<p style="text-align:justify;color:black; font-family:Times">
+*Research*. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
+abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
+a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
+NLP techniques. My main goal is to pioneer innovative approaches that tackle this scarcity of labeled data and resources in 
+Bengali NLP, covering areas like natural language generation, summarization, question answering (QA), and interpretability of 
+language models. I intend to utilize cutting-edge techniques like generative and contrastive learning to improve language generation 
+and representation learning for Bengali. Additionally, I've also applied natural language processing in specific software engineering 
+(SE) tasks.
+</p>
+
+<p style="text-align:justify;color:black; font-family:Calisto MT">
+*Research*. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
+abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
+a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
+NLP techniques. My main goal is to pioneer innovative approaches that tackle this scarcity of labeled data and resources in 
+Bengali NLP, covering areas like natural language generation, summarization, question answering (QA), and interpretability of 
+language models. I intend to utilize cutting-edge techniques like generative and contrastive learning to improve language generation 
+and representation learning for Bengali. Additionally, I've also applied natural language processing in specific software engineering 
+(SE) tasks.
+</p>
+
+<p style="text-align:justify;color:black; font-family:Garamond">
+*Research*. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
+abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
+a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
+NLP techniques. My main goal is to pioneer innovative approaches that tackle this scarcity of labeled data and resources in 
+Bengali NLP, covering areas like natural language generation, summarization, question answering (QA), and interpretability of 
+language models. I intend to utilize cutting-edge techniques like generative and contrastive learning to improve language generation 
+and representation learning for Bengali. Additionally, I've also applied natural language processing in specific software engineering 
+(SE) tasks.
+</p>
+
+<p style="text-align:justify;color:black; font-family:Verdana">
+*Research*. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
+abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
+a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
+NLP techniques. My main goal is to pioneer innovative approaches that tackle this scarcity of labeled data and resources in 
+Bengali NLP, covering areas like natural language generation, summarization, question answering (QA), and interpretability of 
+language models. I intend to utilize cutting-edge techniques like generative and contrastive learning to improve language generation 
+and representation learning for Bengali. Additionally, I've also applied natural language processing in specific software engineering 
+(SE) tasks.
+</p>
 
 
 ## Recent News ⚡
