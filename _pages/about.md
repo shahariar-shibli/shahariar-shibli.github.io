@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! 👽
+<span style="color:black">Greetings! 👽</span>
+
+<p style="text-align:justify; color:black; font-family:Courier New">I am currently employed as a senior lecturer at the Department of CSE, 
+<a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
+Engineering from the same university. My career aspiration is to become a scientist and work in leading AI research laboratories. 
+I am particularly interested in developing NLP solutions for processing human languages, with a focus on languages that have limited 
+resources. I find enjoyment in competitive programming and have managed to solve over 1000 problems on various online judges.</p>
+
 
 <p style="text-align:justify">I am a graduate student at <a href="https://www.buet.ac.bd/">Bangladesh University of Engineering and Technology</a>, 
 where I am doing research on <em>Memory Efficient Retriever Augmented Open-Domain Question Answering Through Web Search and Summarization</em> under the supervision of <a href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a>.
