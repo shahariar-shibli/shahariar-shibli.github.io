@@ -29,6 +29,21 @@ and representation learning for Bengali. Additionally, I've also applied natural
 (SE) tasks.
 </p>
 
+<p style="text-align:justify;color:black; font-family:Monaco">
+<b>Collaboration</b>.  In my research journey, I've recognized the importance of collaboration. Alongside my B.Sc. supervisor and 
+colleagues, I've worked with researchers from various institutes. Notable collaborations include 
+<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Gias Uddin</a> and 
+<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Anindya Iqbal</a> on an accepted SE paper for ASE 2023. I also 
+had the privilege of working with <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Hasanul Kabir</a> on a Bengali toxic 
+comments classification paper that received the best paper award in ECCE 2023. Additionally, 
+<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Hasan Mahmud</a> and I collaborated on two papers related to the 
+semi-supervised recipe genre categorization task. Currently, I am actively engaged with 
+<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Rifat Shahriyar</a> in exploring knowledge augmentation for open 
+domain question answering. Moreover, I have made significant contributions to a funded project involving 
+<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Shahriar Mahbub</a>, co-authoring one paper and being the first 
+author on another, focused on Bengali fake review dataset preparation and benchmark classification systems development.
+</p>
+
 
 ## Recent News ⚡
 1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers).
