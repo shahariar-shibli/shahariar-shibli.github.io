@@ -47,13 +47,13 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 ## Recent News ⚡
 <span style="font-family:Calisto MT; color:black;">
-1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers).
-2. <span style="color:brown">[July 2023]</span> - Three papers got accepted at [BIM 2023](https://confbim.com/).
-3. <span style="color:brown">[June 2023]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer.
-4. <span style="color:brown">[February 2023]</span> -  One paper got published at [ECCE 2023](https://webs.cuet.ac.bd/ecce/).
-5. <span style="color:brown">[January 2023]</span> -  One paper got published at [ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), SADIC, Springer Nature.
-6. <span style="color:brown">[January 2023]</span> -  One paper got accepted at [ICNLP 2023](http://www.icnlp.net/index.html).
-7. <span style="color:brown">[November 2022]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature.
-8. <span style="color:brown">[October 2022]</span> -  One paper got published at [ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), LNNS, Springer Nature.
-9. <span style="color:brown">[December 2019]</span> -  One paper got published at [IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/).
+1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers). <br/>
+2. <span style="color:brown">[July 2023]</span> - Three papers got accepted at [BIM 2023](https://confbim.com/). <br/>
+3. <span style="color:brown">[June 2023]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer. <br/>
+4. <span style="color:brown">[February 2023]</span> -  One paper got published at [ECCE 2023](https://webs.cuet.ac.bd/ecce/). <br/>
+5. <span style="color:brown">[January 2023]</span> -  One paper got published at [ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), SADIC, Springer Nature. <br/>
+6. <span style="color:brown">[January 2023]</span> -  One paper got accepted at [ICNLP 2023](http://www.icnlp.net/index.html). <br/>
+7. <span style="color:brown">[November 2022]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature. <br/>
+8. <span style="color:brown">[October 2022]</span> -  One paper got published at [ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), LNNS, Springer Nature. <br/>
+9. <span style="color:brown">[December 2019]</span> -  One paper got published at [IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/). <br/>
 </span>
