@@ -36,7 +36,7 @@ author_profile: true
 </div>
 
 <div id="ecce2023_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;font-family:Trebuchet MS;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
 			in which at first a binary classification model is used to determine whether a comment is toxic or not, 
@@ -52,12 +52,12 @@ author_profile: true
 </div>
 
 <!-- Paper 04 -->
-📌 [<span style="color:blue">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://www.researchgate.net/publication/369855297_Bengali_Fake_Review_Detection_using_Semi-supervised_Generative_Adversarial_Networks)<br>
-<span style="color:black">
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://www.researchgate.net/publication/369855297_Bengali_Fake_Review_Detection_using_Semi-supervised_Generative_Adversarial_Networks)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Md. Tanvir Rouf Shawon, <strong style="color:green">G. M. Shahariar</strong>, Faisal Muhammad Shah, Mohammad Shafiul Alam, and Md. Shahriar Mahbub</font>
 </span>
 <br>
-<span style="color:black">
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em> 5th International Conference on Natural Language Processing</em></font> ([ICNLP 2023](http://www.icnlp.net/index.html))
 </span>
 <br>
@@ -75,7 +75,7 @@ author_profile: true
 </div>
 
 <div id="icnlp2023_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			This paper investigates the potential of semi-supervised Generative Adversarial Networks (GANs) to fine-tune pretrained language 
 			models in order to classify Bengali fake reviews from real reviews with a few annotated data. With the rise of social media and e-commerce, 
@@ -93,12 +93,12 @@ author_profile: true
 </div>
 
 <!-- Paper 03 --> 
-📌 [<span style="color:Blue">**Effectiveness of Transformer Models on IoT Security Detection in StackOverflow Discussions**</span>](https://link.springer.com/chapter/10.1007/978-981-19-7528-8_10)<br>
-<span style="color:black">
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Effectiveness of Transformer Models on IoT Security Detection in StackOverflow Discussions**</span>](https://link.springer.com/chapter/10.1007/978-981-19-7528-8_10)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Nibir Chandra Mandal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Tanvir Rouf Shawon</font>
 </span>
 <br>
-<span style="color:black">
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em> International Conference on Information and Communication Technology for Development</em></font> ([ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8))
 </span>
 <br>
@@ -121,7 +121,7 @@ author_profile: true
 </div>
 
 <div id="icictd2023_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			The Internet of Things (IoT) is an emerging concept that directly links to the billions of physical items, or “things” 
 			that are connected to the Internet and are all gathering and exchanging information between devices and systems. However, 
@@ -143,12 +143,12 @@ author_profile: true
 
 
 <!-- Paper 02 -->
-📌 [<span style="color:Blue">**Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset based on Active Learning**</span>](https://doi.org/10.1007/978-3-031-34622-4_15)<br>
-<span style="color:black">
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset based on Active Learning**</span>](https://doi.org/10.1007/978-3-031-34622-4_15)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Nazmus Sakib, <strong style="color:green">G. M. Shahariar</strong>, Md. Mohsinul Kabir, Md. Kamrul, and Hasan Mahmud</font>
 </span>
 <br>
-<span style="color:black">
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em> International Conference on Machine Intelligence and Emerging Technologies</em></font> ([MIET 2022](https://confmiet.org/))
 </span>
 <br>
@@ -173,7 +173,7 @@ author_profile: true
 </div>
 
 <div id="miet2022_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			Cooking recipes allow individuals to exchange culinary ideas and provide food preparation instructions. Due to a lack of 
 			adequate labeled data, categorizing raw recipes found online to the appropriate food genres is a challenging task in this domain. 
@@ -193,12 +193,12 @@ author_profile: true
 </div>
 
 <!-- Paper 01 -->
-📌 [<span style="color:Blue">**Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?**</span>](https://doi.org/10.1007/978-3-031-34622-4_18)<br>
-<span style="color:black">
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?**</span>](https://doi.org/10.1007/978-3-031-34622-4_18)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Nibir Chandra Mandal, Tashreef Muhammad, and <strong style="color:green">G. M. Shahariar</strong></font>
 </span>
 <br>
-<span style="color:black">
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em> International Conference on Machine Intelligence and Emerging Technologies</em></font> ([MIET 2022](https://confmiet.org/))
 </span>
 <br>
@@ -221,7 +221,7 @@ author_profile: true
 </div>
 
 <div id="miet2022_2_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			Dozens of new tools and technologies are being incorporated to help developers, which is becoming a source of consternation 
 			as they struggle to choose one over the others. For example, there are at least ten frameworks available to developers for 
@@ -244,12 +244,12 @@ author_profile: true
 ## 2022
 ---------
 <!-- Paper 02 -->
-📌 [<span style="color:Blue">**Automatic back transliteration of Romanized Bengali (Banglish) to Bengali**</span>](https://link.springer.com/article/10.1007/s42044-022-00122-9)<br>
-<span style="color:black">
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Automatic back transliteration of Romanized Bengali (Banglish) to Bengali**</span>](https://link.springer.com/article/10.1007/s42044-022-00122-9)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar Shibli</strong>, Md. Tanvir Rouf Shawon, Anik Hassan Nibir, Md. Zabed Miandad, and Nibir Chandra Mandal</font>
 </span>
 <br>
-<span style="color:black">
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Journal:</strong><em> Iran Journal of Computer Science</em></font> ([Iran J Comput Sci](https://www.springer.com/journal/42044))
 </span>
 <br>
@@ -269,7 +269,7 @@ author_profile: true
 </div>
 
 <div id="iran2022_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			Back transliteration of Romanized Bengali to Bengali is the process of converting text written in the Latin alphabet back into the 
 			Bengali script. This is often done in order to improve the readability of Bengali text for Bengali speakers using a simple rules-based 
@@ -287,12 +287,12 @@ author_profile: true
 </div>
 
 <!-- Paper 01 -->
-📌 [<span style="color:Blue">**Urgent Text Detection in Bengali Language Based on Boosting Techniques**</span>](https://link.springer.com/chapter/10.1007/978-981-19-2445-3_49)<br>
-<span style="color:black">
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Urgent Text Detection in Bengali Language Based on Boosting Techniques**</span>](https://link.springer.com/chapter/10.1007/978-981-19-2445-3_49)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Rafsan Rahman, Tamanna Nazmin, Noor Nafeur Rahman, Miyad Bhuiyan, <strong style="color:green">G. M. Shahariar</strong>, and Faisal Muhammad Shah</font>
 </span>
 <br>
-<span style="color:black">
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em> International Conference on Fourth Industrial Revolution and Beyond</em></font> ([ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3))
 </span>
 <br>
@@ -319,7 +319,7 @@ author_profile: true
 </div>
 
 <div id="icfirb2022_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			This paper presents a learning approach on a unique dataset formulated by authors that detects urgent texts 
 			from the posts on social media platforms in Bengali language. It is difficult to keep track of every information 
@@ -339,12 +339,12 @@ author_profile: true
 ## 2021
 -------
 <!-- Paper 01 -->
-📌 [<span style="color:Blue">**Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation)<br>
-<span style="color:black">
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad shah</font>
 </span>
 <br>
-	<span style="color:black">
+	<span style="color:black;font-family:Georgia">
 		<font size="3"><strong>Journal:</strong> 
 				<span style ="color:orchid">
 					<em>under review</em>
@@ -365,7 +365,7 @@ author_profile: true
 </div>
 
 <div id="inreview_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			Sarcasm detection research of the Bengali language so far can be considered to be narrow due to the unavailability of resources. 
 			In this paper, we introduce a large-scale self annotated Bengali corpus for sarcasm detection research problem in the Bengali 
@@ -384,12 +384,12 @@ author_profile: true
 ## 2019
 -------
 <!-- Paper 01 -->
-📌 [<span style="color:Blue">**Spam Review Detection Using Deep Learning**</span>](https://ieeexplore.ieee.org/document/8936148)<br>
-<span style="color:black">
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Spam Review Detection Using Deep Learning**</span>](https://ieeexplore.ieee.org/document/8936148)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar</strong>, Swapnil Biswas, Faiza Omar, Faisal Muhammad Shah, and Samiha Binte Hassan</font>
 </span>
 <br>
-<span style="color:black">
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em> 10th Annual Information Technology, Electronics and Mobile Communication Conference</em></font> ([IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/))
 </span>
 <br>
@@ -411,7 +411,7 @@ author_profile: true
 </div>
 
 <div id="iemcon2019_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
 			A robust and reliable system of detecting spam reviews is a crying need in todays world in order to purchase products 
 			without being cheated from online sites. In many online sites, there are options for posting reviews, and thus creating 
