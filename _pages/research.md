@@ -39,10 +39,10 @@ author_profile: true
 
 ## Accepted
 <span style="font-family:Trebuchet MS;">
-⏳ <span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span> [[ASE 2023]](https://conf.researchr.org/track/ase-2023/ase-2023-papers)<br/>
-⏳ <span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span> [[BIM 2023]](https://confbim.com/)<br/>
-⏳ <span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span> [[BIM 2023]](https://confbim.com/)<br/>
-⏳ <span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning</span> [[BIM 2023]](https://confbim.com/)
+📢 <span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span> [[ASE 2023]](https://conf.researchr.org/track/ase-2023/ase-2023-papers)<br/>
+📢 <span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span> [[BIM 2023]](https://confbim.com/)<br/>
+📢 <span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span> [[BIM 2023]](https://confbim.com/)<br/>
+📢 <span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning</span> [[BIM 2023]](https://confbim.com/)
 </span>
 
 
