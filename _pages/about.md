@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:black; font-family:Monaco">Greetings! 👽</span>
+<span style="color:black; font-family:Calisto MT">Greetings! 👽</span>
 
 <p style="text-align:justify; color:black; font-family:Calisto MT">I am currently employed as 
 a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Senior Lecturer</a> at the Department of CSE, 
@@ -26,12 +26,12 @@ NLP techniques. My main goal is to pioneer innovative approaches that tackle thi
 Bengali NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
 and <em>interpretability of language models</em>. I intend to utilize cutting-edge techniques like <em>generative</em> and 
 <em>contrastive learning</em> to improve language generation and <em>representation learning</em> for Bengali. 
-Additionally, I've also applied natural language processing in specific <em>software engineering (SE)</em> tasks.
+Additionally, I have also applied natural language processing in specific <em>software engineering (SE)</em> tasks.
 </p>
 
-<p style="text-align:justify;color:black; font-family:Monaco">
-<b>Collaboration</b>.  In my research journey, I've recognized the importance of collaboration. Alongside my B.Sc. supervisor and 
-colleagues, I've worked with researchers from various institutes. Notable collaborations include 
+<p style="text-align:justify;color:black; font-family:Calisto MT">
+<b>Collaboration</b>.  In my research journey, I have recognized the importance of collaboration. Alongside my B.Sc. supervisor and 
+colleagues, I have worked with researchers from various institutes. Notable collaborations include 
 <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Gias Uddin</a> and 
 <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Anindya Iqbal</a> on an accepted SE paper for ASE 2023. I also 
 had the privilege of working with <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Hasanul Kabir</a> on a Bengali toxic 
@@ -56,3 +56,4 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 7. <span style="color:brown">[November 2022]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature.
 8. <span style="color:brown">[October 2022]</span> -  One paper got published at [ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), LNNS, Springer Nature.
 9. <span style="color:brown">[December 2019]</span> -  One paper got published at [IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/).
+</span>
