@@ -13,11 +13,12 @@ Supervisor: <a style="color:brown;" href="https://cse.buet.ac.bd/faculty_list/de
 -->
 
 <!-- B.Sc. -->
+<span style="font-family:Calisto MT; color:black;">
 <span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
-<span style="font-family:Calisto MT; color:black;">Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate](https://shahariar-shibli.github.io/files/Education/BSc_Certificate.pdf)] </span><br/>
-<span style="font-family:Calisto MT; color:black;">Duration: 2014 - 2018 </span><br/>
-<span style="font-family:Calisto MT; color:black;">CGPA: <b>3.973/4.00</b> scale (Ranked <b>1<sup>st</sup></b>) [[Transcript](https://shahariar-shibli.github.io/files/Education/BSc_Transcript.pdf)]</span> <br/>
-<span style="font-family:Calisto MT; color:black;">Supervisor: <a style="color:brown;" href="https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah">Mr. Faisal Muhammad Shah</a></span><br/>
+Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate](https://shahariar-shibli.github.io/files/Education/BSc_Certificate.pdf)]<br/>
+Duration: 2014 - 2018 <br/>
+CGPA: <b>3.973/4.00</b> scale (Ranked <b>1<sup>st</sup></b>) [[Transcript](https://shahariar-shibli.github.io/files/Education/BSc_Transcript.pdf)]<br/>
+Supervisor: <a style="color:brown;" href="https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah">Mr. Faisal Muhammad Shah</a><br/>
 </span>
 
 <!-- HSC -->
