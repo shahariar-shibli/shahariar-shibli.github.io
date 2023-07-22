@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="color:black; font-family:Monaco">Greetings! 👽</span>
 
-<p style="text-align:justify; color:black; font-family:Monaco">I am currently employed as 
+<p style="text-align:justify; color:black; font-family:Calisto MT">I am currently employed as 
 a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Senior Lecturer</a> at the Department of CSE, 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
 Engineering from the same university. My career aspiration is to become a scientist and work in leading AI research laboratories. 
@@ -18,7 +18,7 @@ I am particularly interested in developing NLP solutions for processing human la
 resources. I find enjoyment in competitive programming and have managed to solve over 1000 problems on various online judges.</p>
 
 
-<p style="text-align:justify;color:black; font-family:Monaco">
+<p style="text-align:justify;color:black; font-family:Calisto MT">
 <b>Research</b>. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
 abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
 a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
@@ -46,6 +46,7 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 
 ## Recent News ⚡
+<span style="font-family:Calisto MT; color:black;">
 1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers).
 2. <span style="color:brown">[July 2023]</span> - Three papers got accepted at [BIM 2023](https://confbim.com/).
 3. <span style="color:brown">[June 2023]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer.
