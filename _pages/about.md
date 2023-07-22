@@ -18,7 +18,7 @@ I am particularly interested in developing NLP solutions for processing human la
 resources. I find enjoyment in competitive programming and have managed to solve over 1000 problems on various online judges.</p>
 
 
-<p style="text-align:justify;color:black; font-family:Calisto MT">
+<p style="text-align:justify;color:black; font-family:Monaco">
 <b>Research</b>. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
 abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
 a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
@@ -29,7 +29,7 @@ and <em>interpretability of language models</em>. I intend to utilize cutting-ed
 Additionally, I have also applied natural language processing in specific <em>software engineering (SE)</em> tasks.
 </p>
 
-<p style="text-align:justify;color:black; font-family:Calisto MT">
+<p style="text-align:justify;color:black; font-family:Georgia">
 <b>Collaboration</b>.  In my research journey, I have recognized the importance of collaboration. Alongside my B.Sc. supervisor and 
 colleagues, I have worked with researchers from various institutes. Notable collaborations include 
 <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Gias Uddin</a> and 
@@ -46,12 +46,12 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 
 ## Recent News ⚡
-1. <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers). </span><br/>
-2. <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2023]</span> - Three papers got accepted at [BIM 2023](https://confbim.com/). </span><br/>
-3. <span style="font-family:Monaco; color:black;"><span style="color:brown">[June 2023]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer. </span><br/>
-4. <span style="font-family:Monaco; color:black;"><span style="color:brown">[February 2023]</span> -  One paper got published at [ECCE 2023](https://webs.cuet.ac.bd/ecce/). </span><br/>
-5. <span style="font-family:Monaco; color:black;"><span style="color:brown">[January 2023]</span> -  One paper got published at [ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), SADIC, Springer Nature. </span><br/>
-6. <span style="font-family:Monaco; color:black;"><span style="color:brown">[January 2023]</span> -  One paper got accepted at [ICNLP 2023](http://www.icnlp.net/index.html). </span><br/>
-7. <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2022]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature. </span><br/>
-8. <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2022]</span> -  One paper got published at [ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), LNNS, Springer Nature. </span><br/>
-9. <span style="font-family:Monaco; color:black;"><span style="color:brown">[December 2019]</span> -  One paper got published at [IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/). </span><br/>
+<span style="font-family:Monaco; color:black;">1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers). </span><br/>
+<span style="font-family:Monaco; color:black;">2. <span style="color:brown">[July 2023]</span> - Three papers got accepted at [BIM 2023](https://confbim.com/). </span><br/>
+<span style="font-family:Monaco; color:black;">3. <span style="color:brown">[June 2023]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer. </span><br/>
+<span style="font-family:Monaco; color:black;">4. <span style="color:brown">[February 2023]</span> -  One paper got published at [ECCE 2023](https://webs.cuet.ac.bd/ecce/). </span><br/>
+<span style="font-family:Monaco; color:black;">5. <span style="color:brown">[January 2023]</span> -  One paper got published at [ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), SADIC, Springer Nature. </span><br/>
+<span style="font-family:Monaco; color:black;">6. <span style="color:brown">[January 2023]</span> -  One paper got accepted at [ICNLP 2023](http://www.icnlp.net/index.html). </span><br/>
+<span style="font-family:Monaco; color:black;">7. <span style="color:brown">[November 2022]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature. </span><br/>
+<span style="font-family:Monaco; color:black;">8. <span style="color:brown">[October 2022]</span> -  One paper got published at [ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), LNNS, Springer Nature. </span><br/>
+<span style="font-family:Monaco; color:black;">9. <span style="color:brown">[December 2019]</span> -  One paper got published at [IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/). </span><br/>
