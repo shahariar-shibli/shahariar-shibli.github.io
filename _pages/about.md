@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color:black; font-family:Calisto MT">Greetings! 👽</span>
+<span style="color:black; font-family:Georgia">Greetings! 👽</span>
 
-<p style="text-align:justify; color:black; font-family:Calisto MT">I am currently employed as 
+<p style="text-align:justify; color:black; font-family:Georgia">I am currently employed as 
 a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Senior Lecturer</a> at the Department of CSE, 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
 Engineering from the same university. My career aspiration is to become a scientist and work in leading AI research laboratories. 
@@ -18,7 +18,7 @@ I am particularly interested in developing NLP solutions for processing human la
 resources. I find enjoyment in competitive programming and have managed to solve over 1000 problems on various online judges.</p>
 
 
-<p style="text-align:justify;color:black; font-family:Monaco">
+<p style="text-align:justify;color:black; font-family:Georgia">
 <b>Research</b>. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
 abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
 a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
@@ -32,15 +32,15 @@ Additionally, I have also applied natural language processing in specific <em>so
 <p style="text-align:justify;color:black; font-family:Georgia">
 <b>Collaboration</b>.  In my research journey, I have recognized the importance of collaboration. Alongside my B.Sc. supervisor and 
 colleagues, I have worked with researchers from various institutes. Notable collaborations include 
-<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Gias Uddin</a> and 
-<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Anindya Iqbal</a> on an accepted SE paper for ASE 2023. I also 
-had the privilege of working with <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Hasanul Kabir</a> on a Bengali toxic 
+<a href="https://giasuddin.ca/">Dr. Gias Uddin</a> and 
+<a href="https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal">Dr. Anindya Iqbal</a> on an accepted SE paper for ASE 2023. I also 
+had the privilege of working with <a href="https://cse.iutoic-dhaka.edu/profile/hasanul">Dr. Md. Hasanul Kabir</a> on a Bengali toxic 
 comments classification paper that received the best paper award in ECCE 2023. Additionally, 
-<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Hasan Mahmud</a> and I collaborated on two papers related to the 
+<a href="https://cse.iutoic-dhaka.edu/profile/hasan/education">Dr. Hasan Mahmud</a> and I collaborated on two papers related to the 
 semi-supervised recipe genre categorization task. Currently, I am actively engaged with 
-<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Rifat Shahriyar</a> in exploring knowledge augmentation for open 
+<a href="http://rifatshahriyar.github.io/">Dr. Rifat Shahriyar</a> in exploring knowledge augmentation for open 
 domain question answering. Moreover, I have made significant contributions to a funded project involving 
-<a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Dr. Shahriar Mahbub</a>, co-authoring one paper and being the first 
+<a href="https://www.aust.edu/cse/faculty_member/dr_md_shahriar_mahbub">Dr. Md. Shahriar Mahbub</a>, co-authoring one paper and being the first 
 author on another, focused on Bengali fake review dataset preparation and benchmark classification systems development.
 </p>
 
