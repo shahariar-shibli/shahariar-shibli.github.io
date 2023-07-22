@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Problem Solving
+<span style="color:black;font-family:Georgia;">
 + <span style="color:brown">Codeforces: </span> [zexon](https://codeforces.com/profile/zexon)<span style="font-family:Courier New">  [Maximum ratings: $1715$]</span>
 + <span style="color:brown">Codechef: </span> [zexon](https://www.codechef.com/users/zexon)<span style="font-family:Courier New">  [Maximum ratings: $1847$]</span>
 + <span style="color:brown">HackerRank: </span> [zexon](https://www.hackerrank.com/zexon?hr_r=1)<span style="font-family:Courier New">  [Maximum ratings: $1842$]</span>
@@ -14,6 +15,7 @@ author_profile: true
 + <span style="color:brown">LightOJ: </span> [sshibli745](https://lightoj.com/user/sshibli745)<span style="font-family:Courier New">  [Problems solved: $104$]</span>  
 + <span style="color:brown">Sphere Online Judge: </span> [zexon](https://www.spoj.com/users/zexon/)<span style="font-family:Courier New">  [Problems solved: $34$]</span>
 + <span style="color:brown">StopStalk profile: </span> [zexon](https://www.stopstalk.com/user/profile/zexon)
+</span>
 
 ## Programming Contest
 + <span style="color:brown">ACM ICPC Dhaka Regional 2016 -</span> Team: [AUST_angurFolTok](https://algo.codemarshal.org/contests/ICPCDH2016/standings)<span style="font-family:Courier New"> - [Place: $30^{th}$]</span>
