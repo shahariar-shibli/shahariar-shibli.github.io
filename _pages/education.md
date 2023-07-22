@@ -11,28 +11,30 @@ Duration: 2021 - present <br/>
 CGPA: <b>3.83/4.00</b> scale <br/>
 Supervisor: <a style="color:brown;" href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a><br/>
 -->
-<span style="font-family:Calisto MT; color:black;">
+
 <!-- B.Sc. -->
-<span style="color:black; font-size:20px"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
-Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate](https://shahariar-shibli.github.io/files/Education/BSc_Certificate.pdf)] <br/>
-Duration: 2014 - 2018 <br/>
-CGPA: <b>3.973/4.00</b> scale (Ranked <b>1<sup>st</sup></b>) [[Transcript](https://shahariar-shibli.github.io/files/Education/BSc_Transcript.pdf)] <br/>
-Supervisor: <a style="color:brown;" href="https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah">Mr. Faisal Muhammad Shah</a>
-</span><br/>
+<span style="color:black; font-size:20px; font-family:Calisto MT"><b><a href="https://aust.edu" target="_blank">Ahsanullah University of Science and Technology</a></b></span><br/>
+<span style="font-family:Calisto MT; color:black;">Bachelor of Science (B.Sc.) in Computer Science and Engineering [[Certificate](https://shahariar-shibli.github.io/files/Education/BSc_Certificate.pdf)] </span><br/>
+<span style="font-family:Calisto MT; color:black;">Duration: 2014 - 2018 </span><br/>
+<span style="font-family:Calisto MT; color:black;">CGPA: <b>3.973/4.00</b> scale (Ranked <b>1<sup>st</sup></b>) [[Transcript](https://shahariar-shibli.github.io/files/Education/BSc_Transcript.pdf)]</span> <br/>
+<span style="font-family:Calisto MT; color:black;">Supervisor: <a style="color:brown;" href="https://aust.edu/cse/faculty_member/mr_faisal_muhammad_shah">Mr. Faisal Muhammad Shah</a></span><br/>
+</span>
+
 <!-- HSC -->
 <span style="font-family:Calisto MT; color:black;">
 <span style="color:black; font-size:20px"><b><a href="http://dhakacollege.edu.bd/" target="_blank">Dhaka College</a></b></span><br/>
 Higher Secondary Certificate (HSC) [[Certificate](https://shahariar-shibli.github.io/files/Education/HSC_Certificate.pdf)] <br/>
 Duration: 2011 - 2013 <br/>
-GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/files/Education/HSC_Transcript.pdf)] 
-</span><br/>
+GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/files/Education/HSC_Transcript.pdf)] <br/>
+</span>
+
 <!-- SSC -->
 <span style="font-family:Calisto MT; color:black;">
 <span style="color:black; font-size:20px"><b><a href="https://iscm.edu.bd/" target="_blank">Ideal School and College</a></b></span><br/>
 Secondary School Certificate (SSC) [[Certificate](https://shahariar-shibli.github.io/files/Education/SSC_Certificate.pdf)] <br/>
 Duration: 2009 - 2011 <br/>
-GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/files/Education/SSC_Transcript.pdf)] 
-</span><br/>
+GPA: <b>5.00/5.00</b> scale [[Transcript](https://shahariar-shibli.github.io/files/Education/SSC_Transcript.pdf)] <br/>
+</span>
 
 ## Awards
 <span style="font-family:Calisto MT; color:black">
