@@ -17,7 +17,7 @@ author_profile: true
 
 
 ## Ongoing Works
-<span style="font-family:Consolas;">
+<span style="font-family:Trebuchet MS;">
 🔨 <span style="color:#6E2C00">Explainable AI for Medical Imaging: A Deep Learning Approach towards Classification of Cervical Cancer</span><br/>
 🔨 <span style="color:#6E2C00">Skin Cancer detection using Explainable AI and Deep Learning</span><br/>
 🔨 <span style="color:#6E2C00">An Explainable AI based Oral Squamous Cell Carcinoma Detection System from Histopathological Images using Deep Learning</span><br/>
@@ -25,7 +25,7 @@ author_profile: true
 </span>
 
 ## Submitted
-<span style="font-family:Consolas;">
+<span style="font-family:Trebuchet MS;">
 📝 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span>
 </span>
 
@@ -38,7 +38,7 @@ author_profile: true
 </span>
 
 ## Accepted
-<span style="font-family:Book Antiqua;">
+<span style="font-family:Trebuchet MS;">
 ⏳ <span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span> [[ASE 2023]](https://conf.researchr.org/track/ase-2023/ase-2023-papers)<br/>
 ⏳ <span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span> [[BIM 2023]](https://confbim.com/)<br/>
 ⏳ <span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span> [[BIM 2023]](https://confbim.com/)<br/>
