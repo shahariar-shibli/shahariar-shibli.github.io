@@ -10,12 +10,12 @@ author_profile: true
 ## 2023
 ---------
 <!-- Paper 05 -->
-📌 [<span style="color:blue">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
-<span style="color:black">
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
 </span>
 <br>
-<span style="color:black">
+<span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))
 </span>
 <br>
@@ -36,7 +36,7 @@ author_profile: true
 </div>
 
 <div id="ecce2023_abstract" class="abstract" style="display:none;">
-	<p style="text-align:justify; color:black;"> 
+	<p style="text-align:justify; color:black;font-family:Trebuchet MS;"> 
 		<font size="3">
 			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
 			in which at first a binary classification model is used to determine whether a comment is toxic or not, 
