@@ -7,7 +7,7 @@ title: "Teaching"
  
 
 ## Courses
-
+<span style="color:black;font-family:Georgia;">
 <details>
 <summary>CSE 1102: Elementary Structured Programming Lab</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Fall 2021</ins></font></span><br>
@@ -141,6 +141,7 @@ genetic combined approaches to computing applications.
 </font>
 </span><br>
 </details>
+</span>
 
 ## Materials
 <details open>
