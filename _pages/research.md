@@ -4,25 +4,25 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
-*I am passionate about exploring the applications of **Machine** and **Deep Learning** in:*<br><br>
 <span style="color:black;">
-<code>✔️ Natural Language Processing, Natural Language Generation</code> <br>
-<code>✔️ Summarization, Low Resource Language, Question Answering</code> <br>
-<code>✔️ Representation Learning: Generative and Contrastive Learning</code> <br>
-<code>✔️ NLP Applications in Software Engineering</code> <br>
-<code>✔️ Interpretability and Analysis of language models</code> <br>
+<em>I am passionate about exploring the applications of <b>Machine</b> and <b>Deep Learning</b> in:</em><br/><br/>
+<code>✔️ Natural Language Processing, Natural Language Generation</code> <br/>
+<code>✔️ Summarization, Low Resource Language, Question Answering</code> <br/>
+<code>✔️ Representation Learning: Generative and Contrastive Learning</code> <br/>
+<code>✔️ NLP Applications in Software Engineering</code> <br/>
+<code>✔️ Interpretability and Analysis of language models</code> <br/>
 <code>✔️ Computer Vision, Medical Imaging</code>
 </span>
 <br/>
 
 
 ## Ongoing Works
-🔨 <span style="color:#6E2C00">Explainable AI for Medical Imaging: A Deep Learning Approach towards Classification of Cervical Cancer</span><br>
-🔨 <span style="color:#6E2C00">Skin Cancer detection using Explainable AI and Deep Learning</span><br>
-🔨 <span style="color:#6E2C00">An Explainable AI based Oral Squamous Cell Carcinoma Detection System from Histopathological Images using Deep Learning</span><br>
+<span style="font-family:Georgia;">
+🔨 <span style="color:#6E2C00">Explainable AI for Medical Imaging: A Deep Learning Approach towards Classification of Cervical Cancer</span><br/>
+🔨 <span style="color:#6E2C00">Skin Cancer detection using Explainable AI and Deep Learning</span><br/>
+🔨 <span style="color:#6E2C00">An Explainable AI based Oral Squamous Cell Carcinoma Detection System from Histopathological Images using Deep Learning</span><br/>
 🔨 <span style="color:#6E2C00">PhyloBERT: Investigating Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span>
-
+</span>
 ## Submitted
 📝 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br>
 
