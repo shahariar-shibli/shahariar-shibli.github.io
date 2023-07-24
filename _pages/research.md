@@ -18,6 +18,7 @@ author_profile: true
 
 ## Ongoing Works
 <span style="font-family:Trebuchet MS;">
+🔨 <span style="color:#6E2C00">Bengali Story Genre Categorization</span><br/>
 🔨 <span style="color:#6E2C00">Explainable AI for Medical Imaging: A Deep Learning Approach towards Classification of Cervical Cancer</span><br/>
 🔨 <span style="color:#6E2C00">Skin Cancer detection using Explainable AI and Deep Learning</span><br/>
 🔨 <span style="color:#6E2C00">An Explainable AI based Oral Squamous Cell Carcinoma Detection System from Histopathological Images using Deep Learning</span><br/>
