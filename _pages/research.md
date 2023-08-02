@@ -56,4 +56,4 @@ author_profile: true
 <b>Funded by</b>: Committee for Advance Studies and Research ([CASR](https://www.aust.edu/casr)), AUST <br/>
 <b>Responsibility</b>: Co-Principal Investigator (CO-PI) <br/>
 <b>Duration</b>: May 2022 - May 2023
-</span>>
+</span>
