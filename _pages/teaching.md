@@ -9,10 +9,10 @@ title: "Teaching"
 ## Current Position
 <!-- Senior Lecturer -->
 <span style="font-family:Trebuchet MS; color:black;">
-<span style="color:black; font-size:18px; font-family:Trebuchet MS;">Senior Lecturer</span><br/>
-Department of Computer Science and Engineering<br/>
-Ahsanullah University of Science and Technology <br/>
-Duration: October 2021 - Present<br/>
+<span style="color:#6E2C00">Senior Lecturer</span><br/>
+[Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
+[Ahsanullah University of Science and Technology](https://aust.edu/)<br/>
+<span style="color:#6E2C00"><em>October 2021 - Present</em></span>
 </span>
 
 
