@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Competitive Programming"
+title: "Programming & Service"
 permalink: /programming/
 author_profile: true
 ---
