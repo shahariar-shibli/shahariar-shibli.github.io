@@ -51,9 +51,9 @@ author_profile: true
 
 ## Funding
 <span style="font-family:Trebuchet MS; color:black;">
-<b>Project ID</b>: ARP/2021/CSE/01/2<br/>
+<b>Project ID</b>: <span style="color:#6E2C00">ARP/2021/CSE/01/2</span><br/>
 <b>Project Title</b>: [Bengali Fake Reviews: A Benchmark Dataset and Detection System](https://www.aust.edu/news/1037)<br/>
-<b>Funded by</b>: Committee for Advance Studies and Research ([CASR](https://www.aust.edu/casr)), AUST <br/>
-<b>Responsibility</b>: Co-Principal Investigator (CO-PI) <br/>
-<b>Duration</b>: May 2022 - May 2023
+<b>Funded by</b>: <span style="color:#6E2C00">Committee for Advance Studies and Research ([CASR](https://www.aust.edu/casr)), AUST</span><br/>
+<b>Responsibility</b>: <span style="color:#6E2C00">Co-Principal Investigator (CO-PI)</span><br/>
+<b>Duration</b>: <span style="color:#6E2C00">May 2022 - May 2023</span>
 </span>
