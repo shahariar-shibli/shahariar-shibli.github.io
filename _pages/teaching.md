@@ -8,8 +8,8 @@ title: "Teaching"
 
 ## Current Position
 <!-- Senior Lecturer -->
-<span style="font-family:Georgia; color:black;">
-<span style="color:black; font-size:20px; font-family:Calisto MT">Senior Lecturer</span><br/>
+<span style="font-family:Trebuchet MS; color:black;">
+<span style="color:black; font-size:18px; font-family:Trebuchet MS;">Senior Lecturer</span><br/>
 Department of Computer Science and Engineering<br/>
 Ahsanullah University of Science and Technology <br/>
 Duration: October 2021 - Present<br/>
