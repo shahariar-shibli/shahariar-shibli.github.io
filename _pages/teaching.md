@@ -6,6 +6,16 @@ title: "Teaching"
 > <p>"When one teaches, two learn" <br> &nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
  
 
+## Current Position
+<!-- Senior Lecturer -->
+<span style="font-family:Georgia; color:black;">
+<span style="color:black; font-size:20px; font-family:Calisto MT">Senior Lecturer</span><br/>
+Department of Computer Science and Engineering<br/>
+Ahsanullah University of Science and Technology <br/>
+Duration: October 2021 - Present<br/>
+</span>
+
+
 ## Courses
 <details>
 <summary>CSE 1102: Elementary Structured Programming Lab</summary>
