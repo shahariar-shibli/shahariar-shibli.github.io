@@ -49,4 +49,13 @@ author_profile: true
 📢 <span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning</span> [[BIM 2023]](https://confbim.com/) [[arXiv]](https://arxiv.org/pdf/2307.07603.pdf)
 </span>
 
-
+## Funding
+<code>
+<span style="font-family:Trebuchet MS; color:black;">
+<b>Project ID<b>: ARP/2021/CSE/01/2<br/>
+<b>Project Title: [Bengali Fake Reviews: A Benchmark Dataset and Detection System](https://www.aust.edu/news/1037) <br/>
+<b>Funded by: Committee for Advance Studies and Research ([CASR](https://www.aust.edu/casr)), AUST <br/>
+<b>Responsibility: Co-Principal Investigator (CO-PI) <br/>
+<b>Duration: May 2022 - May 2023 </br>
+</span>
+</code>
