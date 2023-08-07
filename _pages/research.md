@@ -38,7 +38,7 @@ author_profile: true
 ⏳ <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[EMNLP 2023]](https://2023.emnlp.org/)<br/>
 ⏳ <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042) [[arXiv]](https://arxiv.org/pdf/2307.06979.pdf)<br/>
 ⏳ <span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span> [[Knowledge and Information Systems]](https://www.springer.com/journal/10115)<br/>
-⏳ <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042)
+⏳ <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042) [[arXiv]](https://arxiv.org/pdf/2308.00608.pdf)
 </span>
 
 ## Accepted
