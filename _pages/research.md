@@ -29,7 +29,7 @@ author_profile: true
 
 ## Submitted
 <span style="font-family:Trebuchet MS;">
-📝 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Engineering Applications of Artificial Intelligence]](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+📝 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Engineering Applications of Artificial Intelligence]](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)
 </span>
 
 ## Under Review
