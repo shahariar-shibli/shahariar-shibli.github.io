@@ -46,6 +46,7 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 
 ## Recent News ⚡
+<span style="font-family:Monaco; color:black;">1. <span style="color:brown">[August 2023]</span> - I have become a <span style="color:red;">Reviewer</span> at [EMNLP 2023](https://2023.emnlp.org/). </span><br/>
 <span style="font-family:Monaco; color:black;">1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers). </span><br/>
 <span style="font-family:Monaco; color:black;">2. <span style="color:brown">[July 2023]</span> - Three papers got accepted at [BIM 2023](https://confbim.com/). </span><br/>
 <span style="font-family:Monaco; color:black;">3. <span style="color:brown">[June 2023]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer. </span><br/>
