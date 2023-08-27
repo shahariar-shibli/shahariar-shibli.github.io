@@ -47,10 +47,10 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 ## Recent News ⚡
 <span style="font-family:Monaco; color:black;">1. <span style="color:brown">[August 2023]</span> - I have become a <span style="color:red;">Reviewer</span> at [EMNLP 2023](https://2023.emnlp.org/). </span><br/>
-<span style="font-family:Monaco; color:black;">1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers). </span><br/>
+<span style="font-family:Monaco; color:black;">1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers). <span style="color:red;">[Core A* conference]</span> </span><br/>
 <span style="font-family:Monaco; color:black;">2. <span style="color:brown">[July 2023]</span> - Three papers got accepted at [BIM 2023](https://confbim.com/). </span><br/>
 <span style="font-family:Monaco; color:black;">3. <span style="color:brown">[June 2023]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer. </span><br/>
-<span style="font-family:Monaco; color:black;">4. <span style="color:brown">[February 2023]</span> -  One paper got published at [ECCE 2023](https://webs.cuet.ac.bd/ecce/). </span><br/>
+<span style="font-family:Monaco; color:black;">4. <span style="color:brown">[February 2023]</span> -  One paper got published at [ECCE 2023](https://webs.cuet.ac.bd/ecce/). <span style="color:red;">[Best Paper Award]</span></span><br/>
 <span style="font-family:Monaco; color:black;">5. <span style="color:brown">[January 2023]</span> -  One paper got published at [ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), SADIC, Springer Nature. </span><br/>
 <span style="font-family:Monaco; color:black;">6. <span style="color:brown">[January 2023]</span> -  One paper got accepted at [ICNLP 2023](http://www.icnlp.net/index.html). </span><br/>
 <span style="font-family:Monaco; color:black;">7. <span style="color:brown">[November 2022]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature. </span><br/>
