@@ -11,7 +11,7 @@ redirect_from:
 <span style="color:black; font-family:Georgia">Greetings! 👽</span>
 
 <p style="text-align:justify; color:black; font-family:Georgia">I am currently employed as 
-a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Senior Lecturer</a> at the Department of CSE, 
+a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Lecturer (Grade-I)</a> at the Department of CSE, 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
 Engineering from the same university. My career aspiration is to become a scientist and work in leading AI research laboratories. 
 I am particularly interested in developing NLP solutions for processing human languages, with a focus on languages that have limited 
