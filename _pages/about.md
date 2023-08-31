@@ -46,6 +46,8 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 
 ## Recent News ⚡
+<span style="font-family:Monaco; color:black;">1. <span style="color:brown">[August 2023]</span> - I have become a <span style="color:red;">Reviewer</span> of [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications). <span style="color:red;">[Elsevier Q1 journal]</span></span><br/>
+<span style="font-family:Monaco; color:black;">1. <span style="color:brown">[August 2023]</span> - I have become a <span style="color:red;">Reviewer</span> of [International Journal of Human-Computer Interaction](https://www.tandfonline.com/loi/hihc20). <span style="color:red;">[Taylor and Francis Q1 journal]</span> </span><br/>
 <span style="font-family:Monaco; color:black;">1. <span style="color:brown">[August 2023]</span> - I have become a <span style="color:red;">Reviewer</span> at [EMNLP 2023](https://2023.emnlp.org/). </span><br/>
 <span style="font-family:Monaco; color:black;">1. <span style="color:brown">[July 2023]</span> - One paper got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers). <span style="color:red;">[Core A* conference]</span> </span><br/>
 <span style="font-family:Monaco; color:black;">2. <span style="color:brown">[July 2023]</span> - Three papers got accepted at [BIM 2023](https://confbim.com/). </span><br/>
