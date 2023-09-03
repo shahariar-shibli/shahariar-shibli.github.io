@@ -27,8 +27,8 @@ author_profile: true
 🔨 <span style="color:#6E2C00">PhyloBERT: Investigating Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span>
 </span>
 
-## Submitted
 <!---
+## Submitted
 <span style="font-family:Trebuchet MS;">
 📝 
 </span>
