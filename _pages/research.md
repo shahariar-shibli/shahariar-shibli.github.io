@@ -36,7 +36,7 @@ author_profile: true
 
 ## Under Review
 <span style="font-family:Trebuchet MS;">
-⏳ <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Engineering Applications of Artificial Intelligence]](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)
+⏳ <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Engineering Applications of Artificial Intelligence]](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)<br/>
 ⏳ <span style="color:#6E2C00">Noise Aware Contrastive Learning for Sentiment Detection</span> [[ICSE 2024]](https://conf.researchr.org/home/icse-2024)<br/>
 ⏳ <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[EMNLP 2023]](https://2023.emnlp.org/)<br/>
 ⏳ <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042) [[arXiv]](https://arxiv.org/pdf/2307.06979.pdf)<br/>
