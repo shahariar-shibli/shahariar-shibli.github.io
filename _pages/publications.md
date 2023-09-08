@@ -52,7 +52,7 @@ author_profile: true
 </div>
 
 <!-- Paper 04 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://www.researchgate.net/publication/369855297_Bengali_Fake_Review_Detection_using_Semi-supervised_Generative_Adversarial_Networks)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://ieeexplore.ieee.org/document/10236810)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Md. Tanvir Rouf Shawon, <strong style="color:green">G. M. Shahariar</strong>, Faisal Muhammad Shah, Mohammad Shafiul Alam, and Md. Shahriar Mahbub</font>
 </span>
@@ -65,12 +65,15 @@ author_profile: true
 
 <div id="icnlp2023_bib" class="bib" style="display:none;">
 	<pre>
-		@article{shawon2023bengali,
-		  title={Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks},
-		  author={Shawon, Md and Rouf, Tanvir and Shahariar, GM and Shah, Faisal Muhammad and Alam, Mohammad Shafiul and Mahbub, Md and others},
-		  journal={arXiv preprint arXiv:2304.02739},
-		  year={2023}
-		}
+		@INPROCEEDINGS{10236810,
+		  author={Shawon, Md. Tanvir Rouf and Shahariar, G. M. and Shah, Faisal Muhammad and Alam, Mohammad Shafiul and Mahbub, Md. Shahriar},
+		  booktitle={2023 5th International Conference on Natural Language Processing (ICNLP)}, 
+		  title={Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks}, 
+		  year={2023},
+		  volume={},
+		  number={},
+		  pages={12-16},
+		  doi={10.1109/ICNLP58431.2023.00011}}
 	</pre>
 </div>
 
