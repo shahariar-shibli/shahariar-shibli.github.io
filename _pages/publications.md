@@ -103,7 +103,7 @@ author_profile: true
 	<font size="3"><strong>Conference:</strong><em>2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#gas2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372417019_Gastrointestinal_Disease_Classification_through_Explainable_and_Cost-Sensitive_Deep_Neural_Networks_with_Supervised_Contrastive_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#gas2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#gas2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372417019_Gastrointestinal_Disease_Classification_through_Explainable_and_Cost-Sensitive_Deep_Neural_Networks_with_Supervised_Contrastive_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/dibya404/Gastrointestinal-Disease-Classification-through-Explainable-and-Cost-Sensitive-DNN-with-SCL)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/BIM2023/Paper-307.pptx)] [<a style="color:red;" href="#" onclick="$('#gas2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
 <div id="gas2023_bib" class="bib" style="display:none;">
 	<pre>
@@ -138,43 +138,40 @@ author_profile: true
 </div>
 
 <!-- Paper 06 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME**</span>](https://arxiv.org/pdf/2309.05747.pdf)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
+	<font size="3"><strong>Authors</strong>: Md. Atiqur Rahman, Ahmed Saad Tanim, Sanjid Islam, Fahim Pranto, <strong style="color:green">G. M. Shahariar</strong>, and Md. Tanvir Rouf Shawon</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Conference:</strong><em>2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#traffic2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/374236414_Evaluating_the_Reliability_of_CNN_Models_on_Classifying_Traffic_and_Road_Signs_using_LIME)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/BIM2023/Paper-312.pdf)] [<a style="color:red;" href="#" onclick="$('#traffic2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
-<div id="ecce2023_bib" class="bib" style="display:none;">
+<div id="traffic2023_bib" class="bib" style="display:none;">
 	<pre>
-	  @INPROCEEDINGS{10101588,
-	  author={Belal, Tanveer Ahmed and Shahariar, G. M. and Kabir, Md. Hasanul},
-	  booktitle={2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)}, 
-	  title={Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning}, 
-	  year={2023},
-	  volume={},
-	  number={},
-	  pages={1-6},
-	  doi={10.1109/ECCE57851.2023.10101588}}
+		@article{rahman2023evaluating,
+		  title={Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME},
+		  author={Rahman, Md Atiqur and Tanim, Ahmed Saad and Islam, Sanjid and Pranto, Fahim and Shahariar, GM and Shawon, Md Tanvir Rouf},
+		  journal={arXiv preprint arXiv:2309.05747},
+		  year={2023}
+		}
 	</pre>
 </div>
 
-<div id="ecce2023_abstract" class="abstract" style="display:none;">
+<div id="traffic2023_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
-			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
-			in which at first a binary classification model is used to determine whether a comment is toxic or not, 
-			and then a multi-label classifier is employed to determine which toxicity type the comment belongs to. 
-			For this purpose, we have prepaBlue a manually labeled dataset consisting of 16,073 instances among which 8,488 are Toxic 
-			and any toxic comment may correspond to one or more of the six toxic categories - vulgar, hate, religious, threat, troll, 
-			and insult simulta-neously. Long Short Term Memory (LSTM) with BERT Embedding achieved 89.42% accuracy for the binary classification 
-			task while as a multi-label classifier, a combination of Convolutional Neural Network and Bi-directional Long Short Term Memory 
-			(CNN-BiLSTM) with attention mechanism achieved 78.92% accuracy and 0.86 as weighted F1-score. To explain the pBlueictions and interpret 
-			the word feature importance during classification by the proposed models, we utilized Local Interpretable Model-Agnostic Explanations (LIME) framework.
+			The objective of this investigation is to evaluate and contrast the effectiveness of four state-of-the-art pre-trained 
+			models, ResNet-34, VGG-19, DenseNet-121, and Inception V3, in classifying traffic and road signs with the utilization 
+			of the GTSRB public dataset. The study fo-cuses on evaluating the accuracy of these models' predictions as well as their 
+			ability to employ appropriate features for image categorization. To gain insights into the strengths and limitations 
+			of the model's predictions , the study employs the local interpretable model-agnostic explanations (LIME) framework. 
+			The findings of this experiment indicate that LIME is a crucial tool for improving the interpretability and dependability 
+			of machine learning models for image identification, regardless of the models achieving an f1 score of 0.99 on classifying 
+			traffic and road signs. The conclusion of this study has important ramifications for how these models are used in practice, 
+			as it is crucial to ensure that model predictions are founded on the pertinent image features.
 		</font>
 	</p>
 </div>
