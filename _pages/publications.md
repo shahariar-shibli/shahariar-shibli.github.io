@@ -55,7 +55,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> 2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
+	<font size="3"><strong>Conference:</strong><em>2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#rank2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372404336_Rank_Your_Summaries_Enhancing_Bengali_Text_Summarization_via_Ranking-based_Approach)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/TonmoyTalukder/Rank-Your-Summaries-Enhancing-Bengali-Text-Summarization-via-Ranking-based-Approach)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/BIM2023/Paper-312.pdf)] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
@@ -94,43 +94,45 @@ author_profile: true
 </div>
 
 <!-- Paper 07 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning**</span>](https://arxiv.org/pdf/2307.07603.pdf)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
+	<font size="3"><strong>Authors</strong>: Dibya Nath and <strong style="color:green">G. M. Shahariar</strong></font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))
+	<font size="3"><strong>Conference:</strong><em>2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#gas2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372417019_Gastrointestinal_Disease_Classification_through_Explainable_and_Cost-Sensitive_Deep_Neural_Networks_with_Supervised_Contrastive_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#gas2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
-<div id="ecce2023_bib" class="bib" style="display:none;">
+<div id="gas2023_bib" class="bib" style="display:none;">
 	<pre>
-	  @INPROCEEDINGS{10101588,
-	  author={Belal, Tanveer Ahmed and Shahariar, G. M. and Kabir, Md. Hasanul},
-	  booktitle={2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)}, 
-	  title={Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning}, 
-	  year={2023},
-	  volume={},
-	  number={},
-	  pages={1-6},
-	  doi={10.1109/ECCE57851.2023.10101588}}
+		@article{nath2023gastrointestinal,
+		  title={Gastrointestinal Disease Classification through Explainable and Cost-Sensitive Deep Neural Networks with Supervised Contrastive Learning},
+		  author={Nath, Dibya and Shahariar, GM},
+		  journal={arXiv preprint arXiv:2307.07603},
+		  year={2023}
+		}
 	</pre>
 </div>
 
-<div id="ecce2023_abstract" class="abstract" style="display:none;">
+<div id="gas2023_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
-			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
-			in which at first a binary classification model is used to determine whether a comment is toxic or not, 
-			and then a multi-label classifier is employed to determine which toxicity type the comment belongs to. 
-			For this purpose, we have prepaBlue a manually labeled dataset consisting of 16,073 instances among which 8,488 are Toxic 
-			and any toxic comment may correspond to one or more of the six toxic categories - vulgar, hate, religious, threat, troll, 
-			and insult simulta-neously. Long Short Term Memory (LSTM) with BERT Embedding achieved 89.42% accuracy for the binary classification 
-			task while as a multi-label classifier, a combination of Convolutional Neural Network and Bi-directional Long Short Term Memory 
-			(CNN-BiLSTM) with attention mechanism achieved 78.92% accuracy and 0.86 as weighted F1-score. To explain the pBlueictions and interpret 
-			the word feature importance during classification by the proposed models, we utilized Local Interpretable Model-Agnostic Explanations (LIME) framework.
+			Gastrointestinal diseases pose significant healthcare chall-enges as they manifest in diverse ways and can lead 
+			to potential complications. Ensuring precise and timely classification of these diseases is pivotal in guiding 
+			treatment choices and enhancing patient outcomes. This paper introduces a novel approach on classifying gastrointestinal 
+			diseases by leveraging cost-sensitive pre-trained deep convolutional neural network (CNN) architectures with supervised 
+			contrastive learning. Our approach enables the network to learn representations that capture vital disease-related features, 
+			while also considering the relationships of similarity between samples. To tackle the challenges posed by imbalanced 
+			datasets and the cost-sensitive nature of misclassification errors in healthcare, we incorporate cost-sensitive learning. 
+			By assigning distinct costs to misclassifications based on the disease class, we prioritize accurate classification of 
+			critical conditions. Furthermore, we enhance the interpretability of our model by integrating gradient-based techniques 
+			from explainable artificial intelligence (AI). This inclusion provides valuable insights into the decision-making process 
+			of the network, aiding in understanding the features that contribute to disease classification. To assess the effectiveness 
+			of our proposed approach, we perform extensive experiments on a comprehensive gastrointestinal disease dataset, such as 
+			the Hyper-Kvasir dataset. Through thorough comparisons with existing works, we demonstrate the strong classification accuracy, 
+			robustness and interpretability of our model.
 		</font>
 	</p>
 </div>
@@ -142,7 +144,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))
+	<font size="3"><strong>Conference:</strong><em>2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
