@@ -9,6 +9,171 @@ author_profile: true
 
 ## 2023
 ---------
+<!-- Paper 09 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Contrastive Learning for API Aspect Analysis**</span>](https://arxiv.org/pdf/2307.16878.pdf) (<span style="color:red"><strong>Core A* conference</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar</strong>, Tahmid Hasan, Anindya Iqbal and Gias Uddin</font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em>38th IEEE/ACM International Conference on Automated Software Engineering</em></font> ([ASE 2023](https://conf.researchr.org/home/ase-2023))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#ase2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372784896_Contrastive_Learning_for_API_Aspect_Analysis)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/shahariar-shibli/Contrastive-Learning-for-API-Aspect-Analysis)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://www.youtube.com/watch?v=ZB9CMhRz7Pc)] [<a style="color:red;" href="#" onclick="$('#ase2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="ase2023_bib" class="bib" style="display:none;">
+	<pre>
+	  @article{shahariar2023contrastive,
+		  title={Contrastive Learning for API Aspect Analysis},
+		  author={Shahariar, GM and Hasan, Tahmid and Iqbal, Anindya and Uddin, Gias},
+		  journal={arXiv preprint arXiv:2307.16878},
+		  year={2023}
+		}
+	</pre>
+</div>
+
+<div id="ase2023_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			We present a novel approach - CLAA - for API aspect detection in API reviews that utilizes transformer models 
+			trained with a supervised contrastive loss objective function. We evaluate CLAA using performance and impact analysis. 
+			For performance analysis, we utilized a benchmark dataset on developer discussions collected from Stack Overflow and 
+			compare the results to those obtained using state-of-the-art transformer models. Our experiments show that contrastive 
+			learning can significantly improve the performance of transformer models in detecting aspects such as Performance, 
+			Security, Usability, and Documentation. For impact analysis, we performed empirical and developer study. On a randomly 
+			selected and manually labeled 200 online reviews, CLAA achieved 92% accuracy while the SOTA baseline achieved 81.5%. 
+			According to our developer study involving 10 participants, the use of 'Stack Overflow + CLAA' resulted in increased 
+			accuracy and confidence during API selection.
+		</font>
+	</p>
+</div>
+
+<!-- Paper 08 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="ecce2023_bib" class="bib" style="display:none;">
+	<pre>
+	  @INPROCEEDINGS{10101588,
+	  author={Belal, Tanveer Ahmed and Shahariar, G. M. and Kabir, Md. Hasanul},
+	  booktitle={2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)}, 
+	  title={Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning}, 
+	  year={2023},
+	  volume={},
+	  number={},
+	  pages={1-6},
+	  doi={10.1109/ECCE57851.2023.10101588}}
+	</pre>
+</div>
+
+<div id="ecce2023_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
+			in which at first a binary classification model is used to determine whether a comment is toxic or not, 
+			and then a multi-label classifier is employed to determine which toxicity type the comment belongs to. 
+			For this purpose, we have prepaBlue a manually labeled dataset consisting of 16,073 instances among which 8,488 are Toxic 
+			and any toxic comment may correspond to one or more of the six toxic categories - vulgar, hate, religious, threat, troll, 
+			and insult simulta-neously. Long Short Term Memory (LSTM) with BERT Embedding achieved 89.42% accuracy for the binary classification 
+			task while as a multi-label classifier, a combination of Convolutional Neural Network and Bi-directional Long Short Term Memory 
+			(CNN-BiLSTM) with attention mechanism achieved 78.92% accuracy and 0.86 as weighted F1-score. To explain the pBlueictions and interpret 
+			the word feature importance during classification by the proposed models, we utilized Local Interpretable Model-Agnostic Explanations (LIME) framework.
+		</font>
+	</p>
+</div>
+
+<!-- Paper 07 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="ecce2023_bib" class="bib" style="display:none;">
+	<pre>
+	  @INPROCEEDINGS{10101588,
+	  author={Belal, Tanveer Ahmed and Shahariar, G. M. and Kabir, Md. Hasanul},
+	  booktitle={2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)}, 
+	  title={Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning}, 
+	  year={2023},
+	  volume={},
+	  number={},
+	  pages={1-6},
+	  doi={10.1109/ECCE57851.2023.10101588}}
+	</pre>
+</div>
+
+<div id="ecce2023_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
+			in which at first a binary classification model is used to determine whether a comment is toxic or not, 
+			and then a multi-label classifier is employed to determine which toxicity type the comment belongs to. 
+			For this purpose, we have prepaBlue a manually labeled dataset consisting of 16,073 instances among which 8,488 are Toxic 
+			and any toxic comment may correspond to one or more of the six toxic categories - vulgar, hate, religious, threat, troll, 
+			and insult simulta-neously. Long Short Term Memory (LSTM) with BERT Embedding achieved 89.42% accuracy for the binary classification 
+			task while as a multi-label classifier, a combination of Convolutional Neural Network and Bi-directional Long Short Term Memory 
+			(CNN-BiLSTM) with attention mechanism achieved 78.92% accuracy and 0.86 as weighted F1-score. To explain the pBlueictions and interpret 
+			the word feature importance during classification by the proposed models, we utilized Local Interpretable Model-Agnostic Explanations (LIME) framework.
+		</font>
+	</p>
+</div>
+
+<!-- Paper 06 -->
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
+</span>
+<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))
+</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="ecce2023_bib" class="bib" style="display:none;">
+	<pre>
+	  @INPROCEEDINGS{10101588,
+	  author={Belal, Tanveer Ahmed and Shahariar, G. M. and Kabir, Md. Hasanul},
+	  booktitle={2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)}, 
+	  title={Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning}, 
+	  year={2023},
+	  volume={},
+	  number={},
+	  pages={1-6},
+	  doi={10.1109/ECCE57851.2023.10101588}}
+	</pre>
+</div>
+
+<div id="ecce2023_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
+			in which at first a binary classification model is used to determine whether a comment is toxic or not, 
+			and then a multi-label classifier is employed to determine which toxicity type the comment belongs to. 
+			For this purpose, we have prepaBlue a manually labeled dataset consisting of 16,073 instances among which 8,488 are Toxic 
+			and any toxic comment may correspond to one or more of the six toxic categories - vulgar, hate, religious, threat, troll, 
+			and insult simulta-neously. Long Short Term Memory (LSTM) with BERT Embedding achieved 89.42% accuracy for the binary classification 
+			task while as a multi-label classifier, a combination of Convolutional Neural Network and Bi-directional Long Short Term Memory 
+			(CNN-BiLSTM) with attention mechanism achieved 78.92% accuracy and 0.86 as weighted F1-score. To explain the pBlueictions and interpret 
+			the word feature importance during classification by the proposed models, we utilized Local Interpretable Model-Agnostic Explanations (LIME) framework.
+		</font>
+	</p>
+</div>
+
 <!-- Paper 05 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
 <span style="color:black;font-family:Georgia">
