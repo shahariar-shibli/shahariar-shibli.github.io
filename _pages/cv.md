@@ -8,7 +8,7 @@ redirect_from:
 ---
 <span style="color:black; font-family:Georgia;">You can download a pdf copy of my <a href="../files/CV/CV-of-Shibli.pdf">[CV]</a> here.</span>
 
-<iframe src="/files/CV/CV-of-Shibli.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
 
 <br>
 <span style="color:brown; font-family:Georgia;">Feel free to contact regarding any queries.</span>
