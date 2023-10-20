@@ -222,7 +222,7 @@ author_profile: true
 <!-- Paper 04 -->
 📌 [<span style="color:blue;font-family:Trebuchet MS;">**Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks**</span>](https://ieeexplore.ieee.org/document/10236810)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Md. Tanvir Rouf Shawon, <strong style="color:green">G. M. Shahariar</strong>, Faisal Muhammad Shah, Mohammad Shafiul Alam, and Md. Shahriar Mahbub</font>
+	<font size="3"><strong>Authors</strong>: Md. Tanvir Rouf Shawon*, <strong style="color:green">G. M. Shahariar*</strong>, Faisal Muhammad Shah, Mohammad Shafiul Alam, and Md. Shahriar Mahbub</font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
