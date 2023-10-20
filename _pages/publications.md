@@ -49,43 +49,46 @@ author_profile: true
 </div>
 
 <!-- Paper 08 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning**</span>](https://ieeexplore.ieee.org/document/10101588) (<span style="color:red"><strong>Best Paper Award</strong></span> 🏆)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach**</span>](https://arxiv.org/pdf/2307.07392.pdf) <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Tanveer Ahmed Belal, <strong style="color:green">G. M. Shahariar</strong>, and Md. Hasanul Kabir </font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar*</strong>, Tonmoy Talukder*, Rafin Alam Khan Sotez and Md. Tanvir Rouf Shawon </font>
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em> 3rd International Conference on Electrical, Computer and Communication Engineering</em></font> ([ECCE 2023](https://webs.cuet.ac.bd/ecce/))
+	<font size="3"><strong>Conference:</strong><em> 2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#ecce2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/369924719_Interpretable_Multi_Labeled_Bengali_Toxic_Comments_Classification_using_Deep_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/ECCE2023/ECCE-Toxic-Comments-Presentation.pptx)] [<a style="color:red;" href="#" onclick="$('#ecce2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#rank2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372404336_Rank_Your_Summaries_Enhancing_Bengali_Text_Summarization_via_Ranking-based_Approach)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/TonmoyTalukder/Rank-Your-Summaries-Enhancing-Bengali-Text-Summarization-via-Ranking-based-Approach)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/BIM2023/Paper-312.pdf)] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
-<div id="ecce2023_bib" class="bib" style="display:none;">
+<div id="rank2023_bib" class="bib" style="display:none;">
 	<pre>
-	  @INPROCEEDINGS{10101588,
-	  author={Belal, Tanveer Ahmed and Shahariar, G. M. and Kabir, Md. Hasanul},
-	  booktitle={2023 International Conference on Electrical, Computer and Communication Engineering (ECCE)}, 
-	  title={Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning}, 
-	  year={2023},
-	  volume={},
-	  number={},
-	  pages={1-6},
-	  doi={10.1109/ECCE57851.2023.10101588}}
+		@article{shahariar2023rank,
+		  title={Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach},
+		  author={Shahariar, GM and Talukder, Tonmoy and Sotez, Rafin Alam Khan and Shawon, Md Tanvir Rouf},
+		  journal={arXiv preprint arXiv:2307.07392},
+		  year={2023}
+		}
 	</pre>
 </div>
 
-<div id="ecce2023_abstract" class="abstract" style="display:none;">
+<div id="rank2023_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
-			This paper presents a deep learning-based pipeline for categorizing Bengali toxic comments, 
-			in which at first a binary classification model is used to determine whether a comment is toxic or not, 
-			and then a multi-label classifier is employed to determine which toxicity type the comment belongs to. 
-			For this purpose, we have prepaBlue a manually labeled dataset consisting of 16,073 instances among which 8,488 are Toxic 
-			and any toxic comment may correspond to one or more of the six toxic categories - vulgar, hate, religious, threat, troll, 
-			and insult simulta-neously. Long Short Term Memory (LSTM) with BERT Embedding achieved 89.42% accuracy for the binary classification 
-			task while as a multi-label classifier, a combination of Convolutional Neural Network and Bi-directional Long Short Term Memory 
-			(CNN-BiLSTM) with attention mechanism achieved 78.92% accuracy and 0.86 as weighted F1-score. To explain the pBlueictions and interpret 
-			the word feature importance during classification by the proposed models, we utilized Local Interpretable Model-Agnostic Explanations (LIME) framework.
+			With the increasing need for text summarization techniques that are both efficient and accurate, it becomes 
+			crucial to explore avenues that enhance the quality and precision of pre-trained models specifically tailored 
+			for summarizing Bengali texts. When it comes to text summarization tasks, there are numerous pre-trained transformer 
+			models at one's disposal. Consequently, it becomes quite a challenge to discern the most informative and relevant 
+			summary for a given text among the various options generated by these pre-trained summarization models. This paper 
+			aims to identify the most accurate and informative summary for a given text by utilizing a simple but effective 
+			ranking-based approach that compares the output of four different pre-trained Bengali text summarization models. 
+			The process begins by carrying out preprocessing of the input text that involves eliminating unnecessary elements 
+			such as special characters and punctuation marks. Next, we utilize four pre-trained summarization models to generate 
+			summaries, followed by applying a text ranking algorithm to identify the most suitable summary. Ultimately, the summary 
+			with the highest ranking score is chosen as the final one. To evaluate the effectiveness of this approach, the generated 
+			summaries are compared against human-annotated summaries using standard NLG metrics such as BLEU, ROUGE, BERTScore, WIL, 
+			WER, and METEOR. Experimental results suggest that by leveraging the strengths of each pre-trained transformer model and 
+			combining them using a ranking-based approach, our methodology significantly improves the accuracy and effectiveness of 
+			the Bengali text summarization.
 		</font>
 	</p>
 </div>
