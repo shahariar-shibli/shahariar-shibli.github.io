@@ -17,7 +17,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em>38th IEEE/ACM International Conference on Automated Software Engineering</em></font> ([ASE 2023](https://conf.researchr.org/home/ase-2023))
+	<font size="3"><strong>Conference:</strong><em> 38th IEEE/ACM International Conference on Automated Software Engineering</em></font> ([ASE 2023](https://conf.researchr.org/home/ase-2023))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#ase2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372784896_Contrastive_Learning_for_API_Aspect_Analysis)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/shahariar-shibli/Contrastive-Learning-for-API-Aspect-Analysis)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://www.youtube.com/watch?v=ZB9CMhRz7Pc)] [<a style="color:red;" href="#" onclick="$('#ase2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
@@ -56,7 +56,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em>2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
+	<font size="3"><strong>Conference:</strong><em> 2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#rank2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372404336_Rank_Your_Summaries_Enhancing_Bengali_Text_Summarization_via_Ranking-based_Approach)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/TonmoyTalukder/Rank-Your-Summaries-Enhancing-Bengali-Text-Summarization-via-Ranking-based-Approach)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/BIM2023/Paper-312.pdf)] [<a style="color:red;" href="#" onclick="$('#rank2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
@@ -101,7 +101,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em>2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
+	<font size="3"><strong>Conference:</strong><em> 2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#gas2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/372417019_Gastrointestinal_Disease_Classification_through_Explainable_and_Cost-Sensitive_Deep_Neural_Networks_with_Supervised_Contrastive_Learning)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/dibya404/Gastrointestinal-Disease-Classification-through-Explainable-and-Cost-Sensitive-DNN-with-SCL)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/BIM2023/Paper-307.pptx)] [<a style="color:red;" href="#" onclick="$('#gas2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
@@ -145,7 +145,7 @@ author_profile: true
 </span>
 <br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Conference:</strong><em>2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
+	<font size="3"><strong>Conference:</strong><em> 2nd International Conference on Big Data, IoT and Machine Learning</em></font> ([BIM 2023](https://confbim.com/))
 </span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#traffic2023_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.researchgate.net/publication/374236414_Evaluating_the_Reliability_of_CNN_Models_on_Classifying_Traffic_and_Road_Signs_using_LIME)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/BIM2023/Paper-312.pdf)] [<a style="color:red;" href="#" onclick="$('#traffic2023_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
