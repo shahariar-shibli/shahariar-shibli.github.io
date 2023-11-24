@@ -9,9 +9,9 @@ author_profile: true
 <code>✔️ Natural Language Processing, Natural Language Generation</code> <br/>
 <code>✔️ Summarization, Low Resource Language, Question Answering</code> <br/>
 <code>✔️ Representation Learning: Generative and Contrastive Learning</code> <br/>
-<code>✔️ NLP Applications in Software Engineering</code> <br/>
-<code>✔️ Interpretability and Analysis of language models</code> <br/>
-<code>✔️ Computer Vision, Medical Imaging</code>
+<code>✔️ NLP based Software Engineering</code> <br/>
+<code>✔️ Interpretability and Analysis of LMs</code> <br/>
+<code>✔️ Bias, Fairness and Adversarial Robustness in PLMs and LLMs</code>
 </span>
 <br/>
 
@@ -19,7 +19,6 @@ author_profile: true
 ## Ongoing Works
 <span style="font-family:Trebuchet MS;">
 🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br/>
-🔨 <span style="color:#6E2C00">Noise Aware Contrastive Learning for Sentiment Detection</span><br/>
 🔨 <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span><br/>
 🔨 <span style="color:#6E2C00">Bengali Story Genre Categorization</span><br/>
 🔨 <span style="color:#6E2C00">PhyloBERT: Investigating the Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span>
@@ -36,21 +35,19 @@ author_profile: true
 <span style="font-family:Trebuchet MS;">
 <!--
 ⏳ <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Engineering Applications of Artificial Intelligence]](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)<br/>
-⏳ <span style="color:#6E2C00">Noise Aware Contrastive Learning for Sentiment Detection</span> [[ICSE 2024]](https://conf.researchr.org/home/icse-2024)<br/>
 ⏳ <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[EMNLP 2023]](https://2023.emnlp.org/)<br/>
 -->
-⏳ <span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span> [[ICCIT 2023]](https://iccit.org.bd/2023/)<br/>
 ⏳ <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[SN Computer Science]](https://www.springer.com/journal/42979/) [[arXiv]](https://arxiv.org/pdf/2307.06979.pdf)<br/>
-⏳ <span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span> [[Knowledge and Information Systems]](https://www.springer.com/journal/10115)<br/>
+⏳ <span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span> [[Journal of Healthcare Informatics Research]](https://link.springer.com/journal/41666)<br/>
 ⏳ <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042) [[arXiv]](https://arxiv.org/pdf/2308.00608.pdf)
 </span>
 
-<!--
 ## Accepted
 <span style="font-family:Trebuchet MS;">
-📢 <span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span> [[ASE 2023]](https://conf.researchr.org/track/ase-2023/ase-2023-papers) [[arXiv]](https://arxiv.org/pdf/2307.16878.pdf)<br/>
+📢 <span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span> [[ICCIT 2023]](https://iccit.org.bd/2023/)<br/><br/>
+📢 <span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span> [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)<br/><br/>
 </span>
--->
+
 
 ## Funding
 <span style="font-family:Trebuchet MS; color:black;">
