@@ -44,8 +44,8 @@ author_profile: true
 
 ## Accepted
 <span style="font-family:Trebuchet MS;">
-📢 <span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span> [[ICCIT 2023]](https://iccit.org.bd/2023/)<br/><br/>
-📢 <span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span> [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)<br/><br/>
+📢 <span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span> [[ICCIT 2023]](https://iccit.org.bd/2023/)<br/>
+📢 <span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span> [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)
 </span>
 
 
