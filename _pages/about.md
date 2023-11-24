@@ -19,14 +19,11 @@ resources. I find enjoyment in competitive programming and have managed to solve
 
 
 <p style="text-align:justify;color:black; font-family:Georgia">
-<b>Research</b>. In the era of artificial intelligence (AI), creating effective natural language processing (NLP) systems demands 
-abundant annotated data. However, the challenge lies in the fact that most large-scale labeled datasets are only available for 
-a few languages, leaving low-resource languages like Bengali with limited or no annotations, hindering the adoption of advanced 
-NLP techniques. My main goal is to pioneer innovative approaches that tackle this scarcity of labeled data and resources in 
-Bengali NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
-and <em>interpretability of language models</em>. I intend to utilize cutting-edge techniques like <em>generative</em> and 
+<b>Research</b>. My research works are intended to tackle low resource Bengali NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
+and <em>interpretability of language models</em>. I have utilized cutting-edge techniques like <em>generative</em> and 
 <em>contrastive learning</em> to improve language generation and <em>representation learning</em> for Bengali. 
-Additionally, I have also applied natural language processing in specific <em>software engineering (SE)</em> tasks.
+Additionally, I have also applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am actively
+engaged in investigating bias, fairness and adversarial robustness in PLMs and LLMs.
 </p>
 
 <p style="text-align:justify;color:black; font-family:Georgia">
