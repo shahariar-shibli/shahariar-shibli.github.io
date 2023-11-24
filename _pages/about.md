@@ -43,6 +43,7 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 ## Recent News ⚡
 <span style="font-family:Monaco; color:black;">1. <span style="color:brown">[November 2023]</span> -  I have joined the [BUET CSE NLP GROUP](https://csebuetnlp.github.io/)!</span><br/>
+<span style="font-family:Monaco; color:black;">7. <span style="color:brown">[November 2023]</span> - One paper of my undergraduate thesis group got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!<br/>
 <span style="font-family:Monaco; color:black;">2. <span style="color:brown">[November 2023]</span> -  Our paper [Ben-Sarc](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) got accepted in [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)! <span style="color:red;">[Cambridge Q1 journal]</span></span><br/>
 <span style="font-family:Monaco; color:black;">3. <span style="color:brown">[October 2023]</span> -  I will supervise Three undergraduate thesis groups starting this semester!</span><br/>
 <span style="font-family:Monaco; color:black;">4. <span style="color:brown">[August 2023]</span> - I have become a <span style="color:red;">Reviewer</span> of [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications). <span style="color:red;">[Elsevier Q1 journal]</span></span><br/>
