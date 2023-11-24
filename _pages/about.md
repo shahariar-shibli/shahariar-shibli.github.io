@@ -28,8 +28,8 @@ Additionally, I have also applied natural language processing in specific <em>so
 <p style="text-align:justify;color:black; font-family:Georgia">
 <b>Collaboration</b>.  In my research journey, I have recognized the importance of collaboration. Alongside my B.Sc. supervisor and 
 colleagues, I have worked with researchers from various institutes. Notable collaborations include 
-<a href="https://giasuddin.ca/">Dr. Gias Uddin</a> and 
-<a href="https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal">Dr. Anindya Iqbal</a> on an accepted SE paper for ASE 2023. I also 
+<a href="https://giasuddin.ca/">Dr. Gias Uddin</a>, 
+<a href="https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal">Dr. Anindya Iqbal</a> and <a href="https://tahmid04.github.io/">Tahmid Hasan</a> on an accepted SE paper for ASE 2023. I also 
 had the privilege of working with <a href="https://cse.iutoic-dhaka.edu/profile/hasanul">Dr. Md. Hasanul Kabir</a> on a Bengali toxic 
 comments classification paper that received the best paper award in ECCE 2023. Additionally, 
 <a href="https://cse.iutoic-dhaka.edu/profile/hasan/education">Dr. Hasan Mahmud</a> and I collaborated on two papers related to the 
