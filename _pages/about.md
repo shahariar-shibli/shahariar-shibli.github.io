@@ -22,8 +22,7 @@ resources. I find enjoyment in competitive programming and have managed to solve
 <b>Research</b>. My research works are intended to tackle low resource Bengali NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
 and <em>interpretability of language models</em>. I have utilized cutting-edge techniques like <em>generative</em> and 
 <em>contrastive learning</em> to improve language generation and <em>representation learning</em> for Bengali. 
-Additionally, I have also applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am actively
-engaged in investigating bias, fairness and adversarial robustness in PLMs and LLMs.
+Additionally, I have also applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am investigating bias, fairness and adversarial robustness in PLMs and LLMs.
 </p>
 
 <p style="text-align:justify;color:black; font-family:Georgia">
