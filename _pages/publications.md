@@ -17,7 +17,7 @@ author_profile: true
 </span>
 <br>
 	<span style="color:black;font-family:Georgia">
-		<font size="3"><strong>Journal:</strong><em>Natural Language Engineering</em></font> [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)
+		<font size="3"><strong>Journal: </strong><em>Natural Language Engineering</em></font> ([Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering))
 	</span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#inreview_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://engrxiv.org/preprint/view/2102/4194)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://docs.google.com/spreadsheets/d/1paQG4X28R7kiV3zYN9Lwa3mJgouXZjqL/edit#gid=785602251)] [<a style="color:red;" href="#" onclick="$('#inreview_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
