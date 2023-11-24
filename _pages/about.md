@@ -22,6 +22,7 @@ Engineering from the same university. My career aspiration is to work in leading
 and <em>interpretability of language models</em>. I have utilized cutting-edge techniques like <em>generative</em> and 
 <em>contrastive learning</em> to improve language generation and <em>representation learning</em> for Bengali. 
 Additionally, I have also applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am investigating bias, fairness and adversarial robustness in PLMs and LLMs.
+<span style="color:red;">I am available and will be more than happy to collaborate. Please feel free to email me.</span>
 </p>
 
 <p style="text-align:justify;color:black; font-family:Georgia">
