@@ -51,7 +51,7 @@ author_profile: true
 
 
 <!-- Paper 09 -->
-📌 [<span style="color:blue;font-family:Trebuchet MS;">**Contrastive Learning for API Aspect Analysis**</span>](https://arxiv.org/pdf/2307.16878.pdf) (<span style="color:red"><strong>Core A*</strong></span>)<br>
+📌 [<span style="color:blue;font-family:Trebuchet MS;">**Contrastive Learning for API Aspect Analysis**</span>](https://ieeexplore.ieee.org/document/10298556) (<span style="color:red"><strong>Core A*</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar</strong>, Tahmid Hasan, Anindya Iqbal and Gias Uddin</font>
 </span>
