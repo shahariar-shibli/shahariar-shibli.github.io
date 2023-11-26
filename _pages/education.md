@@ -39,10 +39,10 @@ GPA: <b>5.00/5.00</b> scale <br/>
 
 ## Awards
 <span style="font-family:Georgia; color:black">
-🏆 <span style="color:brown">Prime Minister Gold Medal</span>, University Grants Commission of Bangladesh, 2018 <br/>
-🏆 <span style="color:brown">Khan Bahadur Ahsanullah Gold Medal</span>, Ahsanullah University of Science and Technology, 2023 <br/>
+🏆 <span style="color:brown">Prime Minister Gold Medal</span>, University Grants Commission of Bangladesh, 26 February, 2020 <br/>
+🏆 <span style="color:brown">Khan Bahadur Ahsanullah Gold Medal</span>, Ahsanullah University of Science and Technology, 24 July, 2023 <br/>
 🏆 <span style="color:brown">Best Paper Award</span>, 2023 International Conference on Electrical, Computer and Communication Engineering (ECCE) <br/>
-🏆 <span style="color:brown">Dean's List of Honor (Ranked <b>1<sup>st</sup></b>)</span>, Ahsanullah University of Science and Technology, 2018<br/>
+🏆 <span style="color:brown">Dean's List of Honor (Ranked <b>1<sup>st</sup></b>)</span>, Ahsanullah University of Science and Technology, 22 December, 2018<br/>
 🏆 <span style="color:brown">Government Scholarship</span>, HSC, Dhaka Board, 2013 <br/>
 🏆 <span style="color:brown">Government Scholarship</span>, SSC, Dhaka Board, 2011 <br/>
 🏆 <span style="color:brown">Government Scholarship</span>, JSC, Dhaka Board, 2008 <br/>
