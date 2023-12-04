@@ -18,23 +18,21 @@ author_profile: true
 
 ## Ongoing Works
 <span style="font-family:Trebuchet MS;">
-🔨 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span><br/>
 🔨 <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span><br/>
 🔨 <span style="color:#6E2C00">Bengali Story Genre Categorization</span><br/>
 🔨 <span style="color:#6E2C00">PhyloBERT: Investigating the Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span>
 </span>
 
-<!---
+
 ## Submitted
 <span style="font-family:Trebuchet MS;">
-📝 
+📝 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Neurocomputing]](https://www.sciencedirect.com/journal/neurocomputing) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)
 </span>
---->
+
 
 ## Under Review
 <span style="font-family:Trebuchet MS;">
 <!--
-⏳ <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Engineering Applications of Artificial Intelligence]](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)<br/>
 ⏳ <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[EMNLP 2023]](https://2023.emnlp.org/)<br/>
 -->
 ⏳ <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[SN Computer Science]](https://www.springer.com/journal/42979/) [[arXiv]](https://arxiv.org/pdf/2307.06979.pdf)<br/>
