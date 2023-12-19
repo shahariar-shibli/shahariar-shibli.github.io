@@ -26,6 +26,7 @@ author_profile: true
 
 ## Submitted
 <span style="font-family:Trebuchet MS;">
+📝 <span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts</span> [[W-NUT, EACL 2024]](https://noisy-text.github.io/2024/)
 📝 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Neurocomputing]](https://www.sciencedirect.com/journal/neurocomputing) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)
 </span>
 
