@@ -18,6 +18,9 @@ author_profile: true
 
 ## Ongoing Works
 <span style="font-family:Trebuchet MS;">
+🔨 <span style="color:#6E2C00">Investigating and Mitigating Gender Bias in Bengali Language Models</span><br/>
+🔨 <span style="color:#6E2C00">Robustness Evaluation of Pretrained Bengali Language Models through Adversarial Attacks</span><br/>
+🔨 <span style="color:#6E2C00">Towards Reliable Bengali Abstractive Summarization: Hallucination Mitigation and Factual Error Correction</span><br/>
 🔨 <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span><br/>
 🔨 <span style="color:#6E2C00">Bengali Story Genre Categorization</span><br/>
 🔨 <span style="color:#6E2C00">PhyloBERT: Investigating the Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span>
