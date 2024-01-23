@@ -23,19 +23,17 @@ author_profile: true
 🔨 <span style="color:#6E2C00">PhyloBERT: Investigating the Effectiveness of Transformer-based BERT variant Models on Distance-based Phylogenetic Tree Construction</span>
 </span>
 
-
+<!--
 ## Submitted
 <span style="font-family:Trebuchet MS;">
-📝 <span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts</span> [[W-NUT, EACL 2024]](https://noisy-text.github.io/2024/)
 📝 <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Neurocomputing]](https://www.sciencedirect.com/journal/neurocomputing) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)
 </span>
+-->
 
 
 ## Under Review
 <span style="font-family:Trebuchet MS;">
-<!--
-⏳ <span style="color:#6E2C00">Bangla Key2Text: Text Generation from Keywords in Bengali</span> [[EMNLP 2023]](https://2023.emnlp.org/)<br/>
--->
+⏳ <span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span> [[Neurocomputing]](https://www.sciencedirect.com/journal/neurocomputing) [[arXiv]](https://arxiv.org/pdf/2308.01987.pdf)<br/>
 ⏳ <span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span> [[SN Computer Science]](https://www.springer.com/journal/42979/) [[arXiv]](https://arxiv.org/pdf/2307.06979.pdf)<br/>
 ⏳ <span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span> [[Journal of Healthcare Informatics Research]](https://link.springer.com/journal/41666) [[arXiv]](https://arxiv.org/pdf/2310.15693.pdf)<br/>
 ⏳ <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042) [[arXiv]](https://arxiv.org/pdf/2308.00608.pdf)
@@ -43,6 +41,7 @@ author_profile: true
 
 ## Accepted
 <span style="font-family:Trebuchet MS;">
+📢 <span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts</span> [[W-NUT, EACL 2024]](https://noisy-text.github.io/2024/)<br/>
 📢 <span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span> [[ICCIT 2023]](https://iccit.org.bd/2023/)<br/>
 📢 <span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span> [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)
 </span>
