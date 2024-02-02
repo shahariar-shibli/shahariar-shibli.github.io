@@ -44,9 +44,9 @@ author_profile: true
 
 ## Accepted
 <span style="font-family:Trebuchet MS;">
-📢 <span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts</span> [[W-NUT, EACL 2024]](https://noisy-text.github.io/2024/)<br/>
+📢 <span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts</span> [[W-NUT, EACL 2024]](https://noisy-text.github.io/2024/) [[arXiv]](https://arxiv.org/pdf/2401.14360.pdf)<br/>
 📢 <span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span> [[ICCIT 2023]](https://iccit.org.bd/2023/)<br/>
-📢 <span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span> [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)
+📢 <span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span> [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering) [[engrxiv]](https://engrxiv.org/preprint/view/2102/4194)
 </span>
 
 
