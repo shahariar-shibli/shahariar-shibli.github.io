@@ -132,4 +132,22 @@ and generation are essential for any NLP application that deals with semantics.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. <em>Natural Language Engineering</em>. [[PDF]](https://engrxiv.org/preprint/view/2102/4194)</span>
 
-## Medical Image Processing
+## Explainable AI (XAI)
+<p style="text-align:justify; color:black; font-family:Georgia">
+Explainable AI in medical image processing, especially when using pretrained models, refers to the ability 
+of the AI system to not only accurately classify medical conditions from images but also to provide insights 
+into the reasoning behind its decisions. For instance, in brain tumor classification, the AI would not only 
+identify the presence of a tumor but also highlight the features in the brain scans that led to its conclusion. 
+Similarly, for cervical cancer classification, the AI would analyze pap smear or HPV test images and explain 
+which patterns or irregularities suggest cancerous changes. In the case of gastrointestinal disease 
+classification, the AI would examine endoscopic images and point out the abnormalities, such as ulcers or 
+polyps, that signify a particular disease. The 'explainable' part means that the model's decision-making 
+process is transparent and understandable to human experts, allowing healthcare professionals to trust and 
+effectively interpret the AI's analysis for better patient outcomes. This is particularly important in 
+healthcare, where the reasoning behind a diagnosis can be as crucial as the diagnosis itself.
+</p>
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span>. MTR Shawon, GM Shibli, F Ahmed, SKS Joy. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2308.00608.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span>. A Mustari, R Ahmed, A Tasnim, JS Juthi and GM Shahariar. <span style="color:green;"><em>Accepted</em></span>. [[PDF]]()</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-sensitive Deep Neural Networks with Supervised Contrastive Learning</span>. D Nath and GM Shahariar. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07603.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span>. MA Rahman, AS Tanim, S Islam, F Pranto, GM Shahariar, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2309.05747.pdf)</span>
