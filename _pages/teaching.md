@@ -170,14 +170,14 @@ genetic combined approaches to computing applications.
 
 
 ## Materials
-<details open>
+<details>
 	<summary><ins>CSE 2103: Data Structures 📂</ins></summary>
 	<ul>
 		<li> <a href="https://www.youtube.com/playlist?list=PLT6AzfnuOJTWqQqDnpJcWY4xarZxolZ3n"><font size="3">Few Lecture Videos</font></a></li>
 	</ul>
 </details> 
 
-<details open>
+<details>
 	<summary><ins>CSE 4125: Distributed Database Systems 📂</ins></summary>
 	<ul>
 		<li> Textbook: <font size="3">Distributed Databases Principles & Systems, Stefano Ceri & Guiseppe Pelagatti, Tata McGraw-Hill Edition 2008.</font></li>
@@ -188,7 +188,7 @@ genetic combined approaches to computing applications.
 	</ul>
 </details> 
 
-<details open>
+<details>
 	<summary><ins>CSE 4126: Distributed Database Systems Lab 📂</ins></summary>
 	<ul>
 		<li> <a href="https://shahariar-shibli.github.io/files/CSE4126/Slides/4126Slides.zip"><font size="3">Slides</font></a> </li>
