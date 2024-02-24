@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "G. M. Shahariar Shibli"
+title                    : "G M Shahariar Shibli"
 title_separator          : "-"
-name                     : &name "G. M. Shahariar Shibli"
+name                     : &name "G M Shahariar Shibli"
 description              : &description "Website"
 url                      : https://shahariar-shibli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "G. M. Shahariar Shibli"
+  name             : "G M Shahariar Shibli"
   avatar           : "profile.jpg"
   bio              : "Senior Lecturer at Department of Computer Science and Engineering of Ahsanullah University of Science and Technology."
   location         : "Dhaka, Bangladesh"
