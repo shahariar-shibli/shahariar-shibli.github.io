@@ -26,12 +26,12 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 + [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 + [International Journal of Human-Computer Interaction](https://www.tandfonline.com/loi/hihc20)
-+ [EMNLP 2023](https://2023.emnlp.org/)
++ [EMNLP 2023](https://2023.emnlp.org/)<br/>
 
 
 ##Competitive Programming
 
-### Problem Solving
+### Problems Solved
 + <span style="color:brown;font-family:Georgia;">Codeforces: </span> [zexon](https://codeforces.com/profile/zexon)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1715$]</span>
 + <span style="color:brown;font-family:Georgia;">Codechef: </span> [zexon](https://www.codechef.com/users/zexon)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1847$]</span>
 + <span style="color:brown;font-family:Georgia;">HackerRank: </span> [zexon](https://www.hackerrank.com/zexon?hr_r=1)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1842$]</span>
@@ -42,7 +42,7 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 + <span style="color:brown;font-family:Georgia;">StopStalk profile: </span> [zexon](https://www.stopstalk.com/user/profile/zexon)
 
 
-### Programming Contest
+### Contests Participated
 + <span style="color:brown;font-family:Georgia;">ACM ICPC Dhaka Regional 2016 -</span> Team: [AUST_angurFolTok](https://algo.codemarshal.org/contests/ICPCDH2016/standings)<span style="font-family:Courier New;color:black;"> - [Place: $30^{th}$]</span>
 + <span style="color:brown;font-family:Georgia;">ACM ICPC Dhaka Regional 2017 -</span> Team: [</AUST_angurFolTok>](https://algo.codemarshal.org/contests/icpc-dhaka-17/standings)<span style="font-family:Courier New;color:black;"> - [Place: $37^{th}$]</span>
 + <span style="color:brown;font-family:Georgia;">SUB IUPC 2017 -</span> Team: [AUST_angurFolTok](https://toph.co/c/sub-inter-2017/standings)<span style="font-family:Courier New;color:black;"> - [Place: $23^{rd}$]</span>
@@ -59,38 +59,9 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 + <span style="color:brown;font-family:Georgia;">Intra Aust Programming Contest</span><span style="font-family:Courier New;color:black;"> [Fall 2018]</span>
 + <span style="color:brown;font-family:Georgia;">CodeWare Intra AUST Programming Contest</span><span style="font-family:Courier New;color:black;"> [Spring 2018]</span>
 
-### Programming Contest Trainer
+### Programming Contest Coach & Trainer
 + <span style="color:brown;font-family:Georgia;">ACM Lab 01, Department of CSE, AUST  </span><span style="font-family:Courier New;color:black;">[2019-2022]</span>
 + <span style="color:brown;font-family:Georgia;">ACM Lab 02, Department of CSE, AUST  </span><span style="font-family:Courier New;color:black;">[2019-2022]</span>
-
-### Programming Contest Coach
-+ <span style="color:brown;font-family:Georgia;">AUST_Onsluaght</span>
-<!--
-	- <span>$31^{st}$ in RUET CSE Fest</span><span style="font-family:Courier New;color:black;"> [2022]</span>
-	- <span>$29^{th}$ in ICPC Asia Dhaka Regional Contest</span><span style="font-family:Courier New;color:black;"> [2021]</span>
-	- <span>$23^{rd}$ in ICPC Asia Dhaka Regional Contest</span><span style="font-family:Courier New;color:black;"> [2020]</span>
-	- <span>$20^{th}$ in ICPC Dhaka Regional Online Preliminary Contest</span><span style="font-family:Courier New;color:black;"> [2020]</span>
-	- <span>$4^{th}$ in EDU Inter University Programming Contest</span><span style="font-family:Courier New;color:black;"> [2020]</span>
-	- <span>$51^{st}$ in MIST National Collegiate Programming Contest</span><span style="font-family:Courier New;color:black;"> [2020]</span>
--->
-+ <span style="color:brown;font-family:Georgia;">AUST_Griffins</span>
-<!--
-	- $27^{th}$ in IUT IUPC <span style="font-family:Courier New;color:black;"> [2019]</span>
-	- $67^{th}$ in MIST IUPC <span style="font-family:Courier New;color:black;"> [2019]</span>
-	- $69^{th}$ in BUET IUPC <span style="font-family:Courier New;color:black;"> [2019]</span>
--->
-+ <span style="color:brown;font-family:Georgia;">AUST_Guerrilla</span>
-<!--
-	- $71^{st}$ in MIST National Collegiate Programming Contest <span style="font-family:Courier New;color:black;"> [2020]</span>
-	- $54^{th}$ in SUB IUPC <span style="font-family:Courier New;color:black;"> [2019]</span>
--->
-+ <span style="color:brown;font-family:Georgia;">AUST_Prometheins</span>
-	- $54^{th}$ in SUB IUPC <span style="font-family:Courier New;color:black;"> [2019]</span>
-
-+ <span style="color:brown;font-family:Georgia;">AUST_Mercenaries</span>
-<!--
-	- $19^{th}$ in Cefalo CodeFiesta AUST IUPC <span style="font-family:Courier New;color:black;"> [2022]</span>
--->
 
 ## Miscellaneous
 + <span style="color:brown;font-family:Georgia;">President</span>, <span style="color:black;font-family:Georgia;">AUST Programming and Informatics Club (AUSTPIC)</span><span style="font-family:Courier New;color:black;">  [2022-Present]</span>
