@@ -4,32 +4,38 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Ongoing Works
-<span style="font-family:Trebuchet MS;">
-🔨 <span style="color:#6E2C00">Investigating and Mitigating Gender Bias in Pre-trained Bengali Language Models</span><br/>
-🔨 <span style="color:#6E2C00">Robustness Evaluation of Pre-trained Bengali Language Models through Adversarial Attacks</span><br/>
-🔨 <span style="color:#6E2C00">Towards Reliable Bengali Abstractive Summarization: Hallucination Mitigation and Factual Error Correction</span><br/>
-</span>
-
-## Accepted
-<span style="font-family:Trebuchet MS;">
-📢 <span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts</span> [[W-NUT, EACL 2024]](https://noisy-text.github.io/2024/) [[arXiv]](https://arxiv.org/pdf/2401.14360.pdf)<br/>
-</span>
-
-
-## Funding
-<span style="font-family:Trebuchet MS; color:black;">
-<b>Project ID</b>: <span style="color:#6E2C00">ARP/2021/CSE/01/2</span><br/>
-<b>Project Title</b>: [Bengali Fake Reviews: A Benchmark Dataset and Detection System](https://www.aust.edu/news/1037)<br/>
-<b>Funded by</b>: <span style="color:#6E2C00">Committee for Advance Studies and Research ([CASR](https://www.aust.edu/casr)), AUST</span><br/>
-<b>Responsibility</b>: <span style="color:#6E2C00">Co-Principal Investigator (CO-PI)</span><br/>
-<b>Duration</b>: <span style="color:#6E2C00">May 2022 - May 2023</span>
-</span>
-
+<p style="text-align:justify; color:black; font-family:Georgia">
+My research delves into the realms of natural language processing (NLP), encompassing both generation (NLG) 
+and understanding (NLU). I aim to leverage contemporary NLP applications across diverse languages and 
+fields in my research endeavors. Some of the research areas I have worked on or am currently working on 
+are listed below.
+</p>
 
 ## 1. Robust NLP
+<p style="text-align:justify; color:black; font-family:Georgia">
+Recent research indicates that numerous natural language processing (NLP) systems exhibit sensitivity and 
+susceptibility to minor input alterations, adversarial attacks, etc. leading to challenges in 
+generalizing across diverse datasets. This lack of robustness poses significant obstacles to the practical 
+deployment of NLP systems. Ongoing work involves investigating the robustness of low resource language models 
+aiming to improve generalization.
+</p>
+### Ongoing Work:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Robustness Evaluation of Pre-trained Bengali Language Models through Adversarial Attacks</span>.</span>
 
 ## 2. Trustworthy NLP
+<p style="text-align:justify; color:black; font-family:Georgia">
+Trustworthy NLP refers to natural language processing systems that exhibit a high level of reliability, accuracy, 
+and credibility in their output. In the context of hallucination mitigation and factual error correction 
+in text summarization, trustworthy NLP entails the ability to effectively identify and rectify misleading 
+or incorrect information present in the generated summaries. Hallucination mitigation involves the prevention 
+of the generation of fictitious or misleading content, ensuring that the summary accurately reflects the 
+input text. Factual error correction, on the other hand, focuses on detecting and rectifying inaccuracies 
+or false claims within the summary to enhance its overall trustworthiness and informativeness. By incorporating 
+robust mechanisms for hallucination mitigation and factual error correction, trustworthy NLP systems can 
+provide users with more reliable and accurate summaries while maintaining a high standard of credibility.
+</p>
+### Ongoing Work:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Towards Reliable Bengali Abstractive Summarization: Hallucination Mitigation and Factual Error Correction</span>.</span>
 
 ## 3. Bias & Fairness
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -186,3 +192,12 @@ genre distinctions.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span>. N Sakib, GM Shahariar, MM Kabir, MK Hasan, H Mahmud. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2310.15693.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset Based on Active Learning</span>. N Sakib, GM Shahariar, MM Kabir, MK Hasan, H Mahmud. <em>MIET 2022</em>. [[PDF]](https://arxiv.org/pdf/2303.16778.pdf)</span>
+
+## Funding
+<span style="font-family:Trebuchet MS; color:black;">
+<b>Project ID</b>: <span style="color:#6E2C00">ARP/2021/CSE/01/2</span><br/>
+<b>Project Title</b>: [Bengali Fake Reviews: A Benchmark Dataset and Detection System](https://www.aust.edu/news/1037)<br/>
+<b>Funded by</b>: <span style="color:#6E2C00">Committee for Advance Studies and Research ([CASR](https://www.aust.edu/casr)), AUST</span><br/>
+<b>Responsibility</b>: <span style="color:#6E2C00">Co-Principal Investigator (CO-PI)</span><br/>
+<b>Duration</b>: <span style="color:#6E2C00">May 2022 - May 2023</span>
+</span>
