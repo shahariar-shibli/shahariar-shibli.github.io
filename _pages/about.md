@@ -27,8 +27,8 @@ Additionally, I have also applied natural language processing in specific <em>so
 
 
 ## Recent News ⚡
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[January 2024]</span>[Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)!</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2023]</span>One paper of my undergraduate thesis group got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2023]</span>[Ben-Sarc](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) got accepted in [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)!</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2023]</span>I will supervise Three undergraduate thesis groups starting this semester!</span>
-+ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2023]</span>[CLAA](https://ieeexplore.ieee.org/document/10298556/) got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers).</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[January 2024]</span> [Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)!</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2023]</span> One paper of my undergraduate thesis group got accepted at [ICCIT 2023](https://iccit.org.bd/2023/)!</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2023]</span> [Ben-Sarc](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) got accepted in [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)!</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2023]</span> I will supervise Three undergraduate thesis groups starting this semester!</span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2023]</span> [CLAA](https://ieeexplore.ieee.org/document/10298556/) got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers).</span>
