@@ -79,7 +79,10 @@ flag and filter out misinformation to maintain the integrity of public discourse
 from being misled by false narratives.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. ECCE 2023. [PDF]()</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span>. AS Chowdhury, GM Shahariar, AT Aziz, SM Alam, MA Sheikh, TA Belal. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2307.06979.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span>. GM Shahariar, MTR Shawon, FM Shah, MS Alam, MS Mahbub. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2308.01987.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks</span>. MTR Shawon, GM Shahariar, FM Shah, MS Alam, MS Mahbub. <em>ICNLP 2023</em>. [[PDF]](https://arxiv.org/ftp/arxiv/papers/2304/2304.02739.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Spam Review Detection Using Deep Learning</span>. GM Shahariar, S Biswas, F Omar, FM Shah, SB Hassan. <em>IEMCON 2019</em>. [[PDF]](https://arxiv.org/pdf/2211.01675.pdf)</span>
 
 ## Text Normalization
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -93,7 +96,7 @@ determine the correct original character during back transliteration. Additional
 to handle ambiguities and variations in the way people transliterate text.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. ECCE 2023. [PDF]()</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Automatic Back Transliteration of Romanized Bengali (Banglish) to Bengali</span>. GMS Shibli, MTR Shawon, AH Nibir, MZ Miandad, NC Mandal. <em>Iran Journal of Computer Science</em>. [[PDF]](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)</span>
 
 
 ## Low Resource Methods for NLP
@@ -109,7 +112,7 @@ tools. However, identifying and moderating these harmful online activities is no
 technical, social, legal, and ethical challenges.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. ECCE 2023. [PDF]()</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. <em>ECCE 2023</em>. [[PDF]](https://arxiv.org/pdf/2304.04087.pdf)</span>
 
 ## Figurative Language Processing
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -122,6 +125,6 @@ of study for both computational and cognitive linguistics, and its automatic ide
 and generation are essential for any NLP application that deals with semantics.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. Natural Language Engineering. [PDF]()</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. <em>Natural Language Engineering</em>. [[PDF]](https://engrxiv.org/preprint/view/2102/4194)</span>
 
 ## Medical Image Processing
