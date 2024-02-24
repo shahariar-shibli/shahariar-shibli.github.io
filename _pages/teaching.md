@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: ""
 ---
 
 > <p>"When one teaches, two learn" <br> &nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
