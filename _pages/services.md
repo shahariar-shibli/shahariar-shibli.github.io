@@ -29,7 +29,7 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 + [EMNLP 2023](https://2023.emnlp.org/)<br/>
 
 
-##Competitive Programming
+## Competitive Programming
 
 ### Problems Solved
 + <span style="color:brown;font-family:Georgia;">Codeforces: </span> [zexon](https://codeforces.com/profile/zexon)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1715$]</span>
