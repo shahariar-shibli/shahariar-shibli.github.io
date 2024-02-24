@@ -75,8 +75,18 @@ author_profile: true
 ## Summarization 
 
 ## Online Abuse and Harms
+<p style="text-align:justify; color:black; font-family:Georgia">
+While digital technologies have revolutionized how we connect and communicate, they have also given a megaphone 
+to harmful content like hate speech, toxic comments, abusive and harmful content. The vastness of online 
+information makes it impossible to address this issue manually, requiring large-scale solutions like computer 
+tools. However, identifying and moderating these harmful online activities is no easy feat, presenting complex 
+technical, social, legal, and ethical challenges.
+</p>
+### Related Paper:
++ [Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning](https://arxiv.org/pdf/2304.04087.pdf). TA Belal, GM Shahariar, MH Kabir. [ECCE 2023]()
 
 ## Figurative Language Processing
+<p style="text-align:justify; color:black; font-family:Georgia">
 Figurative language is prevalent in all aspects of human activity and discourse, from poetry and everyday 
 conversation to scientific literature and  social media. The study of figurative language in NLP, which covers 
 computational modeling of metaphors, idioms, puns, irony, sarcasm, similes, and other forms, is a rapidly 
@@ -84,7 +94,8 @@ expanding field.  Its widespread use is supported by various corpus studies, and
 reasoning has been verified through psychological research. Therefore, figurative language is a crucial area 
 of study for both computational and cognitive linguistics, and its automatic identification, understanding, 
 and generation are essential for any NLP application that deals with semantics.
-#### Related Paper:
+</p>
+### Related Paper:
 + [Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation](https://engrxiv.org/preprint/view/2102/4194). SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan. [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)
 
 
