@@ -40,8 +40,6 @@ author_profile: true
 
 ## Gender Bias
 
-## Representation Learning
-
 ## Misinformation Detection
 <p style="text-align:justify; color:black; font-family:Georgia">
 Misinformation detection in NLP refers to the use of computational techniques to identify false or 
@@ -74,8 +72,23 @@ to handle ambiguities and variations in the way people transliterate text.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Automatic Back Transliteration of Romanized Bengali (Banglish) to Bengali</span>. GMS Shibli, MTR Shawon, AH Nibir, MZ Miandad, NC Mandal. <em>Iran Journal of Computer Science</em>. [[PDF]](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)</span>
 
-
-## Low Resource Methods for NLP
+## Natural Language based Software Engineering
+<p style="text-align:justify; color:black; font-family:Georgia">
+Natural Language Processing (NLP) based Software Engineering is an emerging area that integrates NLP techniques 
+into the software development process to enhance the understanding, creation, and maintenance of software. 
+Leveraging the power of NLP, developers and engineers can automate and improve tasks such as extracting 
+requirements from documentation, generating code from natural language descriptions, analyzing user feedback 
+and bug reports, and maintaining clear and up-to-date documentation. This approach aims to bridge the gap 
+between human language and computer code, allowing for more efficient communication between stakeholders, 
+reducing errors, and streamlining the overall software lifecycle. The use of NLP in software engineering 
+has the potential to significantly increase productivity and improve the accuracy and quality of software 
+products, although it also presents challenges in accurately interpreting the vast and nuanced human language 
+within the context of software development.
+</p>
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Contrastive Learning for API Aspect Analysis</span>. GM Shahariar, T Hasan, A Iqbal, G Uddin. <em>ASE 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.16878.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Effectiveness of Transformer Models on IoT Security Detection in StackOverflow Discussions</span>. NC Mandal, GM Shahariar, MTR Shawon. <em>ICICTD 2023</em>. [[PDF]](https://arxiv.org/pdf/2207.14542.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?</span>. NC Mandal, T Muhammad, GM Shahariar. <em>MIET 2022</em>. [[PDF]](https://arxiv.org/pdf/2209.12065.pdf)</span>
 
 ## Summarization
 <p style="text-align:justify; color:black; font-family:Georgia">
