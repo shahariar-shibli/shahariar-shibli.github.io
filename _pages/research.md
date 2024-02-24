@@ -11,16 +11,9 @@ author_profile: true
 🔨 <span style="color:#6E2C00">Towards Reliable Bengali Abstractive Summarization: Hallucination Mitigation and Factual Error Correction</span><br/>
 </span>
 
-## Under Review
-<span style="font-family:Trebuchet MS;">
-⏳ <span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span> [[Journal of Healthcare Informatics Research]](https://link.springer.com/journal/41666) [[arXiv]](https://arxiv.org/pdf/2310.15693.pdf)<br/>
-⏳ <span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span> [[Multimedia Tools and Applications]](https://www.springer.com/journal/11042) [[arXiv]](https://arxiv.org/pdf/2308.00608.pdf)
-</span>
-
 ## Accepted
 <span style="font-family:Trebuchet MS;">
 📢 <span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts</span> [[W-NUT, EACL 2024]](https://noisy-text.github.io/2024/) [[arXiv]](https://arxiv.org/pdf/2401.14360.pdf)<br/>
-📢 <span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span> [[ICCIT 2023]](https://iccit.org.bd/2023/)<br/>
 </span>
 
 
@@ -34,13 +27,13 @@ author_profile: true
 </span>
 
 
-## Robust NLP
+## 1. Robust NLP
 
-## Trustworthy NLP
+## 2. Trustworthy NLP
 
-## Gender Bias
+## 3. Bias & Fairness
 
-## Misinformation Detection
+## 4. Misinformation Detection
 <p style="text-align:justify; color:black; font-family:Georgia">
 Misinformation detection in NLP refers to the use of computational techniques to identify false or 
 misleading information within text data. This is achieved through algorithms that analyze 
@@ -58,7 +51,7 @@ from being misled by false narratives.
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks</span>. MTR Shawon, GM Shahariar, FM Shah, MS Alam, MS Mahbub. <em>ICNLP 2023</em>. [[PDF]](https://arxiv.org/ftp/arxiv/papers/2304/2304.02739.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Spam Review Detection Using Deep Learning</span>. GM Shahariar, S Biswas, F Omar, FM Shah, SB Hassan. <em>IEMCON 2019</em>. [[PDF]](https://arxiv.org/pdf/2211.01675.pdf)</span>
 
-## Text Normalization
+## 5. Text Normalization
 <p style="text-align:justify; color:black; font-family:Georgia">
 Text normalization in Natural Language Processing (NLP) refers to the process of converting the text into a 
 more consistent and standard form. Back transliteration is a specific type of text normalization that involves 
@@ -72,7 +65,7 @@ to handle ambiguities and variations in the way people transliterate text.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Automatic Back Transliteration of Romanized Bengali (Banglish) to Bengali</span>. GMS Shibli, MTR Shawon, AH Nibir, MZ Miandad, NC Mandal. <em>Iran Journal of Computer Science</em>. [[PDF]](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)</span>
 
-## Natural Language based Software Engineering
+## 6. Natural Language based Software Engineering
 <p style="text-align:justify; color:black; font-family:Georgia">
 Natural Language Processing (NLP) based Software Engineering is an emerging area that integrates NLP techniques 
 into the software development process to enhance the understanding, creation, and maintenance of software. 
@@ -90,7 +83,7 @@ within the context of software development.
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Effectiveness of Transformer Models on IoT Security Detection in StackOverflow Discussions</span>. NC Mandal, GM Shahariar, MTR Shawon. <em>ICICTD 2023</em>. [[PDF]](https://arxiv.org/pdf/2207.14542.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?</span>. NC Mandal, T Muhammad, GM Shahariar. <em>MIET 2022</em>. [[PDF]](https://arxiv.org/pdf/2209.12065.pdf)</span>
 
-## Summarization
+## 7. Summarization
 <p style="text-align:justify; color:black; font-family:Georgia">
 In scenarios where multiple pretrained language models (PLMs) are available for text summarization, 
 choosing the "best" can be challenging due to the variability in their performance depending on the 
@@ -108,7 +101,7 @@ a versatile and practical solution for improving the quality of machine-generate
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span>. GM Shahariar, T Talukder, RAK Sotez, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07392.pdf)</span>
 
-## Online Abuse and Harms
+## 8. Online Abuse and Harms
 <p style="text-align:justify; color:black; font-family:Georgia">
 While digital technologies have revolutionized how we connect and communicate, they have also given a megaphone 
 to harmful content like hate speech, toxic comments, abusive and harmful content. The vastness of online 
@@ -119,7 +112,7 @@ technical, social, legal, and ethical challenges.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. <em>ECCE 2023</em>. [[PDF]](https://arxiv.org/pdf/2304.04087.pdf)</span>
 
-## Figurative Language Processing
+## 9. Figurative Language Processing
 <p style="text-align:justify; color:black; font-family:Georgia">
 Figurative language is prevalent in all aspects of human activity and discourse, from poetry and everyday 
 conversation to scientific literature and  social media. The study of figurative language in NLP, which covers 
@@ -132,7 +125,7 @@ and generation are essential for any NLP application that deals with semantics.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. <em>Natural Language Engineering</em>. [[PDF]](https://engrxiv.org/preprint/view/2102/4194)</span>
 
-## Explainable AI (XAI)
+## 10. Explainable AI (XAI)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Explainable AI in medical image processing, especially when using pretrained models, refers to the ability 
 of the AI system to not only accurately classify medical conditions from images but also to provide insights 
@@ -152,7 +145,7 @@ healthcare, where the reasoning behind a diagnosis can be as crucial as the diag
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-sensitive Deep Neural Networks with Supervised Contrastive Learning</span>. D Nath and GM Shahariar. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07603.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span>. MA Rahman, AS Tanim, S Islam, F Pranto, GM Shahariar, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2309.05747.pdf)</span>
 
-## Culinary Text Classification
+## 11. Culinary Text Classification
 <p style="text-align:justify; color:black; font-family:Georgia">
 This specialized area of text classification focuses on analyzing and categorizing text data related to food, 
 recipes, cooking techniques, and cuisine types. It's a niche within the broader field of text classification 
