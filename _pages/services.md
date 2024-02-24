@@ -46,7 +46,7 @@ and coach for three years at my alma mater, mentoring eight to ten programming c
 I contributed as a problem setter and judge in various contests. Find the details below.
 </p>
 
-### Problems Solved
+### (a) Problems Solved
 + <span style="color:brown;font-family:Georgia;">Codeforces: </span> [zexon](https://codeforces.com/profile/zexon)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1715$]</span>
 + <span style="color:brown;font-family:Georgia;">Codechef: </span> [zexon](https://www.codechef.com/users/zexon)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1847$]</span>
 + <span style="color:brown;font-family:Georgia;">HackerRank: </span> [zexon](https://www.hackerrank.com/zexon?hr_r=1)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1842$]</span>
@@ -57,7 +57,7 @@ I contributed as a problem setter and judge in various contests. Find the detail
 + <span style="color:brown;font-family:Georgia;">StopStalk profile: </span> [zexon](https://www.stopstalk.com/user/profile/zexon)
 
 
-### Contests Participated
+### (b) Contests Participated
 + <span style="color:brown;font-family:Georgia;">ACM ICPC Dhaka Regional 2016 -</span> Team: [AUST_angurFolTok](https://algo.codemarshal.org/contests/ICPCDH2016/standings)<span style="font-family:Courier New;color:black;"> - [Place: $30^{th}$]</span>
 + <span style="color:brown;font-family:Georgia;">ACM ICPC Dhaka Regional 2017 -</span> Team: [</AUST_angurFolTok>](https://algo.codemarshal.org/contests/icpc-dhaka-17/standings)<span style="font-family:Courier New;color:black;"> - [Place: $37^{th}$]</span>
 + <span style="color:brown;font-family:Georgia;">SUB IUPC 2017 -</span> Team: [AUST_angurFolTok](https://toph.co/c/sub-inter-2017/standings)<span style="font-family:Courier New;color:black;"> - [Place: $23^{rd}$]</span>
@@ -67,14 +67,14 @@ I contributed as a problem setter and judge in various contests. Find the detail
 + <span style="color:brown;font-family:Georgia;">Intra AUST Programming Contest Spring 2015 -</span> Team: [Mad_Magicians]()<span style="font-family:Courier New;color:black;"> - [Place: $2^{nd}$]</span>
 + <span style="color:brown;font-family:Georgia;">Intra AUST Programming Contest Fall 2015 -</span> Team: [Anonymous]()<span style="font-family:Courier New;color:black;"> - [Place: $2^{nd}$]</span>
 
-### Problem Setter & Judge 
+### (c) Problem Setter & Judge 
 + <span style="color:brown;font-family:Georgia;">Intra Aust Programming Contest</span><span style="font-family:Courier New;color:black;"> [Spring 2020]</span>
 + <span style="color:brown;font-family:Georgia;">AUST Game of Codes</span><span style="font-family:Courier New;color:black;"> [Fall 2019]</span>
 + <span style="color:brown;font-family:Georgia;">CodeWare Intra AUST Programming Contest</span><span style="font-family:Courier New;color:black;"> [Spring 2019]</span>
 + <span style="color:brown;font-family:Georgia;">Intra Aust Programming Contest</span><span style="font-family:Courier New;color:black;"> [Fall 2018]</span>
 + <span style="color:brown;font-family:Georgia;">CodeWare Intra AUST Programming Contest</span><span style="font-family:Courier New;color:black;"> [Spring 2018]</span>
 
-### Programming Contest Coach & Trainer
+### (d) Programming Contest Coach & Trainer
 + <span style="color:brown;font-family:Georgia;">ACM Lab 01, Department of CSE, AUST  </span><span style="font-family:Courier New;color:black;">[2019-2022]</span>
 + <span style="color:brown;font-family:Georgia;">ACM Lab 02, Department of CSE, AUST  </span><span style="font-family:Courier New;color:black;">[2019-2022]</span>
 
