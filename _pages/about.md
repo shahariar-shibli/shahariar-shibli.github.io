@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings! 👽</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am  G M Shahariar Shibli <button onclick="playMusic()" style='font-size:24px'>pronounce <i class='fas fa-volume-up'></i></button>currently employed as 
+<p style="text-align:justify; color:black; font-family:Georgia">I am  G M Shahariar Shibli <button onclick="playMusic()" style='font-size:16px'>pronounce <i class='fas fa-volume-up'></i></button>currently employed as 
 a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Lecturer (Grade-I)</a> at the Department of CSE, 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
 Engineering from the same university. My career aspiration is to work in leading AI research laboratories. <span style="color:red;">I am looking for a Ph.D. position in Fall 2024</span>.
