@@ -13,8 +13,8 @@ redirect_from:
 <br>
 
 ## Email
-+ <span style="font-family:Trebuchet MS; color:black;">sshibli745[AT]gmail[DOT]com</span><br/>
-+ <span style="font-family:Trebuchet MS; color:black;">shahariar_shibli[DOT]cse[AT]aust[DOT]edu</span>
++ <span style="font-family:Georgia; color:black;">sshibli745[AT]gmail[DOT]com</span><br/>
++ <span style="font-family:Georgia; color:black;">shahariar_shibli[DOT]cse[AT]aust[DOT]edu</span>
 
 ## Social Media
 <span style="color:black; font-family:Georgia;">
