@@ -17,7 +17,7 @@ title: ""
 
 ## Past Positions
 <!-- Lecturer -->
-<span style="font-family:Trebuchet MS; color:black;">
++ <span style="font-family:Trebuchet MS; color:black;">
 <span style="color:#6E2C00">Lecturer (Grade-II)</span><br/>
 [Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
 [Ahsanullah University of Science and Technology](https://aust.edu/)<br/>
@@ -25,7 +25,7 @@ title: ""
 </span>
 
 <!-- Part Time -->
-<span style="font-family:Trebuchet MS; color:black;">
++ <span style="font-family:Trebuchet MS; color:black;">
 <span style="color:#6E2C00">Lecturer (Part-Time Full Load)</span><br/>
 [Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
 [Ahsanullah University of Science and Technology](https://aust.edu/)<br/>
@@ -170,6 +170,13 @@ genetic combined approaches to computing applications.
 
 ## Materials
 <details open>
+	<summary><ins>CSE 2103: Data Structures 📂</ins></summary>
+	<ul>
+		<li> <a href="https://www.youtube.com/playlist?list=PLT6AzfnuOJTWqQqDnpJcWY4xarZxolZ3n"><font size="3">Few Lecture Videos</font></a></li>
+	</ul>
+</details> 
+
+<details open>
 	<summary><ins>CSE 4125: Distributed Database Systems 📂</ins></summary>
 	<ul>
 		<li> Textbook: <font size="3">Distributed Databases Principles & Systems, Stefano Ceri & Guiseppe Pelagatti, Tata McGraw-Hill Edition 2008.</font></li>
@@ -192,16 +199,10 @@ genetic combined approaches to computing applications.
 	</ul>
 </details> 
 
-<details open>
-	<summary><ins>CSE 2103: Data Structures 📂</ins></summary>
-	<ul>
-		<li> <a href="https://www.youtube.com/playlist?list=PLT6AzfnuOJTWqQqDnpJcWY4xarZxolZ3n"><font size="3">Few Lecture Videos</font></a></li>
-	</ul>
-</details> 
-
-
-#### Note
+### Note
+<p style="text-align:justify;color:black; font-family:Georgia">
 Copyright (c) 2024 G. M. Shahariar Shibli. All Rights Reserved. Do not use or copy materials without permission. 
+</p>
 
 
 
