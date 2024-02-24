@@ -25,21 +25,6 @@ Additionally, I have also applied natural language processing in specific <em>so
 <span style="color:red;">I am always available and will be more than happy to collaborate. Please feel free to email.</span>
 </p>
 
-<p style="text-align:justify;color:black; font-family:Georgia">
-<b>Collaboration</b>.  In my research journey, I have recognized the importance of collaboration. Alongside my B.Sc. supervisor and 
-colleagues, I have worked with researchers from various institutes. Notable collaborations include 
-<a href="https://giasuddin.ca/">Dr. Gias Uddin</a> (York University, Canada), 
-<a href="https://cse.buet.ac.bd/faculty_list/detail/anindyaiqbal">Dr. Anindya Iqbal</a> (BUET) and <a href="https://tahmid04.github.io/">Tahmid Hasan</a> (BUET) on an accepted SE paper for ASE 2023. I also 
-had the privilege of working with <a href="https://cse.iutoic-dhaka.edu/profile/hasanul">Dr. Md. Hasanul Kabir</a> (IUT) on a Bengali toxic 
-comments classification paper that received the best paper award in ECCE 2023. Additionally, 
-<a href="https://cse.iutoic-dhaka.edu/profile/hasan/education">Dr. Hasan Mahmud</a> (IUT) and I collaborated on two papers related to the 
-semi-supervised recipe genre categorization task. Currently, I am actively engaged with 
-<a href="http://rifatshahriyar.github.io/">Dr. Rifat Shahriyar</a> (BUET) in exploring knowledge augmentation for open 
-domain question answering. Moreover, I have made significant contributions to a funded project involving 
-<a href="https://www.aust.edu/cse/faculty_member/dr_md_shahriar_mahbub">Dr. Md. Shahriar Mahbub</a> (AUST), co-authoring one paper and being the first 
-author on another, focused on Bengali fake review dataset preparation and benchmark classification systems development.
-</p>
-
 
 ## Recent News ⚡
 <span style="font-family:Monaco; color:black;">1. <span style="color:brown">[January 2024]</span> -  Our Paper [Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)! <span style="color:red;">[Core A conference]</span></span><br/>
