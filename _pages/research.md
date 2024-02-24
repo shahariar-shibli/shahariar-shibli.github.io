@@ -147,7 +147,19 @@ effectively interpret the AI's analysis for better patient outcomes. This is par
 healthcare, where the reasoning behind a diagnosis can be as crucial as the diagnosis itself.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span>. MTR Shawon, GM Shibli, F Ahmed, SKS Joy. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2308.00608.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span>. MTR Shawon, GMS Shibli, F Ahmed, SKS Joy. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2308.00608.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span>. A Mustari, R Ahmed, A Tasnim, JS Juthi and GM Shahariar. <span style="color:green;"><em>Accepted</em></span>. [[PDF]]()</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-sensitive Deep Neural Networks with Supervised Contrastive Learning</span>. D Nath and GM Shahariar. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07603.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span>. MA Rahman, AS Tanim, S Islam, F Pranto, GM Shahariar, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2309.05747.pdf)</span>
+
+## Culinary Text Classification
+<p style="text-align:justify; color:black; font-family:Georgia">
+This specialized area of text classification focuses on analyzing and categorizing text data related to food, 
+recipes, cooking techniques, and cuisine types. It's a niche within the broader field of text classification 
+that deals specifically with culinary content, using NLP techniques to understand and organize recipes based 
+on their ingredients, cooking methods, regional origins, dietary restrictions, or any other relevant culinary 
+genre distinctions.
+</p>
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Towards Automated Recipe Genre Classification using Semi-Supervised Learning</span>. N Sakib, GM Shahariar, MM Kabir, MK Hasan, H Mahmud. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2310.15693.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Assorted, Archetypal and Annotated Two Million (3A2M) Cooking Recipes Dataset Based on Active Learning</span>. N Sakib, GM Shahariar, MM Kabir, MK Hasan, H Mahmud. <em>MIET 2022</em>. [[PDF]](https://arxiv.org/pdf/2303.16778.pdf)</span>
