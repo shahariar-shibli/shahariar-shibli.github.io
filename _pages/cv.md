@@ -11,15 +11,14 @@ redirect_from:
 <iframe src="/files/CV/CV-of-Shibli.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 <br>
-<span style="color:brown; font-family:Georgia;">Feel free to contact regarding any queries.</span>
 
 ## Email
-+ <span style="font-family:Trebuchet MS; color:black;">sshibli745[at]gmail[dot]com [personal] </span><br/>
-+ <span style="font-family:Trebuchet MS; color:black;">shahariar_shibli[dot]cse[at]aust[dot]edu [official] </span>
++ <span style="font-family:Trebuchet MS; color:black;">sshibli745[AT]gmail[DOT]com</span><br/>
++ <span style="font-family:Trebuchet MS; color:black;">shahariar_shibli[DOT]cse[AT]aust[DOT]edu</span>
 
 ## Social Media
 <span style="color:black; font-family:Georgia;">
-You can find me on [LinkedIn](https://www.linkedin.com/in/shahariar-shibli/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/shahariar-shibli/) and [Twitter](https://twitter.com/G_M_Shahariar).
 </span>
 
 ## Office
