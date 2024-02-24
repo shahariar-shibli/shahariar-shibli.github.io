@@ -81,7 +81,20 @@ from being misled by false narratives.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. ECCE 2023. [PDF]()</span>
 
-## Computational Approaches to Linguistic Code-Switching
+## Text Normalization
+<p style="text-align:justify; color:black; font-family:Georgia">
+Text normalization in Natural Language Processing (NLP) refers to the process of converting the text into a 
+more consistent and standard form. Back transliteration is a specific type of text normalization that involves 
+converting transliterated text (text that has been converted from one script to another) back to its original 
+script. Back transliteration is a complex task, as it requires a deep understanding of the phonetics and 
+orthography of both the source and target languages. For instance, multiple characters or sounds from the 
+original script might be represented by the same character in the Latin script, making it difficult to 
+determine the correct original character during back transliteration. Additionally, the process may need 
+to handle ambiguities and variations in the way people transliterate text.
+</p>
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. ECCE 2023. [PDF]()</span>
+
 
 ## Low Resource Methods for NLP
 
