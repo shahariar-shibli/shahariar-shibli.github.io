@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 # 2024
+
 <ul>
-<li><span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> - [Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)! <span style="color:red;">[Core A conference]</span></span></ul>>
+<li><span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> - [Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)! <span style="color:red;">[Core A conference]</span></span></li>
 </ul>
 
 # 2023
@@ -23,13 +24,13 @@ author_profile: true
 9. <span style="font-family:Monaco; color:black;"><span style="color:brown">[June]</span> -  Two papers got published at [MIET 2022](https://link.springer.com/book/10.1007/978-3-031-34622-4), LNICST, Springer. </span><br/>
 10. <span style="font-family:Monaco; color:black;"><span style="color:brown">[February]</span> -  One paper got published at [ECCE 2023](https://webs.cuet.ac.bd/ecce/). <span style="color:red;">[Best Paper Award]</span></span><br/>
 11. <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> -  One paper got published at [ICICTD 2022](https://link.springer.com/book/10.1007/978-981-19-7528-8), SADIC, Springer Nature. </span><br/>
-12. <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> -  One paper got accepted at [ICNLP 2023](http://www.icnlp.net/index.html). </span>
+12. <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> -  One paper got accepted at [ICNLP 2023](http://www.icnlp.net/index.html). </span><br/>
 
 
 # 2022
 
-1. <span style="font-family:Monaco; color:black;">14. <span style="color:brown">[November]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature. </span><br/>
-2. <span style="font-family:Monaco; color:black;">15. <span style="color:brown">[October]</span> -  One paper got published at [ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), LNNS, Springer Nature. </span>
+1. <span style="font-family:Monaco; color:black;"><span style="color:brown">[November]</span> -  One paper got published at [Iran Journal of Computer Science](https://www.springer.com/journal/42044), Springer Nature. </span><br/>
+2. <span style="font-family:Monaco; color:black;"><span style="color:brown">[October]</span> -  One paper got published at [ICFIRB 2022](https://link.springer.com/book/10.1007/978-981-19-2445-3), LNNS, Springer Nature. </span><br/>
 
 # 2019
 
