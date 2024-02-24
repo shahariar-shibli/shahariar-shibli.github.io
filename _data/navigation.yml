@@ -10,16 +10,17 @@ main:
     url: /research/
     
   - title: "Publications"
-    url: /publications/   
+    url: /publications/  
+
+  - title: "Teachings"
+    url: /teaching/   
+
+  - title: "Services"
+    url: /services/    
     
   - title: "Education"
     url: /education/
     
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "CV"
     url: /cv/
     
-  - title: "Services"
-    url: /services/
