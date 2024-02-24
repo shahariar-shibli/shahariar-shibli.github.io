@@ -15,6 +15,22 @@ title: ""
 <span style="color:#6E2C00"><em>October 2021 - Present</em></span>
 </span>
 
+## Past Positions
+<!-- Lecturer -->
+<span style="font-family:Trebuchet MS; color:black;">
+<span style="color:#6E2C00">Lecturer (Grade-II)</span><br/>
+[Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
+[Ahsanullah University of Science and Technology](https://aust.edu/)<br/>
+<span style="color:#6E2C00"><em>July 2019 - October 2021</em></span>
+</span>
+
+<!-- Part Time -->
+<span style="font-family:Trebuchet MS; color:black;">
+<span style="color:#6E2C00">Lecturer (Part-Time Full Load)</span><br/>
+[Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
+[Ahsanullah University of Science and Technology](https://aust.edu/)<br/>
+<span style="color:#6E2C00"><em>January 2019 - July 2019</em></span>
+</span>
 
 ## Courses
 <details>
@@ -175,3 +191,25 @@ genetic combined approaches to computing applications.
 		<li> <a href="https://shahariar-shibli.github.io/files/CSE4126/LabFinal/4126Final.zip"><font size="3">Lab Final Exam Questions</font></a> </li>
 	</ul>
 </details> 
+
+<details open>
+	<summary><ins>CSE 2103: Data Structures 📂</ins></summary>
+	<ul>
+		<li> <a href="https://www.youtube.com/playlist?list=PLT6AzfnuOJTWqQqDnpJcWY4xarZxolZ3n"><font size="3">Few Lecture Videos</font></a></li>
+	</ul>
+</details> 
+
+All Rights Reserved
+
+Copyright (c) ${project.inceptionYear} ${owner}
+
+Created by Techcable
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
