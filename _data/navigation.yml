@@ -6,15 +6,15 @@ main:
   - title: "News"
     url: /news/
     
-  - title: "Education"
-    url: /education/
-    
   - title: "Research"
     url: /research/
     
   - title: "Publications"
-    url: /publications/    
-
+    url: /publications/   
+    
+  - title: "Education"
+    url: /education/
+    
   - title: "Teaching"
     url: /teaching/    
     
