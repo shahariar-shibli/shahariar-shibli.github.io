@@ -45,7 +45,6 @@ author_profile: true
 <span style="font-family:Trebuchet MS;">
 📢 <span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bengali Texts</span> [[W-NUT, EACL 2024]](https://noisy-text.github.io/2024/) [[arXiv]](https://arxiv.org/pdf/2401.14360.pdf)<br/>
 📢 <span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span> [[ICCIT 2023]](https://iccit.org.bd/2023/)<br/>
-📢 <span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span> [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering) [[engrxiv]](https://engrxiv.org/preprint/view/2102/4194)
 </span>
 
 
@@ -57,3 +56,36 @@ author_profile: true
 <b>Responsibility</b>: <span style="color:#6E2C00">Co-Principal Investigator (CO-PI)</span><br/>
 <b>Duration</b>: <span style="color:#6E2C00">May 2022 - May 2023</span>
 </span>
+
+
+## Robust NLP
+
+## Trustworthy NLP
+
+## Gender Bias
+
+## Representation Learning
+
+## Computational Approaches to detect Misinformation
+
+## Computational Approaches to Linguistic Code-Switching
+
+## Low Resource Methods for NLP
+
+## Summarization 
+
+## Online Abuse and Harms
+
+## Figurative Language Processing
+Figurative language is prevalent in all aspects of human activity and discourse, from poetry and everyday 
+conversation to scientific literature and  social media. The study of figurative language in NLP, which covers 
+computational modeling of metaphors, idioms, puns, irony, sarcasm, similes, and other forms, is a rapidly 
+expanding field.  Its widespread use is supported by various corpus studies, and its significance in human 
+reasoning has been verified through psychological research. Therefore, figurative language is a crucial area 
+of study for both computational and cognitive linguistics, and its automatic identification, understanding, 
+and generation are essential for any NLP application that deals with semantics.
+#### Related Paper:
++ [Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation](https://engrxiv.org/preprint/view/2102/4194). SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan. [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)
+
+
+## Medical Image Processing
