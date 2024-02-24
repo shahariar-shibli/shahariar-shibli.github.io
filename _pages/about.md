@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings! 👽</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am currently employed as 
+<p style="text-align:justify; color:black; font-family:Georgia">I am  G M Shahariar Shibli <input type="button" value="pronunciation" onclick="playMusic()" /> currently employed as 
 a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Lecturer (Grade-I)</a> at the Department of CSE, 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
 Engineering from the same university. My career aspiration is to work in leading AI research laboratories. <span style="color:red;">I am looking for a Ph.D. position in Fall 2024</span>.
@@ -32,3 +32,10 @@ Additionally, I have also applied natural language processing in specific <em>so
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[November 2023]</span> [Ben-Sarc](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) got accepted in [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[October 2023]</span> I will supervise Three undergraduate thesis groups starting this semester!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[July 2023]</span> [CLAA](https://ieeexplore.ieee.org/document/10298556/) got accepted at [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers).</span>
+
+<script>
+function playMusic(){
+  var music = new Audio('https://shahariar-shibli.github.io/files/Audio/name.mp3');
+  music.play();
+  }
+</script>
