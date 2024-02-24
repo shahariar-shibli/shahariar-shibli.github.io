@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings! 👽</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am  G M Shahariar Shibli (<button onclick="playMusic()" style='font-size:16px'>pronounce <i class='fas fa-volume-up'></i></button>) currently employed as 
+<p style="text-align:justify; color:black; font-family:Georgia">I am  G M Shahariar Shibli (<button onclick="playMusic()" style='font-size:16px'>pronounce <i class='fas fa-volume-up'></i></button>), currently working as 
 a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Lecturer (Grade-I)</a> at the Department of CSE, 
 <a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
 Engineering from the same university. My career aspiration is to work in leading AI research laboratories. <span style="color:red;">I am looking for a Ph.D. position in Fall 2024</span>.
@@ -18,11 +18,11 @@ Engineering from the same university. My career aspiration is to work in leading
 
 
 <p style="text-align:justify;color:black; font-family:Georgia">
-<b>Research</b>. My research works are intended to tackle low resource Bengali NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
+<b>Research</b>. My research works are intended to tackle low resource NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
 and <em>interpretability of language models</em>. I have utilized cutting-edge techniques like <em>generative</em> and 
-<em>contrastive learning</em> to improve language generation and <em>representation learning</em> for Bengali. 
-Additionally, I have also applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am investigating bias, fairness and adversarial robustness in PLMs and LLMs.
-<span style="color:red;">I am always available and will be more than happy to collaborate. Please feel free to email.</span>
+<em>contrastive learning</em> to improve language generation and <em>representation learning</em> for low resource language. 
+Additionally, I have applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am investigating bias, fairness and adversarial robustness in PLMs and LLMs.
+<span style="color:red;">I am open to the possibility of collaboration. Feel free to email.</span>
 </p>
 
 
