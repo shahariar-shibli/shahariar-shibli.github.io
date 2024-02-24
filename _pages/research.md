@@ -83,7 +83,7 @@ tools. However, identifying and moderating these harmful online activities is no
 technical, social, legal, and ethical challenges.
 </p>
 ### Related Paper:
-+ [Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning](https://arxiv.org/pdf/2304.04087.pdf). TA Belal, GM Shahariar, MH Kabir. [ECCE 2023]()
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">[Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning](https://arxiv.org/pdf/2304.04087.pdf)</span>. TA Belal, GM Shahariar, MH Kabir. [ECCE 2023]()</span>
 
 ## Figurative Language Processing
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -96,8 +96,6 @@ of study for both computational and cognitive linguistics, and its automatic ide
 and generation are essential for any NLP application that deals with semantics.
 </p>
 ### Related Paper:
-<span style="font-family:Trebuchet MS; color:black;">
-+ <span style="color:#6E2C00">[Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation](https://engrxiv.org/preprint/view/2102/4194)</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan. [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)
-</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">[Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation](https://engrxiv.org/preprint/view/2102/4194)</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan. [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)</span>
 
 ## Medical Image Processing
