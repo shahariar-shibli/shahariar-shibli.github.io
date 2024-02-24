@@ -18,7 +18,7 @@ Engineering from the same university. My career aspiration is to work in leading
 
 
 <p style="text-align:justify;color:black; font-family:Georgia">
-<b>Research</b>. My research works are intended to tackle low resource NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
+My research works are intended to tackle low resource NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
 and <em>interpretability of language models</em>. I have utilized cutting-edge techniques like <em>generative</em> and 
 <em>contrastive learning</em> to improve language generation and <em>representation learning</em> for low resource language. 
 Additionally, I have applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am investigating bias, fairness and adversarial robustness in PLMs and LLMs.
