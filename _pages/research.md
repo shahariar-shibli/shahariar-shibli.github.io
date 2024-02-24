@@ -66,7 +66,20 @@ author_profile: true
 
 ## Representation Learning
 
-## Computational Approaches to detect Misinformation
+## Misinformation Detection
+<p style="text-align:justify; color:black; font-family:Georgia">
+Misinformation detection in NLP refers to the use of computational techniques to identify false or 
+misleading information within text data. This is achieved through algorithms that analyze 
+patterns in language, context, and other linguistic cues that might indicate whether the information is 
+trustworthy or not. The importance of misinformation detection lies in its role in combating the spread of 
+fake news, fake reviews, propaganda, and other forms of deceptive content that can influence public opinion, undermine 
+trust in legitimate news sources, and sway political, economic, or social outcomes. With the increasing 
+volume of information disseminated online, it has become crucial to develop robust NLP tools to automatically 
+flag and filter out misinformation to maintain the integrity of public discourse and protect individuals 
+from being misled by false narratives.
+</p>
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. ECCE 2023. [PDF]()</span>
 
 ## Computational Approaches to Linguistic Code-Switching
 
@@ -83,7 +96,7 @@ tools. However, identifying and moderating these harmful online activities is no
 technical, social, legal, and ethical challenges.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">[Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning](https://arxiv.org/pdf/2304.04087.pdf)</span>. TA Belal, GM Shahariar, MH Kabir. [ECCE 2023]()</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Interpretable Multi Labeled Bengali Toxic Comments Classification using Deep Learning</span>. TA Belal, GM Shahariar, MH Kabir. ECCE 2023. [PDF]()</span>
 
 ## Figurative Language Processing
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -96,6 +109,6 @@ of study for both computational and cognitive linguistics, and its automatic ide
 and generation are essential for any NLP application that deals with semantics.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">[Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation](https://engrxiv.org/preprint/view/2102/4194)</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan. [[Natural Language Engineering]](https://www.cambridge.org/core/journals/natural-language-engineering)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. Natural Language Engineering. [PDF]()</span>
 
 ## Medical Image Processing
