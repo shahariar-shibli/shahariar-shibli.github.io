@@ -7,9 +7,7 @@ author_profile: true
 
 # 2024
 
-<ul>
-<li><span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> - [Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)! <span style="color:red;">[Core A conference]</span></span></li>
-</ul>
+1. <span style="font-family:Monaco; color:black;"><span style="color:brown">[January]</span> - [Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)! <span style="color:red;">[Core A conference]</span></span><br/>
 
 # 2023
 
@@ -34,6 +32,4 @@ author_profile: true
 
 # 2019
 
-<ul>
-<li><span style="font-family:Monaco; color:black;">16. <span style="color:brown">[December]</span> -  One paper got published at [IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/). </span></li>
-</ul>
+1. <span style="font-family:Monaco; color:black;"><span style="color:brown">[December]</span> -  One paper got published at [IEMCON 2019](https://ieee-iemcon.org/ieee-iemcon-2019-2/). </span>
