@@ -199,7 +199,10 @@ genetic combined approaches to computing applications.
 	</ul>
 </details> 
 
-[All Rights Reserved. Do not use or copy materials without permission.] 
-Copyright (c) ${2024} ${G. M. Shahariar Shibli}
+
+#### Note
+Copyright (c) 2024 G. M. Shahariar Shibli. All Rights Reserved. Do not use or copy materials without permission. 
+
+
 
 
