@@ -43,8 +43,7 @@ I derive pleasure from competitive programming, solving over 1000 problems on va
 Throughout my four years of undergraduate studies, I actively participated in multiple Inter-University 
 and ACM ICPC Regional programming contests. Post-graduation, I served as a programming contest trainer 
 and coach for three years at my alma mater, mentoring eight to ten programming contest teams. Additionally, 
-I contributed as a problem setter and judge in various contests. Currently, I hold the position of the president 
-at the AUST Programming Club (AUSTPIC).
+I contributed as a problem setter and judge in various contests.
 </p>
 
 ### Problems Solved
