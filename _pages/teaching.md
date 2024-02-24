@@ -33,7 +33,7 @@ title: ""
 <span style="color:#6E2C00"><em>January 2019 - July 2019</em></span>
 </span>
 
-## Courses
+## Conducted Courses 
 <details>
 <summary>CSE 1102: Elementary Structured Programming Lab</summary>
 <span style="color:green"><font size="3"><ins>Conducted in Fall 2021</ins></font></span><br>
