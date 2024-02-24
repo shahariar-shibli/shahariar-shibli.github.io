@@ -4,6 +4,14 @@ title: ""
 permalink: /services/
 author_profile: true
 ---
+## Mentoring
+<p style="text-align:justify;color:black; font-family:Georgia">
+I enjoy advising young researchers, managing and guiding them, fostering interpersonal relationships, and 
+exchanging thoughts on research. I have supervised five undergraduate thesis groups (20 students) in their 
+final-year thesis projects, where they worked on text summarization, question answering, low resource nlp 
+and representation learning, gaining the ability to independently solve problems in their research projects 
+under my guidance.
+</p>
 
 ## Collaboration
 
@@ -30,6 +38,14 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 
 ## Competitive Programming
+<p style="text-align:justify;color:black; font-family:Georgia">
+I derive pleasure from competitive programming, solving over 1000 problems on various online judges. 
+Throughout my four years of undergraduate studies, I actively participated in multiple Inter-University 
+and ACM ICPC Regional programming contests. Post-graduation, I served as a programming contest trainer 
+and coach for three years at my alma mater, mentoring eight to ten programming contest teams. Additionally, 
+I contributed as a problem setter and judge in various contests. Currently, I hold the position of the president 
+at the AUST Programming Club (AUSTPIC).
+</p>
 
 ### Problems Solved
 + <span style="color:brown;font-family:Georgia;">Codeforces: </span> [zexon](https://codeforces.com/profile/zexon)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1715$]</span>
