@@ -32,6 +32,18 @@ author_profile: true
 ## 2. Trustworthy NLP
 
 ## 3. Bias & Fairness
+<p style="text-align:justify; color:black; font-family:Georgia">
+The majority of AI systems and algorithms are data-driven and require data to be trained on. If the 
+underlying training data has biases, the algorithms trained on it will learn about them and incorporate 
+them into their predictions. As a result, existing biases in data might alter the algorithms that use the 
+data, resulting in biased results. This can have significant implications, such as perpetuating 
+discrimination or unfair treatment based on factors like race, gender, or socioeconomic status. 
+To mitigate these issues, it is crucial to implement techniques such as bias detection and fairness-aware 
+machine learning. Ongoing work involves investigating gender biases in low resource pre-trained language models 
+aiming to promote fairness in AI outcomes.
+</p>
+### Ongoing Work:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gender Bias in Pre-trained Bengali Language Models</span>.</span>
 
 ## 4. Misinformation Detection
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -51,21 +63,41 @@ from being misled by false narratives.
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks</span>. MTR Shawon, GM Shahariar, FM Shah, MS Alam, MS Mahbub. <em>ICNLP 2023</em>. [[PDF]](https://arxiv.org/ftp/arxiv/papers/2304/2304.02739.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Spam Review Detection Using Deep Learning</span>. GM Shahariar, S Biswas, F Omar, FM Shah, SB Hassan. <em>IEMCON 2019</em>. [[PDF]](https://arxiv.org/pdf/2211.01675.pdf)</span>
 
-## 5. Text Normalization
+## 5. Sentiment and Social Media Analysis
 <p style="text-align:justify; color:black; font-family:Georgia">
-Text normalization in Natural Language Processing (NLP) refers to the process of converting the text into a 
-more consistent and standard form. Back transliteration is a specific type of text normalization that involves 
-converting transliterated text (text that has been converted from one script to another) back to its original 
-script. Back transliteration is a complex task, as it requires a deep understanding of the phonetics and 
-orthography of both the source and target languages. For instance, multiple characters or sounds from the 
-original script might be represented by the same character in the Latin script, making it difficult to 
-determine the correct original character during back transliteration. Additionally, the process may need 
-to handle ambiguities and variations in the way people transliterate text.
+Computational approaches to sentiment analysis and social media analysis involve the use of natural language 
+processing (NLP) and machine learning techniques to extract and analyze sentiments, opinions, and emotions 
+from textual data. Social media analysis encompasses a broader scope, analyzing not only the sentiment but 
+also the content, trends, and patterns within social media data. It utilizes similar NLP and machine learning 
+methods to extract information about user behavior, trending topics, network interactions, and the spread of 
+information. Furthermore, social network analysis tools can help identify influential users, communities, 
+and the structure of interactions. Both sentiment analysis and social media analysis provide valuable 
+insights for businesses, policymakers, and researchers to understand public opinion, monitor brand reputation, 
+and study social dynamics.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Automatic Back Transliteration of Romanized Bengali (Banglish) to Bengali</span>. GMS Shibli, MTR Shawon, AH Nibir, MZ Miandad, NC Mandal. <em>Iran Journal of Computer Science</em>. [[PDF]](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bangla Texts</span>. KT Elahi, TB Rahman, S Shahriar, S Sarker, MTR Shawon, GM Shahariar. <em>W-NUT, EACL 2024</em>. [[PDF]](https://arxiv.org/pdf/2401.14360.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Urgent Text Detection in Bengali Language Based on Boosting Techniques</span>. R Rahman, T Nazmin, NN Rahman, M Bhuiyan, GM Shahariar, FM Shah. <em>ICFIRB 2022</em>. [[PDF]](https://www.researchgate.net/profile/G-Shahariar/publication/364138051_Urgent_Text_Detection_in_Bengali_Language_Based_on_Boosting_Techniques/links/633ed7bc2752e45ef699d57d/Urgent-Text-Detection-in-Bengali-Language-Based-on-Boosting-Techniques.pdf)</span>
 
-## 6. Natural Language based Software Engineering
+## 6. Summarization
+<p style="text-align:justify; color:black; font-family:Georgia">
+In scenarios where multiple pretrained language models (PLMs) are available for text summarization, 
+choosing the "best" can be challenging due to the variability in their performance depending on the 
+context and nature of the text. Instead, an ensemble approach can be taken, where a variety of summaries 
+generated by different PLMs are ranked to identify the most informative and coherent summary. TextRank-based 
+algorithms, which are inspired by the PageRank algorithm, can be particularly useful in this ensemble 
+framework. By modeling the problem as a graph with summaries as nodes and similarities between them as edges, 
+TextRank can iteratively score each summary based on its similarity to other highly-scored summaries. 
+This process naturally filters out redundant information and promotes summaries that capture the essence 
+of the text from multiple perspectives. The highest-ranked summary according to TextRank can then be selected 
+as the output, providing an effective way to harness the strengths of various PLMs while minimizing their 
+individual biases and errors. This unsupervised approach does not require labeled training data, making it 
+a versatile and practical solution for improving the quality of machine-generated text summarization.
+</p>
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span>. GM Shahariar, T Talukder, RAK Sotez, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07392.pdf)</span>
+
+## 7. Natural Language based Software Engineering
 <p style="text-align:justify; color:black; font-family:Georgia">
 Natural Language Processing (NLP) based Software Engineering is an emerging area that integrates NLP techniques 
 into the software development process to enhance the understanding, creation, and maintenance of software. 
@@ -83,23 +115,6 @@ within the context of software development.
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Effectiveness of Transformer Models on IoT Security Detection in StackOverflow Discussions</span>. NC Mandal, GM Shahariar, MTR Shawon. <em>ICICTD 2023</em>. [[PDF]](https://arxiv.org/pdf/2207.14542.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Can Transformer Models Effectively Detect Software Aspects in StackOverflow Discussion?</span>. NC Mandal, T Muhammad, GM Shahariar. <em>MIET 2022</em>. [[PDF]](https://arxiv.org/pdf/2209.12065.pdf)</span>
 
-## 7. Summarization
-<p style="text-align:justify; color:black; font-family:Georgia">
-In scenarios where multiple pretrained language models (PLMs) are available for text summarization, 
-choosing the "best" can be challenging due to the variability in their performance depending on the 
-context and nature of the text. Instead, an ensemble approach can be taken, where a variety of summaries 
-generated by different PLMs are ranked to identify the most informative and coherent summary. TextRank-based 
-algorithms, which are inspired by the PageRank algorithm, can be particularly useful in this ensemble 
-framework. By modeling the problem as a graph with summaries as nodes and similarities between them as edges, 
-TextRank can iteratively score each summary based on its similarity to other highly-scored summaries. 
-This process naturally filters out redundant information and promotes summaries that capture the essence 
-of the text from multiple perspectives. The highest-ranked summary according to TextRank can then be selected 
-as the output, providing an effective way to harness the strengths of various PLMs while minimizing their 
-individual biases and errors. This unsupervised approach does not require labeled training data, making it 
-a versatile and practical solution for improving the quality of machine-generated text summarization.
-</p>
-### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Rank Your Summaries: Enhancing Bengali Text Summarization via Ranking-based Approach</span>. GM Shahariar, T Talukder, RAK Sotez, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07392.pdf)</span>
 
 ## 8. Online Abuse and Harms
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -125,7 +140,22 @@ and generation are essential for any NLP application that deals with semantics.
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. <em>Natural Language Engineering</em>. [[PDF]](https://engrxiv.org/preprint/view/2102/4194)</span>
 
-## 10. Explainable AI (XAI)
+## 10. Text Normalization
+<p style="text-align:justify; color:black; font-family:Georgia">
+Text normalization in Natural Language Processing (NLP) refers to the process of converting the text into a 
+more consistent and standard form. Back transliteration is a specific type of text normalization that involves 
+converting transliterated text (text that has been converted from one script to another) back to its original 
+script. Back transliteration is a complex task, as it requires a deep understanding of the phonetics and 
+orthography of both the source and target languages. For instance, multiple characters or sounds from the 
+original script might be represented by the same character in the Latin script, making it difficult to 
+determine the correct original character during back transliteration. Additionally, the process may need 
+to handle ambiguities and variations in the way people transliterate text.
+</p>
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Automatic Back Transliteration of Romanized Bengali (Banglish) to Bengali</span>. GMS Shibli, MTR Shawon, AH Nibir, MZ Miandad, NC Mandal. <em>Iran Journal of Computer Science</em>. [[PDF]](https://shahariar-shibli.github.io/files/IRAN2022/Banglish_to_Bangla.pdf)</span>
+
+
+## 11. Explainable AI (XAI)
 <p style="text-align:justify; color:black; font-family:Georgia">
 Explainable AI in medical image processing, especially when using pretrained models, refers to the ability 
 of the AI system to not only accurately classify medical conditions from images but also to provide insights 
@@ -145,7 +175,7 @@ healthcare, where the reasoning behind a diagnosis can be as crucial as the diag
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-sensitive Deep Neural Networks with Supervised Contrastive Learning</span>. D Nath and GM Shahariar. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07603.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span>. MA Rahman, AS Tanim, S Islam, F Pranto, GM Shahariar, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2309.05747.pdf)</span>
 
-## 11. Culinary Text Classification
+## 12. Culinary Text Classification
 <p style="text-align:justify; color:black; font-family:Georgia">
 This specialized area of text classification focuses on analyzing and categorizing text data related to food, 
 recipes, cooking techniques, and cuisine types. It's a niche within the broader field of text classification 
