@@ -177,7 +177,7 @@ healthcare, where the reasoning behind a diagnosis can be as crucial as the diag
 </p>
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span>. MTR Shawon, GMS Shibli, F Ahmed, SKS Joy. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2308.00608.pdf)</span>
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span>. A Mustari, R Ahmed, A Tasnim, JS Juthi and GM Shahariar. <span style="color:green;"><em>Accepted</em></span>. [[PDF]]()</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span>. A Mustari, R Ahmed, A Tasnim, JS Juthi and GM Shahariar. <span style="color:green;"><em>Accepted</em></span>. [[PDF]](https://arxiv.org/pdf/2402.15905.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-sensitive Deep Neural Networks with Supervised Contrastive Learning</span>. D Nath and GM Shahariar. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07603.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span>. MA Rahman, AS Tanim, S Islam, F Pranto, GM Shahariar, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2309.05747.pdf)</span>
 
