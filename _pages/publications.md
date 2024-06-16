@@ -140,7 +140,7 @@ author_profile: true
 </span>
 <br>
 	<span style="color:black;font-family:Georgia">
-		<font size="3"><strong>Journal: </strong><em>26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
+		<font size="3"><strong>Conference: </strong><em>26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
 	</span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#iccit_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2402.15905)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/isha-67/CervicalCancerStudy)] [<a style="color:red;" href="#" onclick="$('#iccit_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
