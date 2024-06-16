@@ -61,40 +61,49 @@ author_profile: true
 
 
 <!-- Paper 03 -->
-📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) (<span style="color:red"><strong>Q1</strong></span>)<br>
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy Bangla Texts**</span>](https://aclanthology.org/2024.wnut-1.5/) (<span style="color:red"><strong>Core A</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad shah</font>
+	<font size="3"><strong>Authors</strong>: Kazi Toufique Elahi, Tasnuva Binte Rahman, Shakil Shahriar, Samir Sarker, Md. Tanvir Rouf Shawon, <strong style="color:green">G. M. Shahariar</strong></font>
 </span>
 <br>
 	<span style="color:black;font-family:Georgia">
-		<font size="3"><strong>Journal: </strong><em>Natural Language Engineering</em></font> ([Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering))
+		<font size="3"><strong>Workshop: </strong><em>Proceedings of the Ninth Workshop on Noisy and User-generated Text collocated with EACL 2024</em></font> ([(W-NUT 2024)](https://noisy-text.github.io/2024/))
 	</span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#inreview_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://engrxiv.org/preprint/view/2102/4194)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://docs.google.com/spreadsheets/d/1paQG4X28R7kiV3zYN9Lwa3mJgouXZjqL/edit#gid=785602251)] [<a style="color:red;" href="#" onclick="$('#inreview_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#wnut_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://aclanthology.org/2024.wnut-1.5.pdf)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/shahariar-shibli/A-Comparative-Analysis-of-Noise-Reduction-Methods-in-Sentiment-Analysis-on-Noisy-Bangla-Texts)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/WNUT2024/NC-SentNoB.pptx)] [<a style="color:red;" href="#" onclick="$('#wnut_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
-<div id="inreview_bib" class="bib" style="display:none;">
+<div id="wnut_bib" class="bib" style="display:none;">
 	<pre>
-		@article{loraben,
-		  title={Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation},
-		  author={Lora, Sanzana Karim and Shahariar, GM and Nazmin, Tamanna and Rahman, Noor Nafeur and Rahman, Rafsan and Bhuiyan, Miyad and others},
-		  publisher={Engineering Archive}
+		@inproceedings{elahi-etal-2024-comparative,
+			title = "A Comparative Analysis of Noise Reduction Methods in Sentiment Analysis on Noisy {B}angla Texts",
+			author = "Elahi, Kazi  and
+			  Rahman, Tasnuva  and
+			  Shahriar, Shakil  and
+			  Sarker, Samir  and
+			  Shawon, Md.  and
+			  Shibli, G. M.",
+			booktitle = "Proceedings of the Ninth Workshop on Noisy and User-generated Text (W-NUT 2024)",
+			month = mar,
+			year = "2024",
+			address = "San {\.G}iljan, Malta",
+			publisher = "Association for Computational Linguistics",
+			url = "https://aclanthology.org/2024.wnut-1.5",
+			pages = "44--57"
 		}
 	</pre>
 </div>
 
-<div id="inreview_abstract" class="abstract" style="display:none;">
+<div id="wnut_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
-			Sarcasm detection research of the Bengali language so far can be considered to be narrow due to the unavailability of resources. 
-			In this paper, we introduce a large-scale self annotated Bengali corpus for sarcasm detection research problem in the Bengali 
-			language named 'Ben-Sarc' containing 25,636 comments, manually collected from different public Facebook pages and evaluated by external 
-			evaluators. Then we present a complete strategy to utilize different models of traditional machine learning, deep learning, and 
-			transfer learning to detect sarcasm from text using the Ben-Sarc corpus. Finally, we demonstrate a comparison between the performance 
-			of traditional machine learning, deep learning, and transfer learning models on our Ben-Sarc corpus. Transfer learning using 
-			Indic-Transformers Bengali BERT as a pre-trained source model has achieved the highest accuracy of 75.05%. The second highest 
-			accuracy is obtained by the LSTM model with 72.48% and Multinomial Naive Bayes is acquired the third highest with 72.36% accuracy 
-			for deep learning and machine learning, respectively. The Ben-Sarc corpus is made publicly available in the hope of advancing 
-			the Bengali Natural Language Processing community.
+			While Bangla is considered a language with limited resources, sentiment analysis has been a subject of extensive research in the 
+			literature. Nevertheless, there is a scarcity of exploration into sentiment analysis specifically in the realm of noisy Bangla texts. 
+			In this paper, we introduce a dataset (NC-SentNoB) that we annotated manually to identify ten different types of noise found in a 
+			pre-existing sentiment analysis dataset comprising of around 15K noisy Bangla texts. At first, given an input noisy text, we identify 
+			the noise type, addressing this as a multi-label classification task. Then, we introduce baseline noise reduction methods to 
+			alleviate noise prior to conducting sentiment analysis. Finally, we assess the performance of fine-tuned sentiment analysis models 
+			with both noisy and noise-reduced texts to make comparisons. The experimental findings indicate that the noise reduction methods 
+			utilized are not satisfactory, highlighting the need for more suitable noise reduction methods in future research endeavors.
 		</font>
 	</p>
 </div>
