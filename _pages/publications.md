@@ -134,7 +134,7 @@ author_profile: true
 </div>
 
 <!-- Paper 01 -->
-📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification**</span>](https://ieeexplore.ieee.org/document/10441352)
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification**</span>](https://ieeexplore.ieee.org/document/10441352)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Ashfiqun Mustari, Rushmia Ahmed, Afsara Tasnim, Jakia Sultana Juthi, <strong style="color:green">G M Shahariar</strong></font>
 </span>
