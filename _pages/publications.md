@@ -11,7 +11,7 @@ author_profile: true
 ## 2024
 ---------
 
-<!-- Paper 10 -->
+<!-- Paper 04 -->
 📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) (<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad shah</font>
@@ -51,7 +51,7 @@ author_profile: true
 </div>
 
 
-<!-- Paper 10 -->
+<!-- Paper 03 -->
 📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) (<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
 	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad shah</font>
@@ -91,10 +91,10 @@ author_profile: true
 </div>
 
 
-<!-- Paper 10 -->
+<!-- Paper 02 -->
 📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Self-Annotated Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095) (<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad shah</font>
+	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad Shah</font>
 </span>
 <br>
 	<span style="color:black;font-family:Georgia">
@@ -129,6 +129,48 @@ author_profile: true
 			the highest accuracy of 75.05%. The second-highest accuracy is obtained by the long short-term memory model with 72.48% and Multinomial 
 			Naive Bayes is acquired the third highest with 72.36% accuracy for deep learning and machine learning, respectively. The Ben-Sarc corpus 
 			is made publicly available in the hope of advancing the Bengali Natural Language Processing Community.
+		</font>
+	</p>
+</div>
+
+<!-- Paper 01 -->
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification**</span>](https://ieeexplore.ieee.org/document/10441352)
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Ashfiqun Mustari, Rushmia Ahmed, Afsara Tasnim, Jakia Sultana Juthi, <strong style="color:green">G M Shahariar</strong></font>
+</span>
+<br>
+	<span style="color:black;font-family:Georgia">
+		<font size="3"><strong>Journal: </strong><em>26th International Conference on Computer and Information Technology</em></font> ([ICCIT 2023](https://iccit.org.bd/2023/))
+	</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#iccit_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2402.15905)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/isha-67/CervicalCancerStudy)] [<a style="color:red;" href="#" onclick="$('#iccit_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="iccit_bib" class="bib" style="display:none;">
+	<pre>
+		@INPROCEEDINGS{10441352,
+			  author={Mustari, Ashfiqun and Ahmed, Rushmia and Tasnim, Afsara and Juthi, Jakia Sultana and Shahariar, G. M.},
+			  booktitle={2023 26th International Conference on Computer and Information Technology (ICCIT)}, 
+			  title={Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification}, 
+			  year={2023},
+			  volume={},
+			  number={},
+			  pages={1-6},
+			  keywords={Visualization;Costs;Sensitivity;System performance;Self-supervised learning;Cervical cancer;Testing;Cervical Cancer;Cost-Sensitive Learning;Contrastive Learning;SIPaKMeD;XAI;LIME;GradCAM},
+			  doi={10.1109/ICCIT60459.2023.10441352}
+		  }
+	</pre>
+</div>
+
+<div id="iccit_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			This paper proposes an efficient system for classifying cervical cancer cells using pre-trained convolutional neural 
+			networks (CNNs). We first fine-tune five pre-trained CNNs and minimize the overall cost of mis-classification by prioritizing 
+			accuracy for certain classes that have higher associated costs or importance. To further enhance the performance of the models, 
+			supervised contrastive learning is included to make the models more adept at capturing important features and patterns. 
+			Extensive experimentation are conducted to evaluate the proposed system on the SIPaKMeD dataset. The experimental results demonstrate 
+			the effectiveness of the developed system, achieving an accuracy of 97.29%. To make our system more trustworthy, we have employed 
+			several explainable AI techniques to interpret how the models reached a specific decision.
 		</font>
 	</p>
 </div>
