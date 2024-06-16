@@ -4,7 +4,9 @@ title: ""
 permalink: /services/
 author_profile: true
 ---
+
 ## Mentoring
+
 <p style="text-align:justify;color:black; font-family:Georgia">
 I enjoy advising young researchers, managing and guiding them, fostering interpersonal relationships, and 
 exchanging thoughts on research. I have supervised five undergraduate thesis groups (20 students) in their 
@@ -32,12 +34,15 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 
 ## Reviewer
 
++ [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
++ [Telematics and Informatics](https://www.sciencedirect.com/journal/telematics-and-informatics)
 + [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 + [International Journal of Human-Computer Interaction](https://www.tandfonline.com/loi/hihc20)
 + [EMNLP 2023](https://2023.emnlp.org/)<br/>
 
 
 ## Competitive Programming
+
 <p style="text-align:justify;color:black; font-family:Georgia">
 I derive pleasure from competitive programming, solving over 1000 problems on various online judges. 
 Throughout my four years of undergraduate studies, I actively participated in multiple Inter-University 
@@ -47,6 +52,7 @@ I contributed as a problem setter and judge in various contests. Find the detail
 </p>
 
 ### (a) Problems Solved
+
 + <span style="color:brown;font-family:Georgia;">Codeforces: </span> [zexon](https://codeforces.com/profile/zexon)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1715$]</span>
 + <span style="color:brown;font-family:Georgia;">Codechef: </span> [zexon](https://www.codechef.com/users/zexon)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1847$]</span>
 + <span style="color:brown;font-family:Georgia;">HackerRank: </span> [zexon](https://www.hackerrank.com/zexon?hr_r=1)<span style="font-family:Courier New;color:black;">  [Maximum ratings: $1842$]</span>
@@ -58,6 +64,7 @@ I contributed as a problem setter and judge in various contests. Find the detail
 
 
 ### (b) Contests Participated
+
 + <span style="color:brown;font-family:Georgia;">ACM ICPC Dhaka Regional 2016 -</span> Team: [AUST_angurFolTok](https://algo.codemarshal.org/contests/ICPCDH2016/standings)<span style="font-family:Courier New;color:black;"> - [Place: $30^{th}$]</span>
 + <span style="color:brown;font-family:Georgia;">ACM ICPC Dhaka Regional 2017 -</span> Team: [</AUST_angurFolTok>](https://algo.codemarshal.org/contests/icpc-dhaka-17/standings)<span style="font-family:Courier New;color:black;"> - [Place: $37^{th}$]</span>
 + <span style="color:brown;font-family:Georgia;">SUB IUPC 2017 -</span> Team: [AUST_angurFolTok](https://toph.co/c/sub-inter-2017/standings)<span style="font-family:Courier New;color:black;"> - [Place: $23^{rd}$]</span>
@@ -68,6 +75,7 @@ I contributed as a problem setter and judge in various contests. Find the detail
 + <span style="color:brown;font-family:Georgia;">Intra AUST Programming Contest Fall 2015 -</span> Team: [Anonymous]()<span style="font-family:Courier New;color:black;"> - [Place: $2^{nd}$]</span>
 
 ### (c) Problem Setter & Judge 
+
 + <span style="color:brown;font-family:Georgia;">Intra Aust Programming Contest</span><span style="font-family:Courier New;color:black;"> [Spring 2020]</span>
 + <span style="color:brown;font-family:Georgia;">AUST Game of Codes</span><span style="font-family:Courier New;color:black;"> [Fall 2019]</span>
 + <span style="color:brown;font-family:Georgia;">CodeWare Intra AUST Programming Contest</span><span style="font-family:Courier New;color:black;"> [Spring 2019]</span>
@@ -75,10 +83,12 @@ I contributed as a problem setter and judge in various contests. Find the detail
 + <span style="color:brown;font-family:Georgia;">CodeWare Intra AUST Programming Contest</span><span style="font-family:Courier New;color:black;"> [Spring 2018]</span>
 
 ### (d) Programming Contest Coach & Trainer
+
 + <span style="color:brown;font-family:Georgia;">ACM Lab 01, Department of CSE, AUST  </span><span style="font-family:Courier New;color:black;">[2019-2022]</span>
 + <span style="color:brown;font-family:Georgia;">ACM Lab 02, Department of CSE, AUST  </span><span style="font-family:Courier New;color:black;">[2019-2022]</span>
 
 ## Miscellaneous
+
 + <span style="color:brown;font-family:Georgia;">President</span>, <span style="color:black;font-family:Georgia;">AUST Programming and Informatics Club (AUSTPIC)</span><span style="font-family:Courier New;color:black;">  [2022-Present]</span>
 + <span style="color:brown;font-family:Georgia;">Convener</span>, <span style="color:black;font-family:Georgia;">Programming Skill Development Committee, Department of CSE, AUST</span><span style="font-family:Courier New;color:black;">  [2019-2022]</span>
 + <span style="color:brown;font-family:Georgia;">Programming Contest Coordinator</span>, <span style="color:black;font-family:Georgia;">Department of Computer Science and Engineering, AUST</span><span style="font-family:Courier New;color:black;">  [2019-2022]</span>
