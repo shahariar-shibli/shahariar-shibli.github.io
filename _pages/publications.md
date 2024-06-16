@@ -8,8 +8,9 @@ author_profile: true
 <span style="color:black; font-family:Georgia;">Most recent publication updates can be found on my <a style ="color:#800080;" href="https://scholar.google.com/citations?hl=en&user=GBaSF7MAAAAJ&view_op=list_works&sortby=pubdate"><em>[Google Scholar]</em></a> profile.</span><br>
 <span style="color:black; font-family:Georgia;">[*] denotes equal contribution</span>
 
-## 2023
+## 2024
 ---------
+
 <!-- Paper 10 -->
 📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) (<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
@@ -48,6 +49,93 @@ author_profile: true
 		</font>
 	</p>
 </div>
+
+
+<!-- Paper 10 -->
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) (<span style="color:red"><strong>Q1</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad shah</font>
+</span>
+<br>
+	<span style="color:black;font-family:Georgia">
+		<font size="3"><strong>Journal: </strong><em>Natural Language Engineering</em></font> ([Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering))
+	</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#inreview_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://engrxiv.org/preprint/view/2102/4194)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://docs.google.com/spreadsheets/d/1paQG4X28R7kiV3zYN9Lwa3mJgouXZjqL/edit#gid=785602251)] [<a style="color:red;" href="#" onclick="$('#inreview_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="inreview_bib" class="bib" style="display:none;">
+	<pre>
+		@article{loraben,
+		  title={Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation},
+		  author={Lora, Sanzana Karim and Shahariar, GM and Nazmin, Tamanna and Rahman, Noor Nafeur and Rahman, Rafsan and Bhuiyan, Miyad and others},
+		  publisher={Engineering Archive}
+		}
+	</pre>
+</div>
+
+<div id="inreview_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			Sarcasm detection research of the Bengali language so far can be considered to be narrow due to the unavailability of resources. 
+			In this paper, we introduce a large-scale self annotated Bengali corpus for sarcasm detection research problem in the Bengali 
+			language named 'Ben-Sarc' containing 25,636 comments, manually collected from different public Facebook pages and evaluated by external 
+			evaluators. Then we present a complete strategy to utilize different models of traditional machine learning, deep learning, and 
+			transfer learning to detect sarcasm from text using the Ben-Sarc corpus. Finally, we demonstrate a comparison between the performance 
+			of traditional machine learning, deep learning, and transfer learning models on our Ben-Sarc corpus. Transfer learning using 
+			Indic-Transformers Bengali BERT as a pre-trained source model has achieved the highest accuracy of 75.05%. The second highest 
+			accuracy is obtained by the LSTM model with 72.48% and Multinomial Naive Bayes is acquired the third highest with 72.36% accuracy 
+			for deep learning and machine learning, respectively. The Ben-Sarc corpus is made publicly available in the hope of advancing 
+			the Bengali Natural Language Processing community.
+		</font>
+	</p>
+</div>
+
+
+<!-- Paper 10 -->
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Self-Annotated Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095) (<span style="color:red"><strong>Q1</strong></span>)<br>
+<span style="color:black;font-family:Georgia">
+	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad shah</font>
+</span>
+<br>
+	<span style="color:black;font-family:Georgia">
+		<font size="3"><strong>Journal: </strong><em>Natural Language Processing</em></font> ([Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-engineering))
+	</span>
+<br>
+[<a style="color:red;" href="#" onclick="$('#nlp_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CE2E2FE7EC596AB6E0C528E995214095/S2977042424000116a.pdf/ben-sarc-a-self-annotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation.pdf)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://github.com/sanzanalora/Ben-Sarc)] [<a style="color:red;" href="#" onclick="$('#nlp_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+
+<div id="nlp_bib" class="bib" style="display:none;">
+	<pre>
+		@article{Lora_Shahariar_Nazmin_Rahman_Rahman_Bhuiyan_Shah_2024, 
+			title={Ben-Sarc: A self-annotated corpus for sarcasm detection from Bengali social media comments and its baseline evaluation}, 
+			DOI={10.1017/nlp.2024.11}, 
+			journal={Natural Language Processing}, 
+			author={Lora, Sanzana Karim and Shahariar, G. M. and Nazmin, Tamanna and Rahman, Noor Nafeur and Rahman, Rafsan and Bhuiyan, Miyad and Shah, Faisal Muhammad}, 
+			year={2024}, 
+			pages={1–26}
+		}
+	</pre>
+</div>
+
+<div id="nlp_abstract" class="abstract" style="display:none;">
+	<p style="text-align:justify; color:black;font-family:Monaco;"> 
+		<font size="3">
+			Sarcasm detection research in the Bengali language so far can be considered to be narrow due to the unavailability of resources. 
+			In this paper, we introduce a large-scale self-annotated Bengali corpus for sarcasm detection research problem in the Bengali 
+			language named ‘Ben-Sarc’ containing 25,636 comments, manually collected from different public Facebook pages and evaluated by 
+			external evaluators. Then we present a complete strategy to utilize different models of traditional machine learning, deep learning, 
+			and transfer learning to detect sarcasm from text using the Ben-Sarc corpus. Finally, we demonstrate a comparison between the 
+			performance of traditional machine learning, deep learning, and transfer learning models on our Ben-Sarc corpus. Transfer learning 
+			using Indic-Transformers Bengali Bidirectional Encoder Representations from Transformers as a pre-trained source model has achieved 
+			the highest accuracy of 75.05%. The second-highest accuracy is obtained by the long short-term memory model with 72.48% and Multinomial 
+			Naive Bayes is acquired the third highest with 72.36% accuracy for deep learning and machine learning, respectively. The Ben-Sarc corpus 
+			is made publicly available in the hope of advancing the Bengali Natural Language Processing Community.
+		</font>
+	</p>
+</div>
+
+
+## 2023
+---------
 
 
 <!-- Paper 09 -->
