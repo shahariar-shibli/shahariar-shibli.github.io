@@ -12,40 +12,49 @@ author_profile: true
 ---------
 
 <!-- Paper 04 -->
-📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation**</span>](https://www.researchgate.net/publication/357888683_Ben-Sarc_A_Corpus_for_Sarcasm_Detection_from_Bengali_Social_Media_Comments_and_Its_Baseline_Evaluation) (<span style="color:red"><strong>Q1</strong></span>)<br>
+📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Bengali Fake Reviews: A Benchmark Dataset and Detection System**</span>](https://www.sciencedirect.com/science/article/abs/pii/S0925231224005034) (<span style="color:red"><strong>Q1</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: Sanzana Karim Lora, <strong style="color:green">G. M. Shahariar</strong>, Tamanna Nazmin, Noor Nafeur Rahman, Rafsan Rahman, Miyad Bhuiyan, and Faisal Muhammad shah</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar*</strong>, Md. Tanvir Rouf Shawon*, Faisal Muhammad Shah, Mohammad Shafiul Alam, Md. Shahriar Mahbub</font>
 </span>
 <br>
 	<span style="color:black;font-family:Georgia">
-		<font size="3"><strong>Journal: </strong><em>Natural Language Engineering</em></font> ([Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering))
+		<font size="3"><strong>Journal: </strong><em>Neurocomputing</em></font> ([Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing))
 	</span>
 <br>
-[<a style="color:red;" href="#" onclick="$('#inreview_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://engrxiv.org/preprint/view/2102/4194)] [[<span style ="color:red"><font size="3">Dataset</font></span>](https://docs.google.com/spreadsheets/d/1paQG4X28R7kiV3zYN9Lwa3mJgouXZjqL/edit#gid=785602251)] [<a style="color:red;" href="#" onclick="$('#inreview_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
+[<a style="color:red;" href="#" onclick="$('#neucom_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2308.01987)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/shahariar-shibli/Bengali-Fake-Reviews-A-Benchmark-Dataset-and-Detection-System)] [<a style="color:red;" href="#" onclick="$('#neucom_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
 
-<div id="inreview_bib" class="bib" style="display:none;">
+<div id="neucom_bib" class="bib" style="display:none;">
 	<pre>
-		@article{loraben,
-		  title={Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation},
-		  author={Lora, Sanzana Karim and Shahariar, GM and Nazmin, Tamanna and Rahman, Noor Nafeur and Rahman, Rafsan and Bhuiyan, Miyad and others},
-		  publisher={Engineering Archive}
+		@article{SHAHARIAR2024127732,
+			title = {Bengali fake reviews: A benchmark dataset and detection system},
+			journal = {Neurocomputing},
+			volume = {592},
+			pages = {127732},
+			year = {2024},
+			issn = {0925-2312},
+			doi = {https://doi.org/10.1016/j.neucom.2024.127732},
+			url = {https://www.sciencedirect.com/science/article/pii/S0925231224005034},
+			author = {G M Shahariar and Md. Tanvir Rouf Shawon and Faisal Muhammad Shah and Mohammad Shafiul Alam and Md. Shahriar Mahbub},
+			keywords = {Bengali fake reviews detection, Ensemble learning, Transformers, Deep learning, Augmentation, Transliteration}
 		}
 	</pre>
 </div>
 
-<div id="inreview_abstract" class="abstract" style="display:none;">
+<div id="neucom_abstract" class="abstract" style="display:none;">
 	<p style="text-align:justify; color:black;font-family:Monaco;"> 
 		<font size="3">
-			Sarcasm detection research of the Bengali language so far can be considered to be narrow due to the unavailability of resources. 
-			In this paper, we introduce a large-scale self annotated Bengali corpus for sarcasm detection research problem in the Bengali 
-			language named 'Ben-Sarc' containing 25,636 comments, manually collected from different public Facebook pages and evaluated by external 
-			evaluators. Then we present a complete strategy to utilize different models of traditional machine learning, deep learning, and 
-			transfer learning to detect sarcasm from text using the Ben-Sarc corpus. Finally, we demonstrate a comparison between the performance 
-			of traditional machine learning, deep learning, and transfer learning models on our Ben-Sarc corpus. Transfer learning using 
-			Indic-Transformers Bengali BERT as a pre-trained source model has achieved the highest accuracy of 75.05%. The second highest 
-			accuracy is obtained by the LSTM model with 72.48% and Multinomial Naive Bayes is acquired the third highest with 72.36% accuracy 
-			for deep learning and machine learning, respectively. The Ben-Sarc corpus is made publicly available in the hope of advancing 
-			the Bengali Natural Language Processing community.
+			The proliferation of fake reviews on various online platforms has created a major concern for both consumers and businesses. 
+			Such reviews can deceive customers and cause damage to the reputation of products or services, making it crucial to identify them. 
+			Although the detection of fake reviews has been extensively studied in English language, detecting fake reviews in non-English 
+			languages such as Bengali is still a relatively unexplored research area. The novelty of this study unfolds on three fronts: (i) a 
+			new publicly available dataset called Bengali Fake Review Detection (BFRD) dataset is introduced, (ii) a unique pipeline has been 
+			proposed that translates English words to their corresponding Bengali meaning and also back transliterates Romanized Bengali to 
+			Bengali, (iii) a weighted ensemble model that combines four pre-trained transformers model is proposed. The developed dataset 
+			consists of 7710 non-fake and 1339 fake food-related reviews collected from social media posts. Rigorous experiments have been 
+			conducted to compare multiple deep learning and pre-trained transformer language models and our proposed model to identify the 
+			best-performing model. According to the experimental results, the proposed ensemble model attained a weighted F1-score of 0.9843 
+			on a dataset of 13,390 reviews, comprising 1339 actual fake reviews, 5,356 augmented fake reviews, and 6695 reviews randomly 
+			selected from the 7710 non-fake instances.
 		</font>
 	</p>
 </div>
