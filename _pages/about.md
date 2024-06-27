@@ -22,7 +22,7 @@ My research works are intended to tackle low resource NLP, covering areas like <
 and <em>interpretability of language models</em>. I have utilized cutting-edge techniques like <em>generative</em> and 
 <em>contrastive learning</em> to improve language generation and <em>representation learning</em> for low resource language. 
 Additionally, I have applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am investigating bias, fairness and adversarial robustness in PLMs and LLMs.
-<span style="color:red;">I am open to the possibility of collaboration. Feel free to email.</span>
+<span style="color:green;"><em>I am open to the possibility of collaboration. Feel free to email.</em></span>
 </p>
 
 
