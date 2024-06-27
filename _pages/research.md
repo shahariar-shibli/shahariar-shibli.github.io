@@ -65,7 +65,7 @@ from being misled by false narratives.
 </p>
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Tackling Fake News in Bengali: Unraveling the Impact of Summarization vs. Augmentation on Pre-trained Language Models</span>. AS Chowdhury, GM Shahariar, AT Aziz, SM Alam, MA Sheikh, TA Belal. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2307.06979.pdf)</span>
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span>. GM Shahariar, MTR Shawon, FM Shah, MS Alam, MS Mahbub. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2308.01987.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Bengali Fake Reviews: A Benchmark Dataset and Detection System</span>. GM Shahariar, MTR Shawon, FM Shah, MS Alam, MS Mahbub. <em>Neurocomputing</em>. [[PDF]](https://arxiv.org/pdf/2308.01987.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Bengali Fake Review Detection using Semi-supervised Generative Adversarial Networks</span>. MTR Shawon, GM Shahariar, FM Shah, MS Alam, MS Mahbub. <em>ICNLP 2023</em>. [[PDF]](https://arxiv.org/ftp/arxiv/papers/2304/2304.02739.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Spam Review Detection Using Deep Learning</span>. GM Shahariar, S Biswas, F Omar, FM Shah, SB Hassan. <em>IEMCON 2019</em>. [[PDF]](https://arxiv.org/pdf/2211.01675.pdf)</span>
 
@@ -144,7 +144,7 @@ of study for both computational and cognitive linguistics, and its automatic ide
 and generation are essential for any NLP application that deals with semantics.
 </p>
 ### Related Paper:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A Corpus for Sarcasm Detection from Bengali Social Media Comments and Its Baseline Evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. <em>Natural Language Engineering</em>. [[PDF]](https://engrxiv.org/preprint/view/2102/4194)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Ben-Sarc: A self-annotated corpus for sarcasm detection from Bengali social media comments and its baseline evaluation</span>. SK Lora, GM Shahariar, T Nazmin, NN Rahman, R Rahman, M Bhuiyan, FM Shah. <em>Natural Language Processing</em>. [[PDF]](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095)</span>
 
 ## 10. Text Normalization
 <p style="text-align:justify; color:black; font-family:Georgia">
@@ -177,7 +177,7 @@ healthcare, where the reasoning behind a diagnosis can be as crucial as the diag
 </p>
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Cost-Sensitive Deep Neural Networks for Brain Tumor Detection from Brain MRI Images considering Data Imbalance</span>. MTR Shawon, GMS Shibli, F Ahmed, SKS Joy. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2308.00608.pdf)</span>
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span>. A Mustari, R Ahmed, A Tasnim, JS Juthi and GM Shahariar. <span style="color:green;"><em>Accepted</em></span>. [[PDF]](https://arxiv.org/pdf/2402.15905.pdf)</span>
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Explainable Contrastive and Cost-Sensitive Learning for Cervical Cancer Classification</span>. A Mustari, R Ahmed, A Tasnim, JS Juthi and GM Shahariar. <em>ICCIT 2023</em>. [[PDF]](https://arxiv.org/pdf/2402.15905.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gastrointestinal Disease Classification through Explainable and Cost-sensitive Deep Neural Networks with Supervised Contrastive Learning</span>. D Nath and GM Shahariar. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2307.07603.pdf)</span>
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Evaluating the Reliability of CNN Models on Classifying Traffic and Road Signs using LIME</span>. MA Rahman, AS Tanim, S Islam, F Pranto, GM Shahariar, MTR Shawon. <em>BIM 2023</em>. [[PDF]](https://arxiv.org/pdf/2309.05747.pdf)</span>
 
