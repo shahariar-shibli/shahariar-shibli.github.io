@@ -16,15 +16,16 @@ I am currently working in the Natural Language Processing group at UCR and very 
 At present, I am investigating bias, fairness and safety in LLMs and Text-to-Image (T2I) generation models. </p>
 
 
-<p>Prior to that I worked as a Lecturer at the Department of CSE, Ahsanullah University of Science and Technology. I obtained my Bachelor's degree in CSE from the same university. 
-My career aspiration is to work in leading AI research laboratories. <span style="color:green;"><em>I am open to the possibility of collaboration. Feel free to email.</em></p>
+<p style="text-align:justify;color:black; font-family:Georgia">
+Prior to that I worked as a Lecturer at the Department of CSE, Ahsanullah University of Science and Technology. I obtained my Bachelor's degree in CSE from the same university. 
+My career aspiration is to work in leading AI research laboratories. <span style="color:green;"><em>I am open to the possibility of collaboration. Feel free to email.</em></span></p>
 
 
 <p style="text-align:justify;color:black; font-family:Georgia">
 My past research works were intended to tackle low resource NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
 and <em>interpretability of language models</em>. I had utilized cutting-edge techniques like <em>generative</em> and 
 <em>contrastive learning</em> to improve language generation and <em>representation learning</em> for low resource language. 
-Additionally, I had applied natural language processing in specific <em>software engineering (SE)</em> tasks.</span>
+Additionally, I had applied natural language processing in specific <em>software engineering (SE)</em> tasks.
 </p>
 
 
