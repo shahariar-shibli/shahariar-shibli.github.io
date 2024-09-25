@@ -6,17 +6,17 @@ title: ""
 
 > <p>"When one teaches, two learn" <br> &nbsp;&nbsp;&nbsp; ― Robert A. Heinlein</p>
  
+## Past Positions
 
-## Current Position
 <!-- Senior Lecturer -->
 <span style="font-family:Trebuchet MS; color:black;">
 <span style="color:#6E2C00">Lecturer (Grade-I)</span><br/>
 [Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
 [Ahsanullah University of Science and Technology](https://aust.edu/)<br/>
-<span style="color:#6E2C00"><em>October 2021 - Present</em></span>
+<span style="color:#6E2C00"><em>October 2021 - August 2024</em></span>
 </span>
 
-## Past Positions
+
 <!-- Lecturer -->
 + <span style="font-family:Trebuchet MS; color:black;">
 <span style="color:#6E2C00">Lecturer (Grade-II)</span><br/>
