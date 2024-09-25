@@ -10,23 +10,26 @@ redirect_from:
 
 <span style="color:black; font-family:Georgia">Greetings! 👽</span>
 
-<p style="text-align:justify; color:black; font-family:Georgia">I am  G M Shahariar Shibli (<button onclick="playMusic()" style='font-size:16px'>pronounce <i class='fas fa-volume-up'></i></button>), currently working as 
-a <a href="https://aust.edu/cse/faculty_member/mr_g_m_shahariar">Lecturer (Grade-I)</a> at the Department of CSE, 
-<a href="https://aust.edu/">Ahsanullah University of Science and Technology</a>. I obtained my Bachelor's degree in Computer Science and 
-Engineering from the same university. My career aspiration is to work in leading AI research laboratories. I am an incoming Ph.D. student in Fall 2024. More information soon!
-</p>
+<p style="text-align:justify; color:black; font-family:Georgia">I am  G M Shahariar Shibli (<button onclick="playMusic()" style='font-size:16px'>pronounce <i class='fas fa-volume-up'></i></button>), a 
+first year PhD Student in the Computer Science and Engineering department at the <a href="https://www1.cs.ucr.edu/">University of California, Riverside</a>. 
+I am currently working in the Natural Language Processing group at UCR and very fortunate to be advised by <a href="https://yuedong.us/">Professor Yue Dong</a>. 
+At present, I am investigating bias, fairness and adversarial robustness in LLMs and Text-to-Image (T2I) generation models.
+
+
+Prior to that I worked as a Lecturer at the Department of CSE, Ahsanullah University of Science and Technology. I obtained my Bachelor's degree in CSE from the same university. 
+My career aspiration is to work in leading AI research laboratories. <span style="color:green;"><em>I am open to the possibility of collaboration. Feel free to email.</em></p>
 
 
 <p style="text-align:justify;color:black; font-family:Georgia">
-My research works are intended to tackle low resource NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
-and <em>interpretability of language models</em>. I have utilized cutting-edge techniques like <em>generative</em> and 
+My past research works were intended to tackle low resource NLP, covering areas like <em>natural language generation</em>, <em>summarization</em>, <em>question answering (QA)</em>, 
+and <em>interpretability of language models</em>. I had utilized cutting-edge techniques like <em>generative</em> and 
 <em>contrastive learning</em> to improve language generation and <em>representation learning</em> for low resource language. 
-Additionally, I have applied natural language processing in specific <em>software engineering (SE)</em> tasks. At present, I am investigating bias, fairness and adversarial robustness in PLMs and LLMs.
-<span style="color:green;"><em>I am open to the possibility of collaboration. Feel free to email.</em></span>
+Additionally, I had applied natural language processing in specific <em>software engineering (SE)</em> tasks.</span>
 </p>
 
 
 ## Recent News ⚡
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September 2024]</span> [Adversarial Attack on POS Tags in T2I models](https://arxiv.org/pdf/2409.15381) got accepted in [EMNLP 2024 findings](https://2024.emnlp.org/)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> [Ben-Sarc](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095) published in [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[April 2024]</span> [BFRD](https://www.sciencedirect.com/science/article/abs/pii/S0925231224005034) published in [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[January 2024]</span> [Noise Reduction Methods on Noisy Bengali Texts](https://arxiv.org/pdf/2401.14360.pdf) got accepted in [W-NUT 2024](https://noisy-text.github.io/2024/) collocated with [EACL 2024](https://2024.eacl.org/)!</span>
