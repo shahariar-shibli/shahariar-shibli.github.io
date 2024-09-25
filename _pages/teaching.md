@@ -9,7 +9,7 @@ title: ""
 ## Past Positions
 
 <!-- Senior Lecturer -->
-<span style="font-family:Trebuchet MS; color:black;">
++ <span style="font-family:Trebuchet MS; color:black;">
 <span style="color:#6E2C00">Lecturer (Grade-I)</span><br/>
 [Department of Computer Science and Engineering](https://aust.edu/cse)<br/>
 [Ahsanullah University of Science and Technology](https://aust.edu/)<br/>
