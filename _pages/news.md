@@ -7,6 +7,10 @@ author_profile: true
 
 # 2024
 
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September]</span> -  Our paper [Adversarial Attack on POS Tags in T2I models](https://arxiv.org/pdf/2409.15381) got accepted in [EMNLP 2024 findings](https://2024.emnlp.org/)!! <span style="color:red;">[Core A* conference]</span></span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September]</span> - Worked as a <span style="color:red;">Reviewer</span> of [IEEE Access](https://ieeeaccess.ieee.org/). <span style="color:red;">[IEEE Q1 journal]</span></span>
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[September]</span> -  I have started my CS PhD journey at the [University of California, Riverside](https://www1.cs.ucr.edu/)!
++ <span style="font-family:Monaco; color:black;"><span style="color:brown">[August]</span> -  I left my job at [AUST](https://aust.edu/)!
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> -  Our paper [Ben-Sarc](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095) published in [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing)! <span style="color:red;">[Cambridge Q1 journal]</span></span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> - Worked as a <span style="color:red;">Reviewer</span> of [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing). <span style="color:red;">[Elsevier Q1 journal]</span></span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May]</span> - Worked as a <span style="color:red;">Reviewer</span> of [Telematics and Informatics](https://www.sciencedirect.com/journal/telematics-and-informatics). <span style="color:red;">[Elsevier Q1 journal]</span></span>
