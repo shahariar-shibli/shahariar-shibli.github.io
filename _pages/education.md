@@ -4,13 +4,14 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-<!-- M.Sc. 
-<span style="color:black; font-size:20px"><b><a href="https://cse.buet.ac.bd/" target="_blank">Bangladesh University of Engineering and Technology</a></b></span><br/>
-Master of Science (M.Sc.) in Computer Science and Engineering <br/>
-Duration: 2021 - present <br/>
-CGPA: <b>3.83/4.00</b> scale <br/>
-Supervisor: <a style="color:brown;" href="https://cse.buet.ac.bd/faculty_list/detail/rifat">Dr. Rifat Shahriyar</a><br/>
--->
+<!-- PhD -->
+<span style="font-family:Georgia; color:black;">
+<span style="color:black; font-size:20px"><b><a href="https://www1.cs.ucr.edu/" target="_blank">University of California, Riverside</a></b></span><br/>
+Doctor of Philosophy (Ph.D.) in Computer Science and Engineering <br/>
+Duration: 2024 - present <br/>
+<!--CGPA: <b>x.xx/4.00</b> scale <br/> -->
+Supervisor: <a style="color:brown;" href="https://profiles.ucr.edu/app/home/profile/yued">Dr. Yue Dong</a><br/>
+</span>
 
 <!-- B.Sc. -->
 <span style="font-family:Georgia; color:black;">
@@ -39,6 +40,7 @@ GPA: <b>5.00/5.00</b> scale <br/>
 
 ## Awards
 <span style="font-family:Georgia; color:black">
+🏆 <span style="color:brown">Dean's Distinguished Fellowship Award</span>, University of California, Riverside, 2024 <br/>
 🏆 <span style="color:brown">Prime Minister Gold Medal</span>, University Grants Commission of Bangladesh, 26 February, 2020 <br/>
 🏆 <span style="color:brown">Khan Bahadur Ahsanullah Medal</span>, Ahsanullah University of Science and Technology, 24 July, 2023 <br/>
 🏆 <span style="color:brown">Best Paper Award</span>, 2023 International Conference on Electrical, Computer and Communication Engineering (ECCE) <br/>
