@@ -25,11 +25,10 @@ colleagues, I have worked with researchers from various institutes. Notable coll
 had the privilege of working with <a href="https://cse.iutoic-dhaka.edu/profile/hasanul">Dr. Md. Hasanul Kabir</a> (IUT) on a Bengali toxic 
 comments classification paper that received the best paper award in ECCE 2023. Additionally, 
 <a href="https://cse.iutoic-dhaka.edu/profile/hasan/education">Dr. Hasan Mahmud</a> (IUT) and I collaborated on two papers related to the 
-semi-supervised recipe genre categorization task. Currently, I am actively engaged with 
-<a href="http://rifatshahriyar.github.io/">Dr. Rifat Shahriyar</a> (BUET) in exploring knowledge augmentation for open 
-domain question answering. Moreover, I have made significant contributions to a funded project involving 
+semi-supervised recipe genre categorization task. Moreover, I have made significant contributions to a funded project involving 
 <a href="https://www.aust.edu/cse/faculty_member/dr_md_shahriar_mahbub">Dr. Md. Shahriar Mahbub</a> (AUST), co-authoring one paper and being the first 
-author on another, focused on Bengali fake review dataset preparation and benchmark classification systems development.
+author on another, focused on Bengali fake review dataset preparation and benchmark classification systems development. Currently, I am actively working with 
+a few undergraduate students on their research projects. 
 </p>
 
 ## Reviewer
@@ -38,7 +37,8 @@ author on another, focused on Bengali fake review dataset preparation and benchm
 + [Telematics and Informatics](https://www.sciencedirect.com/journal/telematics-and-informatics) [[Certificate](https://shahariar-shibli.github.io/files/Reviewer/Certificate_TELE_Recognised.pdf)]
 + [Expert Systems with Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications) [[Certificate](https://shahariar-shibli.github.io/files/Reviewer/Certificate_ESWA_Recognised.pdf)]
 + [International Journal of Human-Computer Interaction](https://www.tandfonline.com/loi/hihc20)
-+ [EMNLP 2023](https://2023.emnlp.org/)<br/>
++ [EMNLP 2023](https://2023.emnlp.org/)
++ [IEEE Access](https://ieeeaccess.ieee.org/)
 
 
 ## Competitive Programming
