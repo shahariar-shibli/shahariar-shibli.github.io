@@ -7,8 +7,9 @@ author_profile: true
 <!-- PhD -->
 <span style="font-family:Georgia; color:black;">
 <span style="color:black; font-size:20px"><b><a href="https://www1.cs.ucr.edu/" target="_blank">University of California, Riverside</a></b></span><br/>
-Doctor of Philosophy (Ph.D.) in Computer Science and Engineering <br/>
-Duration: 2024 - present <br/>
+Doctor of Philosophy (Ph.D.) <br/>
+Computer Science and Engineering <br/>
+Duration: 2024 - ongoing <br/>
 <!--CGPA: <b>x.xx/4.00</b> scale <br/> -->
 Supervisor: <a style="color:brown;" href="https://profiles.ucr.edu/app/home/profile/yued">Dr. Yue Dong</a><br/>
 </span>
