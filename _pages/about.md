@@ -13,10 +13,10 @@ redirect_from:
 <p style="text-align:justify; color:black; font-family:Georgia">I am  G M Shahariar Shibli (<button onclick="playMusic()" style='font-size:16px'>pronounce <i class='fas fa-volume-up'></i></button>), a 
 first year PhD Student in the Computer Science and Engineering department at the <a href="https://www1.cs.ucr.edu/">University of California, Riverside</a>. 
 I am currently working in the Natural Language Processing group at UCR and very fortunate to be advised by <a href="https://yuedong.us/">Professor Yue Dong</a>. 
-At present, I am investigating bias, fairness and adversarial robustness in LLMs and Text-to-Image (T2I) generation models.
+At present, I am investigating bias, fairness and safety in LLMs and Text-to-Image (T2I) generation models. </p>
 
 
-Prior to that I worked as a Lecturer at the Department of CSE, Ahsanullah University of Science and Technology. I obtained my Bachelor's degree in CSE from the same university. 
+<p>Prior to that I worked as a Lecturer at the Department of CSE, Ahsanullah University of Science and Technology. I obtained my Bachelor's degree in CSE from the same university. 
 My career aspiration is to work in leading AI research laboratories. <span style="color:green;"><em>I am open to the possibility of collaboration. Feel free to email.</em></p>
 
 
@@ -29,6 +29,7 @@ Additionally, I had applied natural language processing in specific <em>software
 
 
 ## Recent News ⚡
+
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[September 2024]</span> [Adversarial Attack on POS Tags in T2I models](https://arxiv.org/pdf/2409.15381) got accepted in [EMNLP 2024 findings](https://2024.emnlp.org/)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[May 2024]</span> [Ben-Sarc](https://www.cambridge.org/core/journals/natural-language-processing/article/bensarc-a-selfannotated-corpus-for-sarcasm-detection-from-bengali-social-media-comments-and-its-baseline-evaluation/CE2E2FE7EC596AB6E0C528E995214095) published in [Natural Language Processing](https://www.cambridge.org/core/journals/natural-language-processing)!</span>
 + <span style="font-family:Monaco; color:black;"><span style="color:brown">[April 2024]</span> [BFRD](https://www.sciencedirect.com/science/article/abs/pii/S0925231224005034) published in [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)!</span>
