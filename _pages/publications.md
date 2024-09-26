@@ -112,7 +112,7 @@ author_profile: true
 </span>
 <br>
 	<span style="color:black;font-family:Georgia">
-		<font size="3"><strong>Workshop: </strong><em>Proceedings of the Ninth Workshop on Noisy and User-generated Text collocated with EACL 2024</em></font> ([(W-NUT 2024)](https://noisy-text.github.io/2024/))
+		<font size="3"><strong>Workshop: </strong><em>Proceedings of the Ninth Workshop on Noisy and User-generated Text collocated with EACL 2024</em></font> ([W-NUT 2024](https://noisy-text.github.io/2024/))
 	</span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#wnut_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://aclanthology.org/2024.wnut-1.5.pdf)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/shahariar-shibli/A-Comparative-Analysis-of-Noise-Reduction-Methods-in-Sentiment-Analysis-on-Noisy-Bangla-Texts)] [[<span style ="color:red"><font size="3">Presentation</font></span>](https://shahariar-shibli.github.io/files/WNUT2024/NC-SentNoB.pptx)] [<a style="color:red;" href="#" onclick="$('#wnut_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
