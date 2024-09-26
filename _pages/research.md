@@ -21,10 +21,10 @@ content from textual prompts. Recent research shows that T2I models are vulnerab
 in text prompts, such as inserting nonsensical words, phrases, or irrelevant characters, which can significantly 
 bias the generated images. However, current adversarial attacks on T2I generation models, either manual 
 heuristic-based methods or automatic gradient-based approaches are specifically targeting entities or objects 
-(i.e., nouns) in text prompts, neglecting other parts of speech. Therefore, we aim to answer the following two research questions: <br/>
+(i.e., nouns) in text prompts, neglecting other parts of speech. Therefore, we aim to answer the following two research questions: <br/><br/>
 
-<strong>Q1</strong>: Do adversarial attacks, particularly gradient-based attacks on T2I models, behave similarly when targeting different POS tag categories? <br/>
-<strong>Q2</strong>: Are there common or distinct features relevant to attack success rates (ASR) when targeting different POS tag categories under adversarial attacks?
+<em><strong>Q1</strong>: Do adversarial attacks, particularly gradient-based attacks on T2I models, behave similarly when targeting different POS tag categories?</em> <br/><br/>
+<em><strong>Q2</strong>: Are there common or distinct features relevant to attack success rates (ASR) when targeting different POS tag categories under adversarial attacks?</em>
 </p>
 
 ### Related Paper:
