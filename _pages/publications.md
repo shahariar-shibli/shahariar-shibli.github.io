@@ -14,7 +14,7 @@ author_profile: true
 <!-- Paper 05 -->
 📌 [<span style="color:Blue;font-family:Trebuchet MS;">**Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation**</span>](https://arxiv.org/pdf/2409.15381) (<span style="color:red"><strong>Core A*</strong></span>)<br>
 <span style="color:black;font-family:Georgia">
-	<font size="3"><strong>Authors</strong>: <strong style="color:green">G. M. Shahariar</strong>, Jia Chen, Jiachen Li, Yue Dong</font>
+	<font size="3"><strong>Authors</strong>: <strong style="color:green">G M Shahariar</strong>, Jia Chen, Jiachen Li, Yue Dong</font>
 </span>
 <br>
 	<span style="color:black;font-family:Georgia">
