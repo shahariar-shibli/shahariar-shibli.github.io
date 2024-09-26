@@ -12,7 +12,12 @@ are listed below.
 </p>
 
 ## 1. AI Safety
+<p style="text-align:justify; color:black; font-family:Georgia">
 
+</p>
+
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation</span>. G M Shahariar, Jia Chen, Jiachen Li, Yue Dong. <span style="color:green;"><em>EMNLP 2024 Findings</em></span>. [[PDF]](https://arxiv.org/pdf/2409.15381)</span>
 
 ## 2. Robust NLP
 <p style="text-align:justify; color:black; font-family:Georgia">
