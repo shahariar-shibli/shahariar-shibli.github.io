@@ -11,9 +11,20 @@ fields in my research endeavors. Some of the research areas I have worked on or 
 are listed below.
 </p>
 
-## 1. AI Safety
+## 1. AI Safety on T2I
 <p style="text-align:justify; color:black; font-family:Georgia">
+Text-to-Image (T2I) generation models such as Stable Diffusion, DALL-E2, Imagen, and ediff-i have made 
+steady progress in the field of image generation by bridging the semantic gap between textual descriptions 
+and visual representations. Unlike traditional methods reliant solely on pixel manipulation, 
+these models leverage multi-model alignments in latent spaces to interpret and synthesize complex visual 
+content from textual prompts. Recent research shows that T2I models are vulnerable to adversarial perturbations 
+in text prompts, such as inserting nonsensical words, phrases, or irrelevant characters, which can significantly 
+bias the generated images. However, current adversarial attacks on T2I generation models, either manual 
+heuristic-based methods or automatic gradient-based approaches are specifically targeting entities or objects 
+(i.e., nouns) in text prompts, neglecting other parts of speech. Therefore, we aim to answer the following two research questions: <br/>
 
+<strong>Q1</strong>: Do adversarial attacks, particularly gradient-based attacks on T2I models, behave similarly when targeting different POS tag categories? <br/>
+<strong>Q2</strong>: Are there common or distinct features relevant to attack success rates (ASR) when targeting different POS tag categories under adversarial attacks?
 </p>
 
 ### Related Paper:
