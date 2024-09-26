@@ -18,7 +18,7 @@ author_profile: true
 </span>
 <br>
 	<span style="color:black;font-family:Georgia">
-		<font size="3"><strong>Journal: </strong><em>EMNLP Findings</em></font> ([EMNLP 2024](https://2024.emnlp.org/)
+		<font size="3"><strong>Journal: </strong><em>EMNLP Findings</em></font> ([EMNLP 2024](https://2024.emnlp.org/))
 	</span>
 <br>
 [<a style="color:red;" href="#" onclick="$('#emnlp_abstract').toggle();return false;"><font size="3">Abstract</font></a>] [[<span style ="color:red"><font size="3">PDF</font></span>](https://arxiv.org/pdf/2409.15381)] [[<span style ="color:red"><font size="3">Code & Dataset</font></span>](https://github.com/shahariar-shibli/Adversarial-Attack-on-POS-Tags)] [<a style="color:red;" href="#" onclick="$('#emnlp_bib').toggle();return false;"><font size="3">Citation bib</font></a>] 
