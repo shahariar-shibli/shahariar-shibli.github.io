@@ -30,7 +30,21 @@ heuristic-based methods or automatic gradient-based approaches are specifically 
 ### Related Paper:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Adversarial Attacks on Parts of Speech: An Empirical Study in Text-to-Image Generation</span>. G M Shahariar, Jia Chen, Jiachen Li, Yue Dong. <span style="color:green;"><em>EMNLP 2024 Findings</em></span>. [[PDF]](https://arxiv.org/pdf/2409.15381)</span>
 
-## 2. Robust NLP
+## 2. Bias & Fairness
+<p style="text-align:justify; color:black; font-family:Georgia">
+The majority of AI systems and algorithms are data-driven and require data to be trained on. If the 
+underlying training data has biases, the algorithms trained on it will learn about them and incorporate 
+them into their predictions. As a result, existing biases in data might alter the algorithms that use the 
+data, resulting in biased results. This can have significant implications, such as perpetuating 
+discrimination or unfair treatment based on factors like race, gender, or socioeconomic status. 
+To mitigate these issues, it is crucial to implement techniques such as bias detection and fairness-aware 
+machine learning. Ongoing work involves investigating gender biases in low resource pre-trained language models 
+aiming to promote fairness in AI outcomes.
+</p>
+### Related Paper:
++ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gender Bias Mitigation for Bangla Classification Tasks</span>. Sajib Kumar Saha Joy, Arman Hassan Mahy, Meherin Sultana, Azizah Mamun Abha, MD Piyal Ahmmed, Yue Dong, G M Shahariar. <span style="color:green;"><em>Under Review</em></span>. [[PDF]](https://arxiv.org/pdf/2411.10636)</span>
+
+## 3. Robust NLP
 <p style="text-align:justify; color:black; font-family:Georgia">
 Recent research indicates that numerous natural language processing (NLP) systems exhibit sensitivity and 
 susceptibility to minor input alterations, adversarial attacks, etc. leading to challenges in 
@@ -41,7 +55,7 @@ aiming to improve generalization.
 ### Ongoing Work:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Robustness Evaluation of Pre-trained Bengali Language Models through Adversarial Attacks</span>.</span>
 
-## 3. Trustworthy NLP
+## 4. Trustworthy NLP
 <p style="text-align:justify; color:black; font-family:Georgia">
 Trustworthy NLP refers to natural language processing systems that exhibit a high level of reliability, accuracy, 
 and credibility in their output. In the context of hallucination mitigation and factual error correction 
@@ -55,20 +69,6 @@ provide users with more reliable and accurate summaries while maintaining a high
 </p>
 ### Ongoing Work:
 + <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Towards Reliable Bengali Abstractive Summarization: Hallucination Mitigation and Factual Error Correction</span>.</span>
-
-## 4. Bias & Fairness
-<p style="text-align:justify; color:black; font-family:Georgia">
-The majority of AI systems and algorithms are data-driven and require data to be trained on. If the 
-underlying training data has biases, the algorithms trained on it will learn about them and incorporate 
-them into their predictions. As a result, existing biases in data might alter the algorithms that use the 
-data, resulting in biased results. This can have significant implications, such as perpetuating 
-discrimination or unfair treatment based on factors like race, gender, or socioeconomic status. 
-To mitigate these issues, it is crucial to implement techniques such as bias detection and fairness-aware 
-machine learning. Ongoing work involves investigating gender biases in low resource pre-trained language models 
-aiming to promote fairness in AI outcomes.
-</p>
-### Ongoing Work:
-+ <span style="font-family:Trebuchet MS; color:black;"><span style="color:#6E2C00">Gender Bias in Pre-trained Bengali Language Models</span>.</span>
 
 ## 5. Misinformation Detection
 <p style="text-align:justify; color:black; font-family:Georgia">
