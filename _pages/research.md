@@ -37,8 +37,8 @@ underlying training data has biases, the algorithms trained on it will learn abo
 them into their predictions. As a result, existing biases in data might alter the algorithms that use the 
 data, resulting in biased results. This can have significant implications, such as perpetuating 
 discrimination or unfair treatment based on factors like race, gender, or socioeconomic status. 
-To mitigate these issues, it is crucial to implement techniques such as bias detection and fairness-aware 
-machine learning. Ongoing work involves investigating gender biases in low resource pre-trained language models 
+Therefore, it is crucial to develop bias mitigation techniques and incorporate fairness-aware 
+machine learning. Ongoing work involves mitigating gender biases in low resource pre-trained language models 
 aiming to promote fairness in AI outcomes.
 </p>
 ### Related Paper:
