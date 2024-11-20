@@ -39,6 +39,7 @@ a few undergraduate students on their research projects.
 + [International Journal of Human-Computer Interaction](https://www.tandfonline.com/loi/hihc20)
 + [EMNLP 2023](https://2023.emnlp.org/)
 + [IEEE Access](https://ieeeaccess.ieee.org/)
++ [NAACL 2025](https://2025.naacl.org/)
 
 
 ## Competitive Programming
